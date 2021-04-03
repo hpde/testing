@@ -5,7 +5,8 @@
   <ResourceHeader>
    <ResourceName>NASA Heliophysics Science Data Management Policy v. 1.2</ResourceName>
    <DOI>10.21978/P83P78</DOI>
-   <ReleaseDate>2021-04-02T00:00:00.04</ReleaseDate>
+   <ReleaseDate>2021-04-02T00:00:00.05</ReleaseDate>
+   <BadTag>This should break validation</BadTag>
    <Description>NASA Heliophysics document that provides guidance on all aspects of HP data, including what needs to go into a Program Data Management Plan, the structure and use of archives, required formats, and a description of the data registry, all in the context of the data lifecycle.</Description>
    <PublicationInfo>
       <Authors>NASA Heliophysics Division Director</Authors>
