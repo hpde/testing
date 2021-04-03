@@ -53,3 +53,7 @@ jobs:
           name: validate-log
           path: logs/validate.log
 
+      # Check if log contains any INVALID items
+        run: |
+          echo -n "Number of invalid files: "
+          echo grep -c "^ INVALID:" logs/validate.log
