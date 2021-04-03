@@ -25,10 +25,13 @@ jobs:
       - name: Find changed files
         uses: technote-space/get-diff-action@v4
         with:
-          PATTERNS: +**/*.xml
+          PATTERNS: |
+            **/*.xml
           SEPARATOR: ' '
 
-      - run: echo ${{ env.GIT_DIFF }}
+      - run: |
+          echo Changed files:
+          echo ${{ env.GIT_DIFF }}
 
       #- uses: actions/setup-node@v1
       #- run: npm install
