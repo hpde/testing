@@ -57,11 +57,14 @@ jobs:
       - name: Check for invalid items
         run: |
           echo -n "Number of invalid files: "
+          # Turn off exit code - we handle it differently
           set +e
           grep -c "^ INVALID:" logs/validate.log
           if [ `grep -c "^ INVALID:" logs/validate.log` -eq 0 ]; then
             echo "No FAILURE found: $?"
+            exit 0
           else
             echo "FAILURE found: $?"
+            exit 1
           fi
           set -e
