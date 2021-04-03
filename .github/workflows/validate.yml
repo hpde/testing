@@ -37,8 +37,11 @@ jobs:
       - run: npm install
       - name: Install SPASE-Resource-tools
         run: npm install -g spase-resource-tools
-      #  # Check only the source codes that have differences
-      #  run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-validate $f; done > logs/validate.log
+      # Check only the source codes that have differences
+        if: env.GIT_DIFF
+      - name: Validating files...
+        run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-validate $f; done > logs/validate.log
+      # run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-validate $f; done > logs/validate.log
       #  if: env.GIT_DIFF
       #- name: Download log artifacts
       #  uses: actions/upload-artifact@v1
