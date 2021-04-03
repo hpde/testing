@@ -59,4 +59,8 @@ jobs:
           echo -n "Number of invalid files: "
           grep -c "^ INVALID:" logs/validate.log
           grep -q "^ INVALID:" logs/validate.log
-          if [ $? -eq 0 ] then; echo "No FAILURE found: $?"; else echo "FAILURE found: $?"; fi
+          if $? ; then
+            echo "No FAILURE found: $?"
+          else
+             echo "FAILURE found: $?"
+          fi
