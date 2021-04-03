@@ -25,7 +25,7 @@ jobs:
       - name: Find changed files
         uses: technote-space/get-diff-action@v4
         with:
-          SUFFIX_FILTER: .xml    
+          PATTERNS: +**/*.xml
           SEPARATOR: ' '
 
       - run: echo ${{ env.GIT_DIFF }}
