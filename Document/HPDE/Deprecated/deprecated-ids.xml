@@ -5,7 +5,7 @@
     <ResourceID>spase://SMWG/Document/HPDE/Deprecated/deprecated-ids</ResourceID>
     <ResourceHeader>
       <ResourceName>Deprecated SPASE IDs which are no longer in use</ResourceName>
-			<ReleaseDate>2021-04-02T00:00:00.03</ReleaseDate>
+			<ReleaseDate>2021-04-02T00:00:00.04</ReleaseDate>
 			<Description>
 			The SPASE IDs listed  in this document are deprecated and are no longer in use.
 			In some cases the SPASE ID was assigned in error and in other cases the resource no longer exists.
