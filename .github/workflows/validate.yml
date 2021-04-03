@@ -55,12 +55,12 @@ jobs:
 
       # Check if log contains any INVALID items
       - name: Check for invalid items
+        continue-on-error: true
         run: |
           echo -n "Number of invalid files: "
           grep -c "^ INVALID:" logs/validate.log
-          # grep -q "^ INVALID:" logs/validate.log
-          if `grep -c "^ INVALID:" logs/validate.log` -eq 0 ; then
-            echo "No FAILURE found: $?"
+          if $? ; then
+            echo "FAILURE found: $?"
           else
-             echo "FAILURE found: $?"
+            echo "No FAILURE found: $?"
           fi
