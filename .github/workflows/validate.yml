@@ -40,7 +40,7 @@ jobs:
       # Check only the source codes that have differences
         if: env.GIT_DIFF
       - name: Validating files...
-        run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-validate $f; done > logs/validate.log
+        run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-validate $f; done
       # run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-validate $f; done > logs/validate.log
       #  if: env.GIT_DIFF
       #- name: Download log artifacts
