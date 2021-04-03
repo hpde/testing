@@ -58,7 +58,9 @@ jobs:
         continue-on-error: true
         run: |
           echo -n "Number of invalid files: "
+          set +e
           grep -c "^ INVALID:" logs/validate.log
+          set -e
           if $? ; then
             echo "FAILURE found: $?"
           else
