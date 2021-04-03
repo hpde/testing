@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Find changed files
-        uses: technote-space/get-diff-action@v2
+        uses: technote-space/get-diff-action@v4
         with:
           SUFFIX_FILTER: .xml    
           SEPARATOR: ' '
