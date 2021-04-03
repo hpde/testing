@@ -57,4 +57,4 @@ jobs:
       - name: Check for invalid items
         run: |
           echo -n "Number of invalid files: "
-          echo grep -c "^ INVALID:" logs/validate.log
+          grep -c "^ INVALID:" logs/validate.log
