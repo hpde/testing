@@ -42,13 +42,6 @@ jobs:
           mkdir -p logs
           echo "Nothing checked." > logs/validate.log
 
-      # Check if log contains any INVALID items
-      - name: Check for log file
-        run: |
-          if [ ! -f logs/validate.log ]; then
-            echo "Nothing checked." > logs/validate.log
-          fi
-
       # Check only the source codes that have differences
       # Check descriptions for schema conformance
         if: env.GIT_DIFF
@@ -59,7 +52,6 @@ jobs:
         if: env.GIT_DIFF
       - name: Referential checks ...
         run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-refcheck $f; done > logs/validate.log
-
 
       # Upload logs
         if: env.GIT_DIFF
