@@ -38,7 +38,9 @@ jobs:
 
       # Prepare for logs
       - name: Prepare Log directory
-        run: mkdir -p logs
+        run: |
+          mkdir -p logs
+          echo "Nothing checked." > logs/validate.log
 
       # Check only the source codes that have differences
       # Check descriptions for schema conformance
@@ -60,7 +62,6 @@ jobs:
           path: logs/validate.log
 
       # Check if log contains any INVALID items
-        if: ${{ -f logs/validate.log }}
       - name: Check for invalid items
         run: |
           echo -n "Number of invalid files: "
