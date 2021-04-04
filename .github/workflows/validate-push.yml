@@ -42,7 +42,7 @@ jobs:
 
       # Check only the source codes that have differences
       # Check descriptions for schema conformance
-       if: env.GIT_DIFF
+        if: env.GIT_DIFF
       - name: Schema compliance ...
         run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-validate $f; done > logs/validate.log
 
