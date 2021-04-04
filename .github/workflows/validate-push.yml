@@ -38,7 +38,7 @@ jobs:
 
       # Prepare for logs
       - name: Prepare Log directory
-        run: mkdir -p logs && touch $_/validate.log
+        run: mkdir -p logs
 
       # Check only the source codes that have differences
       # Check descriptions for schema conformance
