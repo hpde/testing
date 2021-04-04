@@ -53,6 +53,13 @@ jobs:
       - name: Referential checks ...
         run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-refcheck $f; done >> logs/validate.log
 
+      # Check if log contains any INVALID items
+      - name: Check for log file
+        run: |
+          if [ ! -f logs/validate.log ]; then
+            echo "Nothing checked." > logs/validate.log
+          fi
+
       # Upload logs
         if: env.GIT_DIFF
       - name: Upload log artifacts
@@ -68,13 +75,13 @@ jobs:
             set +e
             echo -n "Number of invalid files: "
             # Turn off exit code - we handle it differently
-          grep -c "^ INVALID:" logs/validate.log
-          if [ `grep -c "^ INVALID:" logs/validate.log` -eq 0 ]; then
-            echo "No FAILURE found: $?"
-            exit 0
-          else
-            echo "FAILURE found: $?"
-            exit 1
+            grep -c "^ INVALID:" logs/validate.log
+            if [ `grep -c "^ INVALID:" logs/validate.log` -eq 0 ]; then
+              echo "No FAILURE found: $?"
+              exit 0
+            else
+              echo "FAILURE found: $?"
+              exit 1
+            fi
+            set -e
           fi
-          fi
-          set -e
