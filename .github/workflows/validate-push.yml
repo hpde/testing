@@ -28,10 +28,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      # Prepare for logs
-      - name: Prepare Log directory
-        run: mkdir -p logs && touch $_/validate.log
-
       # Find files that have changed
       - name: Find changed files
         uses: technote-space/get-diff-action@v4
@@ -39,6 +35,10 @@ jobs:
           PATTERNS: |
             **/*.xml
           SEPARATOR: ' '
+
+      # Prepare for logs
+      - name: Prepare Log directory
+        run: mkdir -p logs && touch $_/validate.log
 
       # Check only the source codes that have differences
       # Check descriptions for schema conformance
