@@ -60,7 +60,7 @@ jobs:
           path: logs/validate.log
 
       # Check if log contains any INVALID items
-        if: ${{ test -f logs/validate.log }}
+        if: ${{ -f logs/validate.log }}
       - name: Check for invalid items
         run: |
           echo -n "Number of invalid files: "
