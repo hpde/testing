@@ -34,11 +34,11 @@ jobs:
 
       # Check descriptions for schema conformance
       - name: Schema compliance ...
-        spase-validate -r . > logs/validate.log
+        run: spase-validate -r . > logs/validate.log
 
       # Perform 
       - name: Referential checks ...
-        spase-refcheck -r . >> logs/validate.log
+        run: spase-refcheck -r . >> logs/validate.log
 
       # Upload logs
       - name: Upload log artifacts

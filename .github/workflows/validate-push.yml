@@ -45,7 +45,7 @@ jobs:
        if: env.GIT_DIFF
       - name: Schema compliance ...
         run: for f in $(echo ${{ env.GIT_DIFF }}); do spase-validate $f; done > logs/validate.log
-		
+
       # Perform referential checks
         if: env.GIT_DIFF
       - name: Referential checks ...
