@@ -18,9 +18,19 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      # Install spase-resource-tools
+      - uses: actions/setup-node@v1
+      - run: npm install
+      - name: Install SPASE-Resource-tools
+        run: npm install -g spase-resource-tools
+
        # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
         uses: actions/checkout@v2
+
+      # Prepare for logs
+      - name: Prepare Log directory
+        run: mkdir -p logs && touch $_/validate.log
 
       # Find files that have changed
       - name: Find changed files
@@ -29,16 +39,6 @@ jobs:
           PATTERNS: |
             **/*.xml
           SEPARATOR: ' '
-
-      # Install spase-resource-tools
-      - uses: actions/setup-node@v1
-      - run: npm install
-      - name: Install SPASE-Resource-tools
-        run: npm install -g spase-resource-tools
-
-      # Prepare for logs
-      - name: Prepare Log directory
-        run: mkdir -p logs && touch $_/validate.log
 
       # Check only the source codes that have differences
       # Check descriptions for schema conformance
