@@ -23,7 +23,7 @@ jobs:
       # Install spase-resource-tools
       - uses: actions/setup-node@v1
       - run: npm install
-       - name: Get current date
+      - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
      - name: Install SPASE-Resource-tools
