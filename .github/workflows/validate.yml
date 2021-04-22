@@ -87,7 +87,7 @@ jobs:
             ""
             For details see attachment.
           # comma-separated string, send email to
-          to: tking.igpp@gmail.com
+          to: ${{ secrets.EMAIL_TO }}
           # from email name
           from: HPDE Mailer
           # Attachements:
