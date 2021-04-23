@@ -43,7 +43,7 @@ jobs:
       - name: Schema compliance ...
         run: spase-validate -r . > logs/validate.log
 
-      # Perform 
+      # Check references
       - name: Referential checks ...
         run: spase-refcheck -r -u -i . >> logs/validate.log
 
