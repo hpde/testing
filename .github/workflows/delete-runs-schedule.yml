@@ -1,14 +1,11 @@
-name: Manual delete workflow runs
+name: Monthly delete workflow runs
 on:
-  workflow_dispatch:
-    inputs:
-      days:
-        description: 'Number of days.'
-        required: true
-        default: 1
+  schedule:
+    - cron: '0 0 1 * *'
+# Run monthly, at 00:00 on the 1st day of month.
 
 jobs:
-  delete_runs:
+  del_runs:
     runs-on: ubuntu-latest
     steps:
       - name: Delete workflow runs
@@ -16,4 +13,4 @@ jobs:
         with:
           token: ${{ secrets.AUTH_PAT }}
           repository: ${{ github.repository }}
-          retain_days: ${{ github.event.inputs.days }}
+          retain_days: 30
