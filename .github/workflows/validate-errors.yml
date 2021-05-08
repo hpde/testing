@@ -1,6 +1,6 @@
  # This is a basic workflow to help you get started with Actions
 
-name: SPASE Manual Validation
+name: SPASE Manual Errors Only Validation
 
 # Controls when the action will run. 
 # Triggers the workflow manually
@@ -43,14 +43,14 @@ jobs:
           echo "Repo: ${{ github.repository }}" > logs/validate.log
           echo "" >> logs/validate.log
           echo "Schema compliance ..." >> logs/validate.log
-          spase-validate -r . >> logs/validate.log
+          spase-validate -e -r . >> logs/validate.log
 
       # Check references
       - name: Referential checks ...
         run: |
           echo "" >> logs/validate.log
           echo "Referential checks ..." >> logs/validate.log
-          spase-refcheck -r -u -i . >> logs/validate.log
+          spase-refcheck -e -u -i -r . >> logs/validate.log
 
       # Upload logs
       - name: Upload log artifacts

@@ -6,7 +6,7 @@ name: SPASE Monthly Validation
 # Use cron to run on the first of the month.
 on:
   schedule:
-    - cron: "* * 1 * *"
+    - cron: "0 0 1 * *"
 # Triggers the workflow on push
 # on: push
 #  push:
@@ -23,7 +23,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Install spase-resource-tools
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v2
       - run: npm install
       - name: Get current date
         id: date
@@ -42,15 +42,17 @@ jobs:
       # Check descriptions for schema conformance
       - name: Schema compliance ...
         run: |
-          echo "Schema compliance ..." > logs/validate.log
-          spase-validate -r . >> logs/validate.log
+          echo "Repo: ${{ github.repository }}" > logs/validate.log
+          echo "" >> logs/validate.log
+          echo "Schema compliance ..." >> logs/validate.log
+          spase-validate -e -r . >> logs/validate.log
 
       # Check references
       - name: Referential checks ...
         run: |
           echo "" >> logs/validate.log
           echo "Referential checks ..." >> logs/validate.log
-          spase-refcheck -r -u -i . >> logs/validate.log
+          spase-refcheck -e -u -i -r . >> logs/validate.log
 
       # Upload logs
       - name: Upload log artifacts
