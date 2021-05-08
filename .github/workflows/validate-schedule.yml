@@ -23,7 +23,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Install spase-resource-tools
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v1
       - run: npm install
       - name: Get current date
         id: date
