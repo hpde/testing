@@ -83,3 +83,29 @@ jobs:
             fi
             set -e
           fi
+      - name: Send mail
+        # Define the following secrets for the repository: EMAIL_SERVER, EMAIL_USERNAME, EMAIL_PASSWORD, EMAIL_TO, EMAIL_LIST
+        if: always()
+        uses: dawidd6/action-send-mail@v2
+        with:
+          # mail server settings
+          server_address: ${{ secrets.EMAIL_SERVER }}
+          server_port: 465
+          # user credentials
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          # email subject
+          subject: ${{ steps.date.outputs.date }} ${{ github.repository }} push
+          # email body as text
+          body: |
+            Run date: ${{ steps.date.outputs.date }}
+            ${{ github.repository }} files added or updated:
+            ${{ env.GIT_DIFF }}
+            ""
+            For quality assurance details see attachment.
+          # comma-separated string, send email to
+          to: ${{ secrets.EMAIL_LIST }},${{ secrets.EMAIL_TO }}
+          # from email name
+          from: HPDE Mailer
+          # Attachements:
+          attachments: logs/validate.log
