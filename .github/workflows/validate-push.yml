@@ -89,6 +89,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2.1.0
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - name: Get changed files
         uses: jitterbit/get-changed-files@v1
         id: changed
@@ -112,9 +115,6 @@ jobs:
           body: |
             Run date ${{ steps.date.outputs.date }}
             ${{ github.repository }} files added or updated:
-            --
-            All
-            ${{ steps.changed.outputs.all }}
             --
             Added
             ${{ steps.changed.outputs.added }}
