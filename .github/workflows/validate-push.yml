@@ -96,7 +96,7 @@ jobs:
         uses: jitterbit/get-changed-files@v1
         id: changed
         with:
-          format: space-delimited
+          format: json
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Send mail
         # Define the following secrets for the repository: EMAIL_SERVER, EMAIL_USERNAME, EMAIL_PASSWORD, EMAIL_TO, EMAIL_LIST
@@ -115,6 +115,7 @@ jobs:
           body: |
             Run date ${{ steps.date.outputs.date }}
             ${{ github.repository }} files added or updated:
+            ${{ steps.changed.outputs }}
             --
             Added
             ${{ steps.changed.outputs.added }}
