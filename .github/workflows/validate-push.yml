@@ -115,13 +115,12 @@ jobs:
           body: |
             Run date ${{ steps.date.outputs.date }}
             ${{ github.repository }} files added or updated:
-            ${{ steps.changed.outputs }}
             --
             Added
             ${{ steps.changed.outputs.added }}
             --
             Removed
-            ${{ steps.cheanged.outputs.removed }}
+            ${{ steps.changed.outputs.removed }}
             --
             Renamed
             ${{ steps.changed.outputs.renamed }}
@@ -130,7 +129,7 @@ jobs:
             ${{ steps.changed.outputs.modified }}
             --
             Added+Modified:
-            ${{ steps.abc.outputs.added_modified }}
+            ${{ steps.changed.outputs.added_modified }}
           # comma-separated string, send email to
           to: ${{ secrets.EMAIL_LIST }},${{ secrets.EMAIL_TO }}
           # from email name
