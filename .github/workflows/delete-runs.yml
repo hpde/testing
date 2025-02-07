@@ -1,20 +1,13 @@
-name: Manual delete workflow runs
-on:
-  workflow_dispatch:
+name: call-delete-runs
+run-name: ${{ github.actor }} - calling centralized workflow run deletion
+on: 
+  workflow_call:
     inputs:
       days:
         description: 'Number of days.'
         required: true
         default: 1
-
 jobs:
-  delete_runs:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@main
-        with:
-          token: ${{ secrets.AUTH_PAT }}
-          repository: ${{ github.repository }}
-          retain_days: ${{ github.event.inputs.days }}
-          keep_minimum_runs: 0
+  reusable-delete-runs:
+    uses: hpde/spase-workflows/.github/workflows/delete-runs.yml@master
+    secrets: inherit
