@@ -1,11 +1,11 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_6_0.xsd">
-  <Version>2.7.0</Version>
+  <Version>2.6.0</Version>
   <NumericalData>
     <ResourceID>spase://NASA/NumericalData/MAVEN/InSitu/KeyParameter/PT4S</ResourceID>
     <ResourceHeader>
       <ResourceName>MAVEN (Multiple Instrument Ensemble) In-situ Observations, Data Product Bundle, Key Parameter (KP), 4 s Data</ResourceName>
       <DOI>https://doi.org/10.48322/p7yg-g215</DOI>
-      <ReleaseDate>2025-02-10T11:08:24Z</ReleaseDate>
+      <ReleaseDate>2025-02-28T15:21:06Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -16,8 +16,8 @@
           <Note>Added DOI and PublicationInfo minted by LFB, metadata versioned up to SPASE 2.6.0, reviewed by LFB 20230727</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-02-10T11:08:24Z</ReleaseDate>
-          <Note>Modified Funding Agency ZCB</Note>
+          <ReleaseDate>2025-02-28T15:21:06Z</ReleaseDate>
+          <Note>Modified Funding Agency and AwardNumber. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>The MAVEN In-situ Calibrated Level 2, L2, Science Data Bundle contains selected fully calibrated Data from the Neutral Gas and Ion Mass Spectrometer, NGIMS, Instrument and the Particles and Fields Package together with Ephemeris Information. The Particle and Fields In-situ Instrument Data are from the Extreme Ultraviolet, EUV, Langmuir Probe and Waves, LPW, Antenna, Magnetometer, MAG, Solar Energetic Particles, SEP, SupraThermal And Thermal Ion Composition, STATIC, Solar Wind Electron Analyzer, SWEA, and Solar Wind Ion Analyzer, SWIA, Instruments. All of these Data are in Physical Units and are averaged and/or sampled at a uniform 4 s Cadence. These In-situ Data are derived directly from the Level 2 Data. The Ephemeris Data are derived by using SPICE Libraries and Kernels provided by MAVEN Navigation, NAV, Team and Lockheed-Martin.</Description>

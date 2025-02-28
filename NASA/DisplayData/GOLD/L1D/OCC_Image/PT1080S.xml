@@ -1,18 +1,18 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema  http://www.spase-group.org/data/schema/spase-2_3_1.xsd">
-  <Version>2.7.0</Version>
+  <Version>2.3.1</Version>
   <DisplayData>
     <ResourceID>spase://NASA/DisplayData/GOLD/L1D/OCC_Image/PT1080S</ResourceID>
     <ResourceHeader>
       <ResourceName>Gold Level 1D 130 nm to 170 nm Occultation Plots</ResourceName>
-      <ReleaseDate>2025-02-07T14:58:11Z</ReleaseDate>
+      <ReleaseDate>2025-02-28T15:21:05Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-09-14T16:47:17Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-02-07T14:58:11Z</ReleaseDate>
-          <Note>Modified Funding Agency ZCB</Note>
+          <ReleaseDate>2025-02-28T15:21:05Z</ReleaseDate>
+          <Note>Modified Funding Agency and AwardNumber. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>The Level 1C Dayside Disk Images are interrupted via stored instrument commands when 
