@@ -4,14 +4,14 @@
     <ResourceID>spase://NASA/DisplayData/GOLD/L1D/LIM_Stack/PT180S</ResourceID>
     <ResourceHeader>
       <ResourceName>Gold Level 1D Stack Plots</ResourceName>
-      <ReleaseDate>2025-02-28T15:21:05Z</ReleaseDate>
+      <ReleaseDate>2025-03-03T13:30:47Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-09-14T16:47:17Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-02-28T15:21:05Z</ReleaseDate>
+          <ReleaseDate>2025-03-03T13:30:47Z</ReleaseDate>
           <Note>Modified Funding AwardNumber. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -26,7 +26,7 @@
       <Funding>
         <Agency>National Aeronautics and Space Administration</Agency>
         <Project>Explorer Program</Project>
-        <AwardNumber>contracts NNG19PQ28C</AwardNumber>
+        <AwardNumber>NNG19PQ28C</AwardNumber>
       </Funding>
       <Contact>
         <PersonID>spase://SMWG/Person/Richard.Eastes</PersonID>

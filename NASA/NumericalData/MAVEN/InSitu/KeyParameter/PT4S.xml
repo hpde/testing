@@ -5,7 +5,7 @@
     <ResourceHeader>
       <ResourceName>MAVEN (Multiple Instrument Ensemble) In-situ Observations, Data Product Bundle, Key Parameter (KP), 4 s Data</ResourceName>
       <DOI>https://doi.org/10.48322/p7yg-g215</DOI>
-      <ReleaseDate>2025-02-28T15:21:06Z</ReleaseDate>
+      <ReleaseDate>2025-03-03T13:45:37Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -16,7 +16,7 @@
           <Note>Added DOI and PublicationInfo minted by LFB, metadata versioned up to SPASE 2.6.0, reviewed by LFB 20230727</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-02-28T15:21:06Z</ReleaseDate>
+          <ReleaseDate>2025-03-03T13:45:37Z</ReleaseDate>
           <Note>Modified Funding Agency and AwardNumber. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -30,7 +30,7 @@
       <Funding>
         <Agency>National Aeronautics and Space Administration</Agency>
         <Project>MAVEN Mission</Project>
-        <AwardNumber>contracts UNKNOWN</AwardNumber>
+        <AwardNumber>UNKNOWN</AwardNumber>
       </Funding>
       <Contact>
         <PersonID>spase://SMWG/Person/Bruce.M.Jakosky</PersonID>

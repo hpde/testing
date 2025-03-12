@@ -5,14 +5,14 @@
     <ResourceHeader>
       <ResourceName>NWRA AIA Active Region Patches (AARP) Database</ResourceName>
       <DOI>https://doi.org/10.48322/50td-nz33</DOI>
-      <ReleaseDate>2025-02-28T15:21:08Z</ReleaseDate>
+      <ReleaseDate>2025-03-03T13:45:38Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2022-10-24T12:34:56.789Z</ReleaseDate>
           <Note>Written by SY. Reviewed by LFB, 2022-11-29.</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-02-28T15:21:08Z</ReleaseDate>
+          <ReleaseDate>2025-03-03T13:45:38Z</ReleaseDate>
           <Note>Modified Funding AwardNumber. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -25,7 +25,7 @@
       <Funding>
         <Agency>NASA</Agency>
         <Project>Snap, Crackle,...Pop? Characterizing the Pre-Event Behavior of the Solar Corona</Project>
-        <AwardNumber>contracts GI 80NSSC19K0285</AwardNumber>
+        <AwardNumber>GI 80NSSC19K0285</AwardNumber>
       </Funding>
       <Contact>
         <PersonID>spase://SMWG/Person/Karin.Dissauer</PersonID>

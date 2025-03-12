@@ -4,14 +4,14 @@
     <ResourceID>spase://NASA/NumericalData/ELFIN/B/Ephemeris/DEFN/PT1S</ResourceID>
     <ResourceHeader>
       <ResourceName>ELFIN-B Definitive Ephemeris Data</ResourceName>
-      <ReleaseDate>2025-02-28T15:21:06Z</ReleaseDate>
+      <ReleaseDate>2025-03-03T13:45:36Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-06-28T12:34:56.789</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-02-28T15:21:06Z</ReleaseDate>
+          <ReleaseDate>2025-03-03T13:45:36Z</ReleaseDate>
           <Note>Modified Funding AwardNumber. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -25,17 +25,17 @@
       <Funding>
         <Agency>NASA</Agency>
         <Project>ELFIN funding</Project>
-        <AwardNumber>contracts NNX14AN68G</AwardNumber>
+        <AwardNumber>NNX14AN68G</AwardNumber>
       </Funding>
       <Funding>
         <Agency>NSF</Agency>
         <Project>ELFIN funding</Project>
-        <AwardNumber>contracts AGS-1242918</AwardNumber>
+        <AwardNumber>AGS-1242918</AwardNumber>
       </Funding>
       <Funding>
         <Agency>NSF</Agency>
         <Project>ELFIN funding</Project>
-        <AwardNumber>contracts AGS-2019950</AwardNumber>
+        <AwardNumber>AGS-2019950</AwardNumber>
       </Funding>
       <Contact>
         <PersonID>spase://SMWG/Person/Vassilis.Angelopoulos</PersonID>
