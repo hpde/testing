@@ -4,14 +4,14 @@
     <ResourceID>spase://NASA/NumericalData/SolarOrbiter/HelioWeb/Ephemeris/P1D</ResourceID>
     <ResourceHeader>
       <ResourceName>Solar Orbiter Ephemeris, Heliocentric Trajectories, Heliographic, Heliographic Inertial, and Solar Ecliptic Coordinates, HelioWeb, Daily Data</ResourceName>
-      <ReleaseDate>2025-08-04T13:14:49Z</ReleaseDate>
+      <ReleaseDate>2025-08-05T13:12:32Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-01-08T00:00:00Z</ReleaseDate>
           <Note>Changed SOLAR-ORBITER_HELIO1DAY_POSITION to SOLO_HELIO1DAY_POSITION in AccessURL. As requested. Removed ftp link. Updated SPASE version. JMW.</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-08-04T13:14:49Z</ReleaseDate>
+          <ReleaseDate>2025-08-05T13:12:32Z</ReleaseDate>
           <Note>Added ObservedRegion(s). Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -6,7 +6,7 @@
       <ResourceName>Spherical Elementary Currents Systems (SECS) technique North American Spherical Elementary Current (SEC) Amplitudes derived at 10 sec Resolution in Geographic Coordinates</ResourceName>
       <AlternateName>North American SEC Amplitude data</AlternateName>
       <DOI>https://doi.org/10.21978/p8pp8x</DOI>
-      <ReleaseDate>2025-08-04T13:14:34Z</ReleaseDate>
+      <ReleaseDate>2025-08-05T13:12:18Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-05-31T12:34:56.789</ReleaseDate>
@@ -21,7 +21,7 @@
           <Note>Updated to SPASE Version 2.6.0. Heavily revised the metadata in almost everyway. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-08-04T13:14:34Z</ReleaseDate>
+          <ReleaseDate>2025-08-05T13:12:18Z</ReleaseDate>
           <Note>Added ObservedRegion(s). Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

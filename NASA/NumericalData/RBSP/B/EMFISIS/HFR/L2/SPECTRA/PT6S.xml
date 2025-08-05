@@ -5,7 +5,7 @@
     <ResourceHeader>
       <ResourceName>Van Allen Probe B Single Axis AC Electric Field Spectra data</ResourceName>
       <DOI>https://doi.org/10.48322/zpmq-qm18</DOI>
-      <ReleaseDate>2025-08-04T13:14:44Z</ReleaseDate>
+      <ReleaseDate>2025-08-05T13:12:27Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -20,7 +20,7 @@
           <Note>Updated dataset description, reviewed by SAB 20240418</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-08-04T13:14:44Z</ReleaseDate>
+          <ReleaseDate>2025-08-05T13:12:27Z</ReleaseDate>
           <Note>Added ObservedRegion(s). Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

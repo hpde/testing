@@ -5,7 +5,7 @@
     <ResourceHeader>
       <ResourceName>Spherical Elementary Currents (SECs)Display Data derived using the Spherical Elementary Currents Systems (SECS) technique at 60 sec Resolution in Geographic Coordinates</ResourceName>
       <AlternateName>SECS display data</AlternateName>
-      <ReleaseDate>2025-08-04T13:15:17Z</ReleaseDate>
+      <ReleaseDate>2025-08-05T13:13:01Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-07-19T14:39:57</ReleaseDate>
@@ -16,7 +16,7 @@
           <Note>Deleted two informationURLs with obsolete URLs, updated two other informationURL URLs, deleted Olaf Amm Contact by JMW 2022-06-02, metadata updated to SPASE 2.4.1, reviewed by LFB 20220724</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-08-04T13:15:17Z</ReleaseDate>
+          <ReleaseDate>2025-08-05T13:13:01Z</ReleaseDate>
           <Note>Added ObservedRegion(s). Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -4,14 +4,14 @@
     <ResourceID>spase://NASA/DisplayData/Kyoto/WDCC2/DST</ResourceID>
     <ResourceHeader>
       <ResourceName>Hourly Dst Indices to Today</ResourceName>
-      <ReleaseDate>2025-08-04T13:15:17Z</ReleaseDate>
+      <ReleaseDate>2025-08-05T13:13:01Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:34Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-08-04T13:15:17Z</ReleaseDate>
+          <ReleaseDate>2025-08-05T13:13:01Z</ReleaseDate>
           <Note>Added ObservedRegion(s). ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
