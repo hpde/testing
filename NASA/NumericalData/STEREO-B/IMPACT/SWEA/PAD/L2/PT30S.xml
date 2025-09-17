@@ -1,11 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema https://www.spase-group.org/data/schema/spase-2.7.0.xsd">
   <Version>2.7.0</Version>
   <NumericalData>
     <ResourceID>spase://NASA/NumericalData/STEREO-B/IMPACT/SWEA/PAD/L2/PT30S</ResourceID>
+    <NamingAuthority>NASA</NamingAuthority>
+    <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-B In-Situ Measurements of Particles and CME Transients (IMPACT) Solar Wind Electron Analyzer (SWEA) Pitch Angle Distribution, Level 2 (L2), 30 s Data in CDF format</ResourceName>
       <DOI>https://doi.org/10.48322/spcw-2b07</DOI>
-      <ReleaseDate>2025-09-08T11:22:29Z</ReleaseDate>
+      <ReleaseDate>2025-09-17T11:19:53Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-06-13T00:00:00</ReleaseDate>
@@ -16,8 +19,8 @@
           <Note>Added publication info and additional contacts; changed resource name to add "in CDF format" TLK</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-08T11:22:29Z</ReleaseDate>
-          <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
+          <ReleaseDate>2025-09-17T11:19:53Z</ReleaseDate>
+          <Note>Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>STEREO-B In-Situ Measurements of Particles and CME Transients (IMPACT) Solar Wind Electron Analyzer (SWEA) electron pitch angle distribution (PAD) in phase space density (in units of s^3/km^6) as a function of 12 pitch angle bins (centered at 7.5, 22.5, 37.5, 52.5, 67.5, 82.5, 97.5, 112.5, 127.5, 142.5, 157.5, 172.5 deg) and 10 variable energy bins (PAD values for energies &lt; 50 eV are forced to fill values).</Description>
@@ -318,7 +321,7 @@
       <Name>Pitchangle</Name>
       <ParameterKey>Pitchangle</ParameterKey>
       <Description>Center of pitch angle bins</Description>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <AxisLabel>Pitch angle</AxisLabel>
         <ValueFormat>F5.1</ValueFormat>
@@ -339,7 +342,7 @@
       <Name>delta_Pitchangle</Name>
       <ParameterKey>delta_Pitchangle</ParameterKey>
       <Description>Delta pitch angle bins</Description>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <AxisLabel>delta Pitchangle</AxisLabel>
         <ValueFormat>F5.1</ValueFormat>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema  https://www.spase-group.org/data/schema/spase-2.7.0.xsd">
   <Version>2.7.0</Version>
   <NumericalData>
@@ -7,7 +8,7 @@
     <ResourceHeader>
       <ResourceName>SDO/EVE Level 2 Version 8 Data</ResourceName>
       <DOI>https://doi.org/10.48322/6y24-z443</DOI>
-      <ReleaseDate>2025-09-08T11:22:25Z</ReleaseDate>
+      <ReleaseDate>2025-09-17T11:19:50Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-06-13T00:00:00Z</ReleaseDate>
@@ -26,7 +27,7 @@
           <Note>Added DOI by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-08T11:22:25Z</ReleaseDate>
+          <ReleaseDate>2025-09-17T11:19:50Z</ReleaseDate>
           <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -35,7 +36,7 @@ https://lasp.colorado.edu/eve/science/instrument/
 
 Level 2 products are defined to contain 10-second intervals and span the time range from 2010 day 120 through 2018 day 108. The integration rate was changed to 60-seconds so the level 2B products were created to provide future spectra. This release of EVE Level 2 data products replaces all previous versions. We have made significant effort at verification and validation, but if you have any questions or encounter any problems with the data, please let us know about them.
 
-Two types of EVE level 2 products are routinely created: Spectra (EVS) and Lines (EVL). Level 2 spectra are the merged spectral measurements from the two spectrographs, MEGS-A and MEGS-B. The A detector is designed to measure from 6 &#8211;17 nm, and 17&#8211;37 nm using two filters, while the B detector is designed to measure 37&#8211;106. After the MEGS-A anomaly, MEGS-B was extended down to 33.33 nm. 
+Two types of EVE level 2 products are routinely created: Spectra (EVS) and Lines (EVL). Level 2 spectra are the merged spectral measurements from the two spectrographs, MEGS-A and MEGS-B. The A detector is designed to measure from 6 –17 nm, and 17–37 nm using two filters, while the B detector is designed to measure 37–106. After the MEGS-A anomaly, MEGS-B was extended down to 33.33 nm. 
 
 Level 2 processing stitches these pieces to form one spectrum. This version includes all measured wavelengths. The file spans 3.01-106.99 nm, but this extends beyond where there is no signal on the detectors, so there will be fill values at the extreme ends of the range. All level 2 irradiances are adjusted to 1 AU. Level 2 lines files contain selected lines derived from the level 2 spectra, ESP diode values and bands that correspond to other SDO instruments and some derived proxies.</Description>
       <PublicationInfo>

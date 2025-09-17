@@ -1,11 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema https://www.spase-group.org/data/schema/spase-2.7.0.xsd">
   <Version>2.7.0</Version>
   <NumericalData>
     <ResourceID>spase://NASA/NumericalData/STEREO-A/SWAVES/sta_l3_wav_hfr/PT15S</ResourceID>
+    <NamingAuthority>NASA</NamingAuthority>
+    <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-A/WAVES High Frequency Receiver, Data</ResourceName>
       <DOI>https://doi.org/10.48322/8avt-jw56</DOI>
-      <ReleaseDate>2025-09-08T11:22:29Z</ReleaseDate>
+      <ReleaseDate>2025-09-17T11:19:53Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-09-01T12:34:56.789Z</ReleaseDate>
@@ -20,8 +23,8 @@
           <Note>Added DOI. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-08T11:22:29Z</ReleaseDate>
-          <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
+          <ReleaseDate>2025-09-17T11:19:53Z</ReleaseDate>
+          <Note>Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>Radio measurements of power spectral density,radio flux density, Stokes Q, U, V parameters and angular half width of source measured by the STEREO-A/WAVES instrument. There a 319 linearly spaced frequency channels from 0.125 to 16.205 MHz. Time resolution varies with instrument mode ranging from 15 seconds to 1 minute.</Description>
@@ -50,14 +53,14 @@
       <InformationURL>
         <Name>STEREO/WAVES instrument paper </Name>
         <URL>https://doi.org/10.1007/s11214-007-9298-8</URL>
-        <Description>Bougeret, J.L., Goetz, K., Kaiser, M.L. et al. S/WAVES: The Radio and Plasma Wave Investigation on the STEREO Mission. Space Sci Rev 136, 487&#8211;528 (2008).
+        <Description>Bougeret, J.L., Goetz, K., Kaiser, M.L. et al. S/WAVES: The Radio and Plasma Wave Investigation on the STEREO Mission. Space Sci Rev 136, 487–528 (2008).
                 </Description>
         <Language>en</Language>
       </InformationURL>
       <InformationURL>
         <Name>Details on derivation and meaning of parameters in dataset</Name>
         <URL>https://doi.org/10.1007/s11214-007-9255-6</URL>
-        <Description>Cecconi, B., Bonnin, X., Hoang, S. et al. STEREO/Waves Goniopolarimetry. Space Sci Rev 136, 549&#8211;563 (2008).</Description>
+        <Description>Cecconi, B., Bonnin, X., Hoang, S. et al. STEREO/Waves Goniopolarimetry. Space Sci Rev 136, 549–563 (2008).</Description>
         <Language>en</Language>
       </InformationURL>
       <InformationURL>
@@ -357,7 +360,7 @@
       <Description>The angular half aperture of the source as seen by a spacecraft (uniform profile) [Data available after 04-May-2007]</Description>
       <Caveats>Based on https://doi.org/10.1029/2011JA017333</Caveats>
       <Cadence>PT15S</Cadence>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
         <AxisLabel>Source Size</AxisLabel>
@@ -379,7 +382,7 @@
       <Description>Wave vector colatitude in the Radial-Tangential-Normal (RTN) system [Data available after 04-May-2007]</Description>
       <Caveats>X axis points from the spacecraft center to Sun, and the Y axis is the cross product of the solar rotational axis and X, and lies in the solar equatorial plane (towards the West limb).</Caveats>
       <Cadence>PT15S</Cadence>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
         <AxisLabel>Colatitude [RTN]</AxisLabel>
@@ -402,7 +405,7 @@
       <Description>Wave vector azimuth in the Radial-Tangential-Normal (RTN) system [Data available after 04-May-2007]</Description>
       <Caveats>X axis points from the spacecraft center to Sun, and the Y axis is the cross product of the solar rotational axis and X, and lies in the solar equatorial plane (towards the West limb).</Caveats>
       <Cadence>PT15S</Cadence>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
         <AxisLabel>Azimuth [RTN]</AxisLabel>
@@ -425,7 +428,7 @@
       <Description>Wave vector colatitude in the Heliocentric Inertial (HCI) system [Data available after 04-May-2007]</Description>
       <Caveats>Z is the solar north rotational axis, and X is the solar ascending node on the J2000 ecliptic.</Caveats>
       <Cadence>PT15S</Cadence>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
         <AxisLabel>Colatitude [HCI]</AxisLabel>
@@ -448,7 +451,7 @@
       <Description>Wave vector azimuth in the Heliocentric Inertial (HCI) system [Data available after 04-May-2007]</Description>
       <Caveats>Z is the solar north rotational axis, and X is the solar ascending node on the J2000 ecliptic.</Caveats>
       <Cadence>PT15S</Cadence>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
         <AxisLabel>Azimuth [HCI]</AxisLabel>
@@ -471,7 +474,7 @@
       <Description>Wave vector colatitude in the Heliocentric Earth Ecliptic (HEE) system [Data available after 04-May-2007]</Description>
       <Caveats>X is the Sun-Earth line, and Z is the north pole for the ecliptic of date.</Caveats>
       <Cadence>PT15S</Cadence>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
         <AxisLabel>Colatitude [HEE]</AxisLabel>
@@ -494,7 +497,7 @@
       <Description>Wave vector azimuth in the Heliocentric Earth Ecliptic (HEE) system [Data available after 04-May-2007]</Description>
       <Caveats>X is the Sun-Earth line, and Z is the north pole for the ecliptic of date.</Caveats>
       <Cadence>PT15S</Cadence>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
         <AxisLabel>Azimuth [HEE]</AxisLabel>
@@ -517,7 +520,7 @@
       <Description>Wave vector colatitude in the Heliocentric Earth Equatorial (HEEQ) system [Data available after 04-May-2007]</Description>
       <Caveats>Z is the solar rotation axis, and X is in the plane containing the Z axis and Earth, at the intersection of the solar central meridian, and the heliographic equator. When converted to longitude and latitude, this is known as Stonyhurst heliographic coordinates.</Caveats>
       <Cadence>PT15S</Cadence>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
         <AxisLabel>Colatitude [HEEQ]</AxisLabel>
@@ -540,7 +543,7 @@
       <Description>Wave vector azimuth in the Heliocentric Earth Equatorial (HEEQ) system [Data available after 04-May-2007]</Description>
       <Caveats>Z is the solar rotation axis, and X is in the plane containing the Z axis and Earth, at the intersection of the solar central meridian, and the heliographic equator. When converted to longitude and latitude, this is known as Stonyhurst heliographic coordinates.</Caveats>
       <Cadence>PT15S</Cadence>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
         <AxisLabel>Azimuth [HEEQ]</AxisLabel>

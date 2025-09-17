@@ -1,11 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema https://www.spase-group.org/data/schema/spase-2.7.0.xsd">
   <Version>2.7.0</Version>
   <NumericalData>
     <ResourceID>spase://NASA/NumericalData/ACE/CRIS/L2/P1D</ResourceID>
+    <NamingAuthority>NASA</NamingAuthority>
+    <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ACE Cosmic Ray Isotope Spectrometer (CRIS) Daily Level 2 Data</ResourceName>
       <DOI>https://doi.org/10.48322/wbmv-4z80</DOI>
-      <ReleaseDate>2025-09-08T11:22:24Z</ReleaseDate>
+      <ReleaseDate>2025-09-17T11:19:49Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -28,8 +31,8 @@
           <Note>Update ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-08T11:22:24Z</ReleaseDate>
-          <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
+          <ReleaseDate>2025-09-17T11:19:49Z</ReleaseDate>
+          <Note>Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>ACE Cosmic Ray Isotope Spectrometer (CRIS) intensities and counts, for each of 7 energy bins for each of 24 elements (Z=5, boron, to Z=28, nickel) at 1-hour time resolution. Overall energy ranges coveredgo from 49-172 MeV/n for boron to 130-496 MeV/n for nickel. Calibrated science quality data. Parameter segments below address intensities but not alsothe count rates included in the data set. The data are accessible via ftp in HDF and CDF from the ACE Science Center and CDAWeb, respectively, and in ASCII format from the value-added interfaces at those sites. Daily averaged L2 fluxes and rates are also available from these access paths. The "parameter keys" given below are as used by CDAWeb.</Description>

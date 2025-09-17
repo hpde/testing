@@ -1,11 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema  https://www.spase-group.org/data/schema/spase-2.7.0.xsd">
   <Version>2.7.0</Version>
   <NumericalData>
     <ResourceID>spase://NASA/NumericalData/SDO/HMI/LOS_Dopplergram/PT45S</ResourceID>
+    <NamingAuthority>NASA</NamingAuthority>
+    <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>SDO/HMI line-of-sight Dopplergram, 45-Second Data</ResourceName>
       <DOI>https://doi.org/10.48322/e9dg-yp34</DOI>
-      <ReleaseDate>2025-09-08T11:22:26Z</ReleaseDate>
+      <ReleaseDate>2025-09-17T11:19:50Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-11-01T00:08:46</ReleaseDate>
@@ -16,11 +19,11 @@
           <Note>Added DOI by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-08T11:22:26Z</ReleaseDate>
-          <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
+          <ReleaseDate>2025-09-17T11:19:50Z</ReleaseDate>
+          <Note>Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
-      <Description>Dopplergrams are maps of solar surface velocity. The HMI (Camera 2) instrument takes 72 filtergrams to construct a single dopplergram. Six filtergrams are taken in six positions across the nominal 6173.3 &#8491; spectral line; each filtergram is taken in two polarization states (right circularly polarized (RCP), or Stokes I-V, and left circularly polarized (LCP), or I+V). Assuming that the absorption line is a Gaussian and that the HMI filter transmission profiles are delta functions, the Fourier coefficients can be calculated and are then used to estimate the line-of-sight magnetic field strength B.</Description>
+      <Description>Dopplergrams are maps of solar surface velocity. The HMI (Camera 2) instrument takes 72 filtergrams to construct a single dopplergram. Six filtergrams are taken in six positions across the nominal 6173.3 Å spectral line; each filtergram is taken in two polarization states (right circularly polarized (RCP), or Stokes I-V, and left circularly polarized (LCP), or I+V). Assuming that the absorption line is a Gaussian and that the HMI filter transmission profiles are delta functions, the Fourier coefficients can be calculated and are then used to estimate the line-of-sight magnetic field strength B.</Description>
       <PublicationInfo>
         <Authors>The HMI Consortium: Stanford University (USA); NASA Goddard Space Flight Center (USA); Lockheed Martin Solar and Astrophysics Laboratory (USA); National Center for Atmospheric Research (USA);</Authors>
         <PublicationDate>2011-01-21T00:00:00</PublicationDate>

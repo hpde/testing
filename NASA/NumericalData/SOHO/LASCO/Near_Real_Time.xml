@@ -1,10 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema  https://www.spase-group.org/data/schema/spase-2.7.0.xsd">
   <Version>2.7.0</Version>
   <NumericalData>
     <ResourceID>spase://NASA/NumericalData/SOHO/LASCO/Near_Real_Time</ResourceID>
+    <NamingAuthority>NASA</NamingAuthority>
+    <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>SOHO LASCO Near Real-Time Data</ResourceName>
-      <ReleaseDate>2025-09-08T11:22:27Z</ReleaseDate>
+      <ReleaseDate>2025-09-17T11:19:51Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-05-28T21:15:19Z</ReleaseDate>
@@ -15,13 +18,13 @@
           <Note>Updated the PI</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-08T11:22:27Z</ReleaseDate>
-          <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
+          <ReleaseDate>2025-09-17T11:19:51Z</ReleaseDate>
+          <Note>Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>SOHO/LASCO Near Real-Time data.</Description>
       <PublicationInfo>
-        <Authors>The LASCO Consortium: Naval Research Laboratory (USA); University of Birmingham (UK); Max-Planck-Institut f&#252;r Aeronomie (Germany); Laboratoire d'Astronomie Spatiale (France)</Authors>
+        <Authors>The LASCO Consortium: Naval Research Laboratory (USA); University of Birmingham (UK); Max-Planck-Institut für Aeronomie (Germany); Laboratoire d'Astronomie Spatiale (France)</Authors>
         <PublicationDate>1996-01-16T00:00:00</PublicationDate>
         <PublishedBy>Solar Data Analysis Center</PublishedBy>
       </PublicationInfo>

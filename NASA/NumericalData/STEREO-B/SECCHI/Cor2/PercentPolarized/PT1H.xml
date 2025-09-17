@@ -1,10 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema  https://www.spase-group.org/data/schema/spase-2.7.0.xsd">
   <Version>2.7.0</Version>
   <NumericalData>
     <ResourceID>spase://NASA/NumericalData/STEREO-B/SECCHI/Cor2/PercentPolarized/PT1H</ResourceID>
+    <NamingAuthority>NASA</NamingAuthority>
+    <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO SECCHI Cor2 telescopes P0 FITS files</ResourceName>
-      <ReleaseDate>2025-09-08T11:22:29Z</ReleaseDate>
+      <ReleaseDate>2025-09-17T11:19:53Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2022-02-24T12:34:56.789</ReleaseDate>
@@ -15,11 +18,11 @@
           <Note>Updated ResourceID by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-08T11:22:29Z</ReleaseDate>
-          <Note>Changed http to https in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
+          <ReleaseDate>2025-09-17T11:19:53Z</ReleaseDate>
+          <Note>Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
-      <Description>Percent Polarized data from STEREO SECCHI, Sun Earth Connection Coronal and Heliospheric Investigation, Cor2 telescopes at 1 hr cadence (except for special observing campaigns) and full resolution (2048&#178;). The data are generally available within about three days.</Description>
+      <Description>Percent Polarized data from STEREO SECCHI, Sun Earth Connection Coronal and Heliospheric Investigation, Cor2 telescopes at 1 hr cadence (except for special observing campaigns) and full resolution (2048²). The data are generally available within about three days.</Description>
       <Acknowledgement>Please note that all of the SECCHI data is free for public use, but if you use them in presentations, published work, websites, etc, please give the appropriate image credits ("STEREO/SECCHI" will usually suffice).</Acknowledgement>
       <PublicationInfo>
         <Authors>Howard, R.A., J.D. Moses, A. Vourlidas, et al.</Authors>

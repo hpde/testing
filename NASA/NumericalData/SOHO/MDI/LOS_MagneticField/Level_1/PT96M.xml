@@ -1,11 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema  https://www.spase-group.org/data/schema/spase-2.7.0.xsd">
   <Version>2.7.0</Version>
   <NumericalData>
     <ResourceID>spase://NASA/NumericalData/SOHO/MDI/LOS_MagneticField/Level_1/PT96M</ResourceID>
+    <NamingAuthority>NASA</NamingAuthority>
+    <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>SOHO/MDI Line Of Sight (LOS) Magnetic Field Data</ResourceName>
       <DOI>https://doi.org/10.48322/22dk-a715</DOI>
-      <ReleaseDate>2025-09-08T11:22:28Z</ReleaseDate>
+      <ReleaseDate>2025-09-17T11:19:52Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-08-11T00:08:45</ReleaseDate>
@@ -20,8 +23,8 @@
           <Note>Added HelioViewerID to Extension</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-08T11:22:28Z</ReleaseDate>
-          <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
+          <ReleaseDate>2025-09-17T11:19:52Z</ReleaseDate>
+          <Note>Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>Line of sight magnetic field inferred from the frequency/wavelength Zeeman splitting between opposite circular polarizations of a magnetically-sensitive line.</Description>
