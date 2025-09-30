@@ -8,7 +8,7 @@
     <ResourceHeader>
       <ResourceName>ACE Definitive Orbit, Daily Values, in GSE and J2000 GCI Coordinates</ResourceName>
       <DOI>https://doi.org/10.48322/mh1w-x115</DOI>
-      <ReleaseDate>2025-09-26T09:42:55Z</ReleaseDate>
+      <ReleaseDate>2025-09-30T14:27:17Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -19,7 +19,7 @@
           <Note>Added DOI and PublicationInfo minted by JMW on 20220808, updated one InformationURL URL, updated the RepositoryID, updated the SPDF MetadataContact Person to Robert M. Candey, metadata updated to SPASE 2.4.1, reviewed by LFB 20220819</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-26T09:42:55Z</ReleaseDate>
+          <ReleaseDate>2025-09-30T14:27:17Z</ReleaseDate>
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

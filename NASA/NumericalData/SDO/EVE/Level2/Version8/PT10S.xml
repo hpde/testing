@@ -8,7 +8,7 @@
     <ResourceHeader>
       <ResourceName>SDO/EVE Level 2 Version 8 Data</ResourceName>
       <DOI>https://doi.org/10.48322/6y24-z443</DOI>
-      <ReleaseDate>2025-09-26T09:42:35Z</ReleaseDate>
+      <ReleaseDate>2025-09-30T14:25:19Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-06-13T00:00:00Z</ReleaseDate>
@@ -31,7 +31,7 @@
           <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-26T09:42:35Z</ReleaseDate>
+          <ReleaseDate>2025-09-30T14:25:19Z</ReleaseDate>
           <Note>Updated PublishedBy name to match ROR Registry. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
