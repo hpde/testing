@@ -8,7 +8,7 @@
     <ResourceHeader>
       <ResourceName>STEREO-B In-Situ Measurements of Particles and CME Transients (IMPACT) Fluxgate Magnetometer (MAG) Burst Mode, Magnetic Field Vector, Radial-Tangential-Normal (RTN) Coordinates, Level 1 (L1), 31 ms Data</ResourceName>
       <DOI>https://doi.org/10.48322/qhwc-kx12</DOI>
-      <ReleaseDate>2025-09-26T09:45:06Z</ReleaseDate>
+      <ReleaseDate>2025-10-03T10:49:14Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2022-05-25T12:34:56.789</ReleaseDate>
@@ -19,7 +19,7 @@
           <Note>Added DOI and PublicationInfo minted by LFB, metadata versioned up to SPASE 2.6.0, reviewed by LFB 20230727</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-09-26T09:45:06Z</ReleaseDate>
+          <ReleaseDate>2025-10-03T10:49:14Z</ReleaseDate>
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
