@@ -1,13 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Spase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.spase-group.org/data/schema" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_3_0.xsd">
-  <Version>2.3.2</Version>
+<?xml version='1.0' encoding='UTF-8'?>
+<Spase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.spase-group.org/data/schema" xsi:schemaLocation="https://www.spase-group.org/data/schema https://www.spase-group.org/data/schema/spase-2.7.0.xsd">
+  <Version>2.7.0</Version>
   <NumericalData>
     <ResourceID>spase://NASA/NumericalData/ISS/AMS-02/P27D</ResourceID>
+    <NamingAuthority>NASA</NamingAuthority>
+    <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ISS Alpha Magnetic Spectrometer-02 (AMS-02) Particle Fluxes and Flux Ratios, Bartel Rotation Averages, Modified Data 0 (M0), 27 Day Data</ResourceName>
-      <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
+      <ReleaseDate>2025-11-12T16:02:02Z</ReleaseDate>
+      <RevisionHistory>
+        <RevisionEvent>
+          <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
+          <Note>Only known prior ReleaseDate of the metadata</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2025-11-12T16:02:02Z</ReleaseDate>
+          <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
+        </RevisionEvent>
+      </RevisionHistory>
       <Description>Alpha Magnetic Spectrometer (AMS-02) Proton Flux (p), Helium Flux (He), p/He Flux Ratio, Electron Flux (e-), Positron Flux (e+) and e+/e- Flux Ratio at Bartels Rotation Time Resolution</Description>
       <Acknowledgement>V. Bindi, Please acknowledge the Principal Investigators and CDAWeb when using these Data.</Acknowledgement>
+      <PublicationInfo>
+        <Authors>Bindi, Veronica</Authors>
+        <PublicationDate>2025-11-12T16:02:02Z</PublicationDate>
+        <PublishedBy>Space Physics Data Facility</PublishedBy>
+      </PublicationInfo>
       <Contact>
         <PersonID>spase://SMWG/Person/Veronica.Bindi</PersonID>
         <Role>PrincipalInvestigator</Role>
