@@ -7,21 +7,21 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Ulysses magnetic field data files at ESA</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:54Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:03:04Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:40Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:54Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:03:04Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>1-min and 1-hour Ulysses magnetic field data at ESA, also 1-sec data for 1990-3; field magnitude and RTN components</Description>
       <PublicationInfo>
         <Authors>Balogh, Andre</Authors>
-        <PublicationDate>2025-11-12T16:15:54Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:03:04Z</PublicationDate>
         <PublishedBy>Planetary Data System; Space Physics Data Facility; European Space Astronomy Centre</PublishedBy>
       </PublicationInfo>
       <Contact>

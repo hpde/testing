@@ -9,14 +9,14 @@
       <ResourceName>DE 1 Magnetic Field Observations Triaxial Fluxgate Magnetometer (MAG-A)high resolution data set</ResourceName>
       <AlternateName>Dynamics Explorer 1 MAG-A data</AlternateName>
       <AlternateName>DE-A MAG-A data</AlternateName>
-      <ReleaseDate>2025-11-12T16:01:00Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:57Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-05-02T17:14:50Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:01:00Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:57Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -24,7 +24,7 @@
       <Acknowledgement>NASA; Masahisa Sugiura</Acknowledgement>
       <PublicationInfo>
         <Authors>Sugiura, Masahisa</Authors>
-        <PublicationDate>2025-11-12T16:01:00Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:57Z</PublicationDate>
         <PublishedBy>University of California, Los Angeles; Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

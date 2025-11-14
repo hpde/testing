@@ -8,7 +8,7 @@
     <ResourceHeader>
       <ResourceName>Ulysses Solar Wind Observations Over the Poles of the Sun (SWOOPS) Alpha Particle Distribution Function Fitting Parameters, Key Parameter (K0), 4 min Data</ResourceName>
       <DOI>https://doi.org/10.48322/zb4k-7w57</DOI>
-      <ReleaseDate>2025-11-12T16:15:48Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:58Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -27,7 +27,7 @@
           <Note>Added DOI TLK</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:48Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:58Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -35,7 +35,7 @@
       <Acknowledgement>D.J. McComas, B.E. Goldstein, M.M. Neugebauer, A. Tenerani</Acknowledgement>
       <PublicationInfo>
         <Authors>McComas, David J.; Goldstein, Bruce E.; Neugebauer, Marcia M.; Tenerani, Anna</Authors>
-        <PublicationDate>2025-11-12T16:15:48Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:58Z</PublicationDate>
         <PublishedBy>Planetary Data System; Space Physics Data Facility; European Space Astronomy Centre</PublishedBy>
       </PublicationInfo>
       <Contact>

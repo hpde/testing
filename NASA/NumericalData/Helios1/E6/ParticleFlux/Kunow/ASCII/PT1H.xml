@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Helios 1 E6 (Kunow) Hourly Particle Fluxes in ASCII Format</ResourceName>
-      <ReleaseDate>2025-11-12T16:01:20Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:22Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-11T18:39:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:01:20Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:22Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -33,7 +33,7 @@ Data are from the E6 experiment on Helios 1.</Description>
 Kiel</Acknowledgement>
       <PublicationInfo>
         <Authors>Kunow, Horst W.</Authors>
-        <PublicationDate>2025-11-12T16:01:20Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:22Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

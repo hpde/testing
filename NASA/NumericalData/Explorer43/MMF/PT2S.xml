@@ -10,14 +10,14 @@
       <AlternateName>IMP 6 MMF data</AlternateName>
       <AlternateName>IMP I MMF data</AlternateName>
       <AlternateName>IMP EYE MMF data</AlternateName>
-      <ReleaseDate>2025-11-12T16:15:59Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:03:09Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-05-06T21:14:33Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:59Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:03:09Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -25,7 +25,7 @@
       <Acknowledgement>NASA-Office of Space Science Applications (United States); Dr. Norman F. Ness</Acknowledgement>
       <PublicationInfo>
         <Authors>Ness, Norman F.</Authors>
-        <PublicationDate>2025-11-12T16:15:59Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:03:09Z</PublicationDate>
         <PublishedBy>University of California, Los Angeles</PublishedBy>
       </PublicationInfo>
       <Contact>

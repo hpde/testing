@@ -8,14 +8,14 @@
     <ResourceHeader>
       <ResourceName>Voyager 1 Planetary Radio Astronomy (PRA) Lowband Receiver Jupiter encounter, 6 sec resolution</ResourceName>
       <AlternateName>VG1-J-PRA-3-RDR-LOWBAND-6SEC-V1.0</AlternateName>
-      <ReleaseDate>2025-11-12T16:00:57Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:55Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:54Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:57Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:55Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -23,7 +23,7 @@
       <Acknowledgement>When using delivered data please acknowledge the data provider and PDS in accordance with the PDS citation policy. Full details can be found at: http://ppi.pds.nasa.gov/citations_policy.jsp</Acknowledgement>
       <PublicationInfo>
         <Authors>Warwick, James W.</Authors>
-        <PublicationDate>2025-11-12T16:00:57Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:55Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility; Planetary Data System</PublishedBy>
       </PublicationInfo>
       <Contact>

@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ISIS-1 Topside Sounder Average Ionogram over Quito, Equador, QUI, Version 2, Latitude -1°, Longitude 281°, 29 s Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:01:25Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:28Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:01:25Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:28Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -24,7 +24,7 @@ This data product has been produced as part of the ISIS 1 topside digital ionogr
       <Acknowledgement>Please acknowledge the Principal Investigator James H. Whitteker, Robert F. Benson, Dieter K. Bilitza, and Leonard N. Garcia for use of the Data</Acknowledgement>
       <PublicationInfo>
         <Authors>Whitteker, James H.</Authors>
-        <PublicationDate>2025-11-12T16:01:25Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:28Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ISS Floating Potential Measurement Unit (FPMU), Summary Parameter 1 s Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:42Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:52Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:42Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:52Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -22,7 +22,7 @@
       <Acknowledgement>R.M. Suggs, S.L. Koontz, NASA Johnson Space Center Contact Rob Suggs for support and use. Rob.Suggs@nasa.gov.</Acknowledgement>
       <PublicationInfo>
         <Authors>Suggs, Robert M.; Koontz, Steven L.</Authors>
-        <PublicationDate>2025-11-12T16:15:42Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:52Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

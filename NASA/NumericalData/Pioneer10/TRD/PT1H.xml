@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Pioneer 10 Trapped Radiation Detector (TRD) 1-Hour Count Rates</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:43Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:53Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-11T18:39:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:43Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:53Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -32,7 +32,7 @@ The hourly averages were computed at NSSDC from 30-min data still offline
 and the GSFC Space Physics Data Facility.</Acknowledgement>
       <PublicationInfo>
         <Authors>Fillius, R. W.</Authors>
-        <PublicationDate>2025-11-12T16:15:43Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:53Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

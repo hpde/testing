@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-B SWAVES One minute averages of the low (lfr) frequency receiver data.</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:45Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:55Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-06-17T00:00:00Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:45Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:55Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -27,7 +27,7 @@
       <Acknowledgement>National Aeronautics and Space Administration; Dr. Jean-Louis Henry Bougeret</Acknowledgement>
       <PublicationInfo>
         <Authors>Bougeret, Jean-Louis H.</Authors>
-        <PublicationDate>2025-11-12T16:15:45Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:55Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

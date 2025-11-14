@@ -7,21 +7,21 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Pioneer 11 Magnetometer 1-hr data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:43Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:53Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:08Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:43Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:53Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>This data set contains Pioneer 11 1-hr averaged magnetic field vectors in RTN coordinates during the cruise phase in ASCII format.</Description>
       <PublicationInfo>
         <Authors>Smith, Edward J.</Authors>
-        <PublicationDate>2025-11-12T16:15:43Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:53Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

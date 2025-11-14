@@ -7,21 +7,21 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>IMP 5 SPME Energetic Particle Count Rates</ResourceName>
-      <ReleaseDate>2025-11-12T16:01:22Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:24Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:38Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:01:22Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:24Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>IMP 5 SPME hourly &gt;10, &gt;30, &gt;60 MeV proton count rates and 1-10 MeV proton and alpha particle rates, in ASCII via ftp</Description>
       <PublicationInfo>
         <Authors>Krimigis, Stamatios M.</Authors>
-        <PublicationDate>2025-11-12T16:01:22Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:24Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

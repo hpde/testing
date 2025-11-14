@@ -8,7 +8,7 @@
     <ResourceHeader>
       <ResourceName>Ulysses Cosmic Ray and Solar Particle Investigation (COSPIN) High Flux Telescope (HFT) Proton and Heavy Ion Spin-Averaged and Sectored Counting Rate based Nominal Fluxes, 10 min Average Data</ResourceName>
       <AlternateName>Ulysses Cosmic Ray and Solar Particle Investigation (COSPIN) High Flux Telescope (HFT) Energetic (MeV) Nuclei Nominal Fluxes, 10 min Average Data</AlternateName>
-      <ReleaseDate>2025-11-12T16:15:46Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:56Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -19,7 +19,7 @@
           <Note>Revised ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:46Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:56Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -27,7 +27,7 @@
       <Acknowledgement>Please acknowledge the COSPIN HFT Lead Investigator, J. David Anglin</Acknowledgement>
       <PublicationInfo>
         <Authors>Anglin, J. D.</Authors>
-        <PublicationDate>2025-11-12T16:15:46Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:56Z</PublicationDate>
         <PublishedBy>Planetary Data System; Space Physics Data Facility; European Space Astronomy Centre</PublishedBy>
       </PublicationInfo>
       <Contact>

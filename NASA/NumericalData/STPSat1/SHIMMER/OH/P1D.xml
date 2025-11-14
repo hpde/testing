@@ -7,7 +7,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STPSat-1 SHIMMER OH Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:45Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:55Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:23</ReleaseDate>
@@ -18,7 +18,7 @@
           <Note>Updated to SPASE Version 2.4.0, replace apostrophes, no-break space and other spurious text, metadata revised by LFB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:45Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:55Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -42,7 +42,7 @@ In addition, there are "showstat" summary plots stoe\red in postscript files wit
 The altitude range of the limb observation nominally spans from 35 kam to 100 km, though on occasion it can be as high as from 65 kam to 130 km.</Description>
       <PublicationInfo>
         <Authors>Englert, Christoph</Authors>
-        <PublicationDate>2025-11-12T16:15:45Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:55Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

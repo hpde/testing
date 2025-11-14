@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Ulysses Solar Wind Ion Composition Spectrometer (SWICS) Average Solar Wind Velocity, Isotope Ratios, and Iron Charge States, (M1), 3.5 h Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:48Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:58Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:48Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:58Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -22,7 +22,7 @@
       <Acknowledgement>J. Geiss, G. Gloeckler, Please acknowledge the Principal Investigators, J. Geiss of the International Space Science Institute, Bern, Switzerland, and G. Gloeckler of the University of Maryland, USA. Also, please acknowledge C. Tranquille of the Ulysses Data System, ESA/ESTEC, NL. See the UDS Users Guide, UDS_UG-02, available for download from http://helio.esa.int/ulysses/.</Acknowledgement>
       <PublicationInfo>
         <Authors>Geiss, Johannes; Gloeckler, George</Authors>
-        <PublicationDate>2025-11-12T16:15:48Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:58Z</PublicationDate>
         <PublishedBy>Planetary Data System; Space Physics Data Facility; European Space Astronomy Centre</PublishedBy>
       </PublicationInfo>
       <Contact>

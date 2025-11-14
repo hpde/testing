@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ACE SWICS Solar Wind Data from the ACE Science Center</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:47Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:45Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:16Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:47Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:45Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -25,7 +25,7 @@ This descriptor comprises two sets of data:
 </Description>
       <PublicationInfo>
         <Authors>Gloeckler, George</Authors>
-        <PublicationDate>2025-11-12T16:00:47Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:45Z</PublicationDate>
         <PublishedBy>California Institute of Technology</PublishedBy>
       </PublicationInfo>
       <Contact>

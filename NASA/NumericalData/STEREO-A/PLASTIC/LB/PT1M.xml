@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-A PLasma and Supra-Thermal Ion Composition (PLASTIC) Beacon Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:44Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:54Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:21Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:44Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:54Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -22,7 +22,7 @@
       <Acknowledgement>A.B. Galvin, Please acknowledge the Principal Investigator, Antoinette Galvin of the University of New Hampshire, and NASA Contract NAS5-00132. See the Rules of Use available at http://stereo.sr.unh.edu/data/PLASTIC_Resources/index.htm. Data Usage Policy: Data provided are Public Domain. These Data are made available in a timely Manner for the Purpose of identifying interesting Event Periods and these Data undergo Revisions. Please consult the README File concerning Data Quality. PLASTIC Beacon Data have not been validated and should not be used for publication Purposes. Do not cite. STEREO PLASTIC Investigation, A.B. Galvin, PI, NASA Grant NNX13AP52G.</Acknowledgement>
       <PublicationInfo>
         <Authors>Galvin, Antoinette B.</Authors>
-        <PublicationDate>2025-11-12T16:15:44Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:54Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

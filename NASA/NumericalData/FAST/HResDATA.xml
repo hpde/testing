@@ -7,21 +7,21 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>FAST high resolution data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:55Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:03:05Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:34Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:55Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:03:05Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>High resolution data obtained by various instruments in the auroral region are available from UCB. They include electric and magnetic AC and DC fields data, energetic particle data, plasma waves and plasma data.</Description>
       <PublicationInfo>
         <Authors>Carlson, Charles W.</Authors>
-        <PublicationDate>2025-11-12T16:15:55Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:03:05Z</PublicationDate>
         <PublishedBy>University of California, Berkeley</PublishedBy>
       </PublicationInfo>
       <Contact>

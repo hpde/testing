@@ -7,21 +7,21 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>IMAGE Radio Plasma Imager (RPI) Plasmagram Full Resolution Binary Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:55Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:03:05Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:38Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:55Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:03:05Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>RPI plasmagram full resolution data (received signal strength in the frequency-range frame), uncalibrated. Presented as instrument packets wrapped in the standard CCSDS headers. Description of the RPI instrument-level data model can be found at http://ulcar.uml.edu/RPI/RPITelemetryDataFormat_V2.8.pdf. Data are viewed/calibrated/edited by BinBrowser software, see http://ulcar.uml.edu/rpi.html for download and users' guide. RPI plasmagrams are visualized by plotting images in which received signal strength (color scale) is a function of echo delay (range in vertical scale) and radio-sounder frequency (horizontal scale) of the radar pulses. Echoes from important magnetospheric structures, such as the magnetopause and the plasmapause, appear as traces on plasmagrams. Plasmagram traces are intermixed with vertical signatures corresponding to the locally excited plasma resonances and various natural emissions propagating in space.</Description>
       <PublicationInfo>
         <Authors>Reinisch, Bodo W.</Authors>
-        <PublicationDate>2025-11-12T16:15:55Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:03:05Z</PublicationDate>
         <PublishedBy>University of Massachusetts Lowell</PublishedBy>
       </PublicationInfo>
       <Contact>

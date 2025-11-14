@@ -7,7 +7,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Polar Electric Fields Instrument (EFI), Electric field in GSM coordinates, Burst Resolution (E_Dot0 version)</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:56Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:03:06Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:01Z</ReleaseDate>
@@ -18,7 +18,7 @@
           <Note>Added ObservedRegion(s). Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:56Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:03:06Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -26,7 +26,7 @@
       <Acknowledgement>The user will acknowledge, in any publication which uses POLAR EFI data, the instrument PI.</Acknowledgement>
       <PublicationInfo>
         <Authors>Mozer, Forrest S.</Authors>
-        <PublicationDate>2025-11-12T16:15:56Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:03:06Z</PublicationDate>
         <PublishedBy>University of California, Berkeley</PublishedBy>
       </PublicationInfo>
       <Contact>

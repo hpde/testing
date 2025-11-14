@@ -7,21 +7,21 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ISEE 3 Vector Helium Magnetometer (MAG), Magnetic Field, 1 min ASCII Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:01:24Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:26Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:40Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:01:24Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:26Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>ISEE 3 (ICE) 1-m magnetic field data, monthly ASCII files, deep space orbit phases 1984-1990</Description>
       <PublicationInfo>
         <Authors>Smith, Edward J.</Authors>
-        <PublicationDate>2025-11-12T16:01:24Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:26Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

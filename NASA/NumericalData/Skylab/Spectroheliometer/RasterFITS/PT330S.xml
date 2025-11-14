@@ -7,7 +7,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Skylab UV Solar EUV Data in Original and FITS Format</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:44Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:54Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:23Z</ReleaseDate>
@@ -18,7 +18,7 @@
           <Note>Added ObservedRegion(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:44Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:54Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -26,7 +26,7 @@
 sub-subdirectory named /README_S055, which contains a number of files some of which may be helpful in examining the data. It is recommended that those unfamiliar with the S055 experiment look at the file README_S055.txt for background, as well as other files in the README_S055 sub-subdirectory, some of which provide useful auxilliary information.  The subdirectory /raw_data contains the raw data from which the fits data files were created.  This is probably of limited use, but is included for archival purposes.</Description>
       <PublicationInfo>
         <Authors>Noyes, Robert W.</Authors>
-        <PublicationDate>2025-11-12T16:15:44Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:54Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

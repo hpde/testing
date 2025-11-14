@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 1 1-hr Averaged Triaxial Fluxgate Magnetometer (MAG) Interplanetary Magnetic Field in CDF Format</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:51Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:03:01Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:53Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:51Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:03:01Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -26,7 +26,7 @@
       <Acknowledgement>Please acknowledge the Principal Investigator, Norman F. Ness of the Bartol Research Institute, University of Delaware, and the NASA National Space Science Data Center (NSSDC) for usage of data from this site in publications and presentations.</Acknowledgement>
       <PublicationInfo>
         <Authors>Ness, Norman F.</Authors>
-        <PublicationDate>2025-11-12T16:15:51Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:03:01Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

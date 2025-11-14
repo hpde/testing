@@ -8,14 +8,14 @@
     <ResourceHeader>
       <ResourceName>THEMIS Ground-based All Sky Imager Level-0 Images</ResourceName>
       <AlternateName>THEMIS-Ground ASI Images</AlternateName>
-      <ReleaseDate>2025-11-12T16:15:58Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:03:08Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:29Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:58Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:03:08Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -23,7 +23,7 @@
       <Acknowledgement>We acknowledge NASA contract NAS5-02099 and V. Angelopoulos for use of data from the THEMIS Mission. Specifically S. Mende and E. Donovan for use of the ASI data, the CSA for logistical support in fielding and data retrieval from the GBO stations, and Canada Foundation for Innovation.</Acknowledgement>
       <PublicationInfo>
         <Authors>Angelopoulos, Vassilis; Mende, Stephen B.; Donovan, Eric</Authors>
-        <PublicationDate>2025-11-12T16:15:58Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:03:08Z</PublicationDate>
         <PublishedBy>University of California, Berkeley</PublishedBy>
       </PublicationInfo>
       <Contact>

@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STPSat-1 SHIMMER PMC Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:46Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:56Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:23Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:46Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:56Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -23,7 +23,7 @@
 In addition to the PMC data, there are PMC maps and summary figures for each year of operations.  The first figure for each year is map_YYYY.ps, where YYY represents the year. This shows the geographic location of each detected PMC, without regard to when it was detected. Also indicated on the maps are the total number of images tested for a PMC as well as the total number of PMC detected for each year. The second figure (summary_YYYY.ps) shows a time series of some important results of the analysis: the number of SHIMMER images tested,  a time series of PMC detections for the year, a time series of thresholded PMC detections, and  a time series of PMC altitudes defined as the altitude of peak brightness.  </Description>
       <PublicationInfo>
         <Authors>Englert, Christoph</Authors>
-        <PublicationDate>2025-11-12T16:15:46Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:56Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Solar Orbiter, SoloHI MVI files</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:56Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:54Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-11-15T00:08:46</ReleaseDate>
           <Note>Metadata created by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:56Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:54Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -28,7 +28,7 @@ Solar Orbiter has an open data policy.
 The appropriate journal reference to use for SoloHI data is Howard, R. et al. (2020), The Solar Orbiter Heliospheric Imager (SoloHI), A&amp;A, 642, 23, https://doi.org/10.1051/0004-6361/201935202</Acknowledgement>
       <PublicationInfo>
         <Authors>Colaninno, Robin</Authors>
-        <PublicationDate>2025-11-12T16:00:56Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:54Z</PublicationDate>
         <PublishedBy>United States Naval Research Laboratory</PublishedBy>
       </PublicationInfo>
       <Contact>

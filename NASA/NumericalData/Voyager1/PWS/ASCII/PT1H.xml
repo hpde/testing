@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 1 PWS hr-avgd and peak plasma wave data</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:56Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:54Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:55Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:56Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:54Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -35,7 +35,7 @@
 </Description>
       <PublicationInfo>
         <Authors>Gurnett, Donald A.</Authors>
-        <PublicationDate>2025-11-12T16:00:56Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:54Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility; Planetary Data System</PublishedBy>
       </PublicationInfo>
       <Contact>

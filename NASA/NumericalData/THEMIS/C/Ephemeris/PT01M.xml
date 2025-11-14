@@ -7,7 +7,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>THEMIS-C Level 1 Probe State Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:46Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:56Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -18,7 +18,7 @@
           <Note>Revised ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:46Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:56Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -41,7 +41,7 @@
       <Acknowledgement>NASA Contract NAS5-02099</Acknowledgement>
       <PublicationInfo>
         <Authors>Angelopoulos, Vassilis</Authors>
-        <PublicationDate>2025-11-12T16:15:46Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:56Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

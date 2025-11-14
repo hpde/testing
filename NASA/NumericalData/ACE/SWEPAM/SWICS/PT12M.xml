@@ -7,7 +7,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ACE SWEPAM/SWICS Level 3 Merged Solar Wind Proton Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:47Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:45Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:15Z</ReleaseDate>
@@ -18,7 +18,7 @@
           <Note>Removed spaces from description; added Naming Authority and resource type. TLK</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:47Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:45Z</ReleaseDate>
           <Note>Added PublicationInfo. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -27,7 +27,7 @@
 instrument teams and the ACE Science Center</Acknowledgement>
       <PublicationInfo>
         <Authors>McComas, David J.; Gloeckler, George</Authors>
-        <PublicationDate>2025-11-12T16:00:47Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:45Z</PublicationDate>
         <PublishedBy>California Institute of Technology</PublishedBy>
       </PublicationInfo>
       <Contact>

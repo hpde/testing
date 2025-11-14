@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-A PLASTIC 1-hour Alpha Particle Plasma Parameters</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:49Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:47Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:20Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:49Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:47Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -25,7 +25,7 @@ and proton-alpha flow speed difference.</Description>
 (A.B. Galvin, PI) and NASA Contract NAS5-00132.</Acknowledgement>
       <PublicationInfo>
         <Authors>Galvin, Antoinette B.</Authors>
-        <PublicationDate>2025-11-12T16:00:49Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:47Z</PublicationDate>
         <PublishedBy>Goddard Space Flight Center</PublishedBy>
       </PublicationInfo>
       <Contact>

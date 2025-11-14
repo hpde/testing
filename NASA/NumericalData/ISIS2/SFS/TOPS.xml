@@ -7,7 +7,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ISIS 2 CRC Electron Density Profiles</ResourceName>
-      <ReleaseDate>2025-11-12T16:01:26Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:28Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T16:38:11</ReleaseDate>
@@ -22,7 +22,7 @@
           <Note>Revised ObservedRegions. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:01:26Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:28Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -76,7 +76,7 @@ starting with the highest value (satellite height).
       <Acknowledgement>Please acknowledge the NASA Space Physics Data Facility and the instrument's Principal Investigator for data usage.</Acknowledgement>
       <PublicationInfo>
         <Authors>Jackson, John E.</Authors>
-        <PublicationDate>2025-11-12T16:01:26Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:28Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

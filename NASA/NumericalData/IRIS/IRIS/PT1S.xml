@@ -7,7 +7,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>IRIS Calibrated Images and Spectra Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:56Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:53Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:39Z</ReleaseDate>
@@ -18,7 +18,7 @@
           <Note>Added ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:56Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:53Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -48,7 +48,7 @@ into timeseries of slitjaw images and spectral raster scans.
       communications by ESA and NSC (Norway).</Acknowledgement>
       <PublicationInfo>
         <Authors>Pontieu, Bart D.</Authors>
-        <PublicationDate>2025-11-12T16:00:56Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:53Z</PublicationDate>
         <PublishedBy>Lockheed Martin United States; Hinode Science Data Centre Europe</PublishedBy>
       </PublicationInfo>
       <Contact>

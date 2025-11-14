@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ROCSAT-1 IPEI Key Parameters</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:44Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:54Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:44Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:54Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -23,7 +23,7 @@
       <Acknowledgement>Please acknowledge the data provider, Shin-Yi Su at the Institute of Space Science, National Central University of Taiwan and the NASA SPDF when using these data.</Acknowledgement>
       <PublicationInfo>
         <Authors>Su, Shin-Yi</Authors>
-        <PublicationDate>2025-11-12T16:15:44Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:54Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

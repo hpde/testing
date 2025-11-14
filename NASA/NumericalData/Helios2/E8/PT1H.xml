@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Helios 2 E8 (Keppler) Hourly Particle Fluxes</ResourceName>
-      <ReleaseDate>2025-11-12T16:01:21Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:23Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-11T18:39:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:01:21Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:23Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -28,7 +28,7 @@ included.  Data are from the E8 experiment on Helios 2.</Description>
 Institure, Lindau</Acknowledgement>
       <PublicationInfo>
         <Authors>Keppler, Erhard</Authors>
-        <PublicationDate>2025-11-12T16:01:21Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:23Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

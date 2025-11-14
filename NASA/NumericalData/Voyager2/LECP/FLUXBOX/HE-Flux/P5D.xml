@@ -8,14 +8,14 @@
     <ResourceHeader>
       <ResourceName>Voyager 2 Low-Energy Charged Particle (LECP) He Fluxbox Fluxes in ASCII Format 5-day</ResourceName>
       <AlternateName>V2-LECP-FLUXBOX-HE-FLUX-P5D</AlternateName>
-      <ReleaseDate>2025-11-12T16:00:53Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:50Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:56Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:53Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:50Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -25,7 +25,7 @@
       <Acknowledgement>Please acknowledge the LECP PI (S.M. Krimigis) and the lead LECP CoI (R.B. Decker)</Acknowledgement>
       <PublicationInfo>
         <Authors>Krimigis, Stamatios M.; Decker, Robert B.</Authors>
-        <PublicationDate>2025-11-12T16:00:53Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:50Z</PublicationDate>
         <PublishedBy>Johns Hopkins University Applied Physics Laboratory</PublishedBy>
       </PublicationInfo>
       <Contact>

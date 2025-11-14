@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Ulysses Dust Detection System Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:46Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:56Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:40Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:46Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:56Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -22,7 +22,7 @@
       <Acknowledgement>Please acknowledge the Ulysses team and the National Space Science Data Center.</Acknowledgement>
       <PublicationInfo>
         <Authors>Grun, Eberhard</Authors>
-        <PublicationDate>2025-11-12T16:15:46Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:56Z</PublicationDate>
         <PublishedBy>Planetary Data System; Space Physics Data Facility; European Space Astronomy Centre</PublishedBy>
       </PublicationInfo>
       <Contact>

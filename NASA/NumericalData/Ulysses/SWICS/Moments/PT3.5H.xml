@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Ulysses SWICS Solar Wind Moments of Main Heavy Ions 3.5 Hour Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:48Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:58Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:49Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:48Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:58Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -23,7 +23,7 @@
 Use of these data in publications should be accompanied by acknowledgements of the NASA Space Physics Data Facility, the National Space Science Data Center and the responsible Principal Investigator defined in the experiment documentation provided here. </Acknowledgement>
       <PublicationInfo>
         <Authors>Gloeckler, George</Authors>
-        <PublicationDate>2025-11-12T16:15:48Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:58Z</PublicationDate>
         <PublishedBy>Planetary Data System; Space Physics Data Facility; European Space Astronomy Centre</PublishedBy>
       </PublicationInfo>
       <Contact>

@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ISEE 3 Isotopic Abundance Ratios</ResourceName>
-      <ReleaseDate>2025-11-12T16:01:23Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:25Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-05-15T18:39:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:01:23Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:25Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -33,7 +33,7 @@ publication(s) as mentioned above, and acknowledge Mark Wiedenbeck, the
 ISEE 3 instrument Principal Investigator.</Acknowledgement>
       <PublicationInfo>
         <Authors>Wiedenbeck, Mark E.</Authors>
-        <PublicationDate>2025-11-12T16:01:23Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:25Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

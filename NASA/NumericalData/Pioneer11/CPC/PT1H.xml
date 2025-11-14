@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Pioneer 11 Charged Particle Composition (CPC) 1-Hour Count Rates</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:43Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:53Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-11T18:39:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:43Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:53Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -30,7 +30,7 @@ also available via ftp from nssdcftp.gsfc.nasa.gov.</Description>
 and the GSFC Space Physics Data Facility.</Acknowledgement>
       <PublicationInfo>
         <Authors>Simpson, John A.</Authors>
-        <PublicationDate>2025-11-12T16:15:43Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:53Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Mariner 10 Magnetometer 1-hr Data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:42Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:52Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:59Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:42Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:52Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -25,7 +25,7 @@ the radial, tangential, and normal components of the magnetic field (in heliogra
 NSSDC for usage of this data set in presentations and publications.</Acknowledgement>
       <PublicationInfo>
         <Authors>Ness, Norman F.</Authors>
-        <PublicationDate>2025-11-12T16:15:42Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:52Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

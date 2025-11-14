@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 2 Hourly Magnetic Field Data from 1990-2004</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:52Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:03:01Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-11T18:39:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:52Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:03:01Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -22,7 +22,7 @@
       <Acknowledgement>Use of these data in publications should be accompanied at minimum by acknowledgements of the National Space Science Data Center and the Principal Investigator Norman Ness.</Acknowledgement>
       <PublicationInfo>
         <Authors>Ness, Norman F.</Authors>
-        <PublicationDate>2025-11-12T16:15:52Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:03:01Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

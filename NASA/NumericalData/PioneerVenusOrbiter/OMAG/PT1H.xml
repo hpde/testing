@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Pioneer Venus Orbiter(PVO) hourly averaged magnetic field data</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:44Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:02:54Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-11T18:39:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:44Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:02:54Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -22,7 +22,7 @@
       <Acknowledgement>Please acknowledge the Principal Investigator, Dr. Christopher Russell, and SPDF.</Acknowledgement>
       <PublicationInfo>
         <Authors>Russell, Christopher T.</Authors>
-        <PublicationDate>2025-11-12T16:15:44Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:02:54Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

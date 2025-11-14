@@ -10,7 +10,7 @@
       <AlternateName>Cluster Samba Wideband (WBD) Data Plasma Wave Receiver/High Time Resolution Waveform Data Returned via BM2</AlternateName>
       <AlternateName>C3_CE_WBD_WAVEFORM_BM2_CDF</AlternateName>
       <AlternateName>C3_WAVEFORM_WBD_BM2</AlternateName>
-      <ReleaseDate>2025-11-12T16:00:49Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:46Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -21,7 +21,7 @@
           <Note>Revised ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:49Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:46Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -29,7 +29,7 @@
       <Acknowledgement>Users of the Cluster WBD data are encouraged to acknowledge Jolene S. Pickett, PI and Donald A. Gurnett, Co-I University of Iowa and the Coordinated Data Analysis Web (CDAWeb) at the NASA Goddard Space Flight Center, or the Cluster Science Archive, as appropriate, as the source of the data in any publication.</Acknowledgement>
       <PublicationInfo>
         <Authors>Pickett, Jolene S.; Gurnett, Donald A.</Authors>
-        <PublicationDate>2025-11-12T16:00:49Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:46Z</PublicationDate>
         <PublishedBy>European Space Astronomy Centre</PublishedBy>
       </PublicationInfo>
       <Contact>

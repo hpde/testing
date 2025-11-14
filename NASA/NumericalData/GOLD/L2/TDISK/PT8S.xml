@@ -7,7 +7,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Gold Level L2 thermospheric TDISK</ResourceName>
-      <ReleaseDate>2025-11-12T16:15:53Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:03:02Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-09-14T16:47:17</ReleaseDate>
@@ -22,7 +22,7 @@
           <Note>Contacts revised. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:15:53Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:03:02Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -44,7 +44,7 @@ Krywonos, A., D. J. Murray, R. W. Eastes, A. Aksnes, S. A. Budzien, and R. E. Da
       <Acknowledgement>National Aeronautics and Space Administration; Dr. Richard Eastes</Acknowledgement>
       <PublicationInfo>
         <Authors>Eastes, Richard; Evans, J. S.</Authors>
-        <PublicationDate>2025-11-12T16:15:53Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:03:02Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

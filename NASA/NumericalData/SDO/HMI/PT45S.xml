@@ -7,14 +7,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>SDO/HMI Data Products at JSOC/Stanford U.</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:55Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:01:53Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:17Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:55Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:01:53Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -29,7 +29,7 @@ vector magnetograms (maps of the photospheric magnetic field).
 </Description>
       <PublicationInfo>
         <Authors>Scherrer, Philip H.</Authors>
-        <PublicationDate>2025-11-12T16:00:55Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:01:53Z</PublicationDate>
         <PublishedBy>Stanford University</PublishedBy>
       </PublicationInfo>
       <Contact>
