@@ -7,14 +7,14 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-B PLASTIC Alpha Plasma Parameters Plots</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:32Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:38Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:37Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:32Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:38Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -22,7 +22,7 @@
       <Acknowledgement>Please acknowledge STEREO PLASTIC Investigation (A.B. Galvin, PI) and NASA Contract NAS5-00132.</Acknowledgement>
       <PublicationInfo>
         <Authors>Galvin, Antoinette B.</Authors>
-        <PublicationDate>2025-11-12T16:00:32Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:38Z</PublicationDate>
         <PublishedBy>University of New Hampshire</PublishedBy>
       </PublicationInfo>
       <Contact>

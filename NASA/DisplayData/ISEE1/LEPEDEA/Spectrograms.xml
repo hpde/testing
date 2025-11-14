@@ -7,14 +7,14 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>ISEE 1 LEPEDEA Ion and Electron Spectrograms</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:27Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:33Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-02-11T14:27:06Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:27Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:33Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -29,7 +29,7 @@ every four hours across the time axis.  </Description>
 team at U. Iowa, L.A. Frank, Principal Investigator</Acknowledgement>
       <PublicationInfo>
         <Authors>Frank, Louis A.</Authors>
-        <PublicationDate>2025-11-12T16:00:27Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:33Z</PublicationDate>
         <PublishedBy>University of Iowa</PublishedBy>
       </PublicationInfo>
       <Contact>

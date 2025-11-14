@@ -7,21 +7,21 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>Ulysses EPAC flux plots</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:29Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:35Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:38Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:29Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:35Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>27-day and annual plots of selected proton and electron fluxes, plus some count rates</Description>
       <PublicationInfo>
         <Authors>Bruns, Michael</Authors>
-        <PublicationDate>2025-11-12T16:00:29Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:35Z</PublicationDate>
         <PublishedBy>Ulysses Final Archive (ESA)</PublishedBy>
       </PublicationInfo>
       <Contact>

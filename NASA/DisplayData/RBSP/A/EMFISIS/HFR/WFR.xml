@@ -7,7 +7,7 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>Van Allen Probe A Electric and Magnetic Field Instrument Suite and Integrated Science (EMFISIS) high frequency receiver waveform data plots</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:28Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:34Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:35Z</ReleaseDate>
@@ -18,14 +18,14 @@
           <Note>Added ObservedRegion(s). Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:28Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:34Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>Van Allen Probe A Electric and Magnetic Field Instrument Suite and Integrated Science (EMFISIS) high frequency receiver waveform data plots</Description>
       <PublicationInfo>
         <Authors>Kletzing, Craig A.</Authors>
-        <PublicationDate>2025-11-12T16:00:28Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:34Z</PublicationDate>
         <PublishedBy>University of Iowa</PublishedBy>
       </PublicationInfo>
       <Contact>

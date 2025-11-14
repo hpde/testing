@@ -7,7 +7,7 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>Gold Level 1D Occultation Plots</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:25Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:31Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-09-14T16:47:17Z</ReleaseDate>
@@ -18,7 +18,7 @@
           <Note>Modified Funding Agency and AwardNumber. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:25Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:31Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -36,7 +36,7 @@
       <Acknowledgement>National Aeronautics and Space Administration; Dr. Richard Eastes</Acknowledgement>
       <PublicationInfo>
         <Authors>Eastes, Richard</Authors>
-        <PublicationDate>2025-11-12T16:00:25Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:31Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Funding>

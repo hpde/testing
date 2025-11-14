@@ -7,21 +7,21 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>Ulysses HISCALE particle fluxes, plots</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:29Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:35Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:38Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:29Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:35Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>Plots of electron, proton, alpha particle and Z&gt;2 fluxes,</Description>
       <PublicationInfo>
         <Authors>Lanzerotti, Louis J.</Authors>
-        <PublicationDate>2025-11-12T16:00:29Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:35Z</PublicationDate>
         <PublishedBy>Ulysses Final Archive (ESA)</PublishedBy>
       </PublicationInfo>
       <Contact>

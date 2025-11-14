@@ -7,14 +7,14 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-B SECCHI telescopes images and movies</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:29Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:35Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:37Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:29Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:35Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -31,7 +31,7 @@ etc, please give the appropriate image credits ("STEREO/SECCHI"
 will usually suffice).</Acknowledgement>
       <PublicationInfo>
         <Authors>Howard, Russell A.</Authors>
-        <PublicationDate>2025-11-12T16:00:29Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:35Z</PublicationDate>
         <PublishedBy>United States Naval Research Laboratory; Integrated Data and Operation Center</PublishedBy>
       </PublicationInfo>
       <Contact>

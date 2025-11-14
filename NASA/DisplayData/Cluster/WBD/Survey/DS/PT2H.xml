@@ -9,14 +9,14 @@
       <ResourceName>Cluster Wideband (WBD) Survey Dynamic Spectrogram Plot</ResourceName>
       <AlternateName>Cluster WBD Overview Spectrogram</AlternateName>
       <AlternateName>CM_CG_WBD_SPECPLOT_OVERVIEW_PNG</AlternateName>
-      <ReleaseDate>2025-11-12T16:00:27Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:33Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-02-12T20:40:18Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:27Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:33Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -24,7 +24,7 @@
       <Acknowledgement>Users please acknowledge Jolene S. Pickett, PI and Donald A. Gurnett, Co-I University of Iowa for making these dynamic spectrograms available.</Acknowledgement>
       <PublicationInfo>
         <Authors>Pickett, Jolene S.; Gurnett, Donald A.</Authors>
-        <PublicationDate>2025-11-12T16:00:27Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:33Z</PublicationDate>
         <PublishedBy>European Space Astronomy Centre; University of Iowa</PublishedBy>
       </PublicationInfo>
       <Contact>

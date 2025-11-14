@@ -7,21 +7,21 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>Ulysses magnetic field data plots at ESA</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:29Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:35Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:38Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:29Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:35Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>1-min and 1-hour Ulysses magnetic field data at ESA, also 1-sec data for 1990-3</Description>
       <PublicationInfo>
         <Authors>Balogh, Andre</Authors>
-        <PublicationDate>2025-11-12T16:00:29Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:35Z</PublicationDate>
         <PublishedBy>Ulysses Final Archive (ESA)</PublishedBy>
       </PublicationInfo>
       <Contact>

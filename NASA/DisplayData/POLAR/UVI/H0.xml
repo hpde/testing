@@ -7,21 +7,21 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>Polar Ultraviolet Imager H0 High-Resolution Images</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:26Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:32Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:26Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:32Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>This data set contains detected and produced images of the ultraviolet light of the aurora, day and night. from the Polar UltraViolet Imager (UVI) experiment.</Description>
       <PublicationInfo>
         <Authors>Parks, George K.</Authors>
-        <PublicationDate>2025-11-12T16:00:26Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:32Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

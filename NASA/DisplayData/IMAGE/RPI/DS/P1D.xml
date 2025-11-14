@@ -7,14 +7,14 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>IMAGE Radio Plasma Imager (RPI) Daily Dynamic Spectrogram Plot</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:29Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:35Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-07-19T14:39:57Z</ReleaseDate>
           <Note>Changed an Input Resource ID from VSPO to NASA</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:29Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:35Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -22,7 +22,7 @@
       <Acknowledgement>Users please acknowledge B. W. Reinisch of the University of Massachusetts Lowell and J. L. Green of the NASA Goddard Space Flight Center for making these dynamic spectrograms available.</Acknowledgement>
       <PublicationInfo>
         <Authors>Reinisch, Bodo W.</Authors>
-        <PublicationDate>2025-11-12T16:00:29Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:35Z</PublicationDate>
         <PublishedBy>Goddard Space Flight Center</PublishedBy>
       </PublicationInfo>
       <Contact>

@@ -7,14 +7,14 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>TIMED GUVI Level 1C FUV airglow radiance images.</ResourceName>
-      <ReleaseDate>2025-11-12T16:00:26Z</ReleaseDate>
+      <ReleaseDate>2025-11-14T16:17:32Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-10-02T19:45:37Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-12T16:00:26Z</ReleaseDate>
+          <ReleaseDate>2025-11-14T16:17:32Z</ReleaseDate>
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -22,7 +22,7 @@
       <Acknowledgement>NASA, Andrew B. Christensen</Acknowledgement>
       <PublicationInfo>
         <Authors>Christensen, Andrew B.</Authors>
-        <PublicationDate>2025-11-12T16:00:26Z</PublicationDate>
+        <PublicationDate>2025-11-14T16:17:32Z</PublicationDate>
         <PublishedBy>Johns Hopkins University Applied Physics Laboratory; Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>
