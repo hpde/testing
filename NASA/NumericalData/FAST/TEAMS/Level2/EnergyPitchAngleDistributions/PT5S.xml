@@ -1,13 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema https://www.spase-group.org/data/schema/spase-2.7.0.xsd">
-  <Version>2.7.0</Version>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema https://www.spase-group.org/data/schema/spase-2.7.1.xsd">
+  <Version>2.7.1</Version>
+  <MetadataRightsList>
+    <Rights>
+      <SchemeURI>https://spdx.org/licenses/</SchemeURI>
+      <RightsIdentifierScheme>SPDX</RightsIdentifierScheme>
+      <RightsIdentifier>CC0-1.0</RightsIdentifier>
+      <RightsURI>https://spdx.org/licenses/CC0-1.0.html</RightsURI>
+      <RightsName>Creative Commons Zero v1.0 Universal</RightsName>
+      <Note>CC0 1.0 Universal is the Creative Commons license applicable to all publicly available SPASE metadata descriptions</Note>
+    </Rights>
+  </MetadataRightsList>
   <NumericalData>
     <ResourceID>spase://NASA/NumericalData/FAST/TEAMS/Level2/EnergyPitchAngleDistributions/PT5S</ResourceID>
     <NamingAuthority>NASA</NamingAuthority>
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>FAST Time of Flight Energy Angle Mass Spectrograph (TEAMS) Energy-Pitch Angle Distributions, Level 2 (L2), 5 s Data</ResourceName>
-      <ReleaseDate>2025-11-14T16:01:58Z</ReleaseDate>
+      <ReleaseDate>2025-12-03T17:36:35Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-05-20T12:34:56.789Z</ReleaseDate>
@@ -26,8 +36,8 @@
           <Note>Added ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-11-14T16:01:58Z</ReleaseDate>
-          <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
+          <ReleaseDate>2025-12-03T17:36:35Z</ReleaseDate>
+          <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>Fast Auroral SnapshoT Explorer, FAST, Time-of-flight Energy Angle Mass Spectrograph, TEAMS, Level 2 Energy-Pitch Angle Distributions
@@ -38,11 +48,6 @@ TEAMS selects the incoming ions according to energy per charge in the range from
 
 The instrument axis of symmetry is perpendicular to the spacecraft spin axis and the spacecraft surface. TEAMS operates in a number of different data acquisition modes. The Survey Distribution mode samples H°, O°, He°, and He°² with high angular (64 bin) and energy (48 bin) resolution. Time resolution can be as low as 80 ms (slow survey) and as high as 10 ms (fast survey). The High Mass Distribution mode uses a high mass (64 bin) resolution to identify minor species with lower resolution angular and energy resolution with 16 bins for each. The High Mass Distribution mode time resolution varies from 80 ms (slow) to 20 ms (fast). Burst mode provides data for the four major ion species with the highest time resolution (0.08 ms) with 16 angle bin and 48 energy bin resolution. Additional measurement modes are geared towards the Pole Channels, Monitor Rates, and pulse height analysis, PHA, events.</Description>
       <Acknowledgement>Please acknowledge the Principal Investigator L.M. Kistler for use of the Data</Acknowledgement>
-      <PublicationInfo>
-        <Authors>Kistler, Lynn M.</Authors>
-        <PublicationDate>2025-11-14T16:01:58Z</PublicationDate>
-        <PublishedBy>Space Physics Data Facility</PublishedBy>
-      </PublicationInfo>
       <Contact>
         <PersonID>spase://SMWG/Person/Lynn.M.Kistler</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -91,6 +96,16 @@ The instrument axis of symmetry is perpendicular to the spacecraft spin axis and
       <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
+      <RightsList>
+        <Rights>
+          <SchemeURI>https://spdx.org/licenses/</SchemeURI>
+          <RightsIdentifierScheme>SPDX</RightsIdentifierScheme>
+          <RightsIdentifier>CC0-1.0</RightsIdentifier>
+          <RightsURI>https://spdx.org/licenses/CC0-1.0.html</RightsURI>
+          <RightsName>Creative Commons Zero v1.0 Universal</RightsName>
+          <Note>CC0 1.0 Universal is the Creative Commons license applicable to all publicly available NASA Heliophysics data products</Note>
+        </Rights>
+      </RightsList>
       <AccessURL>
         <Name>FTPS from SPDF (not with most browsers)</Name>
         <URL>ftps://spdf.gsfc.nasa.gov/pub/data/fast/teams/l2/</URL>
