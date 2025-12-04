@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>PUNCH NFI Level 0 Science images in the clear polarization state</ResourceName>
       <DOI>https://doi.org/10.48322/rdxc-x144</DOI>
-      <ReleaseDate>2025-12-03T17:40:50Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:03Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-05-20T00:08:46Z</ReleaseDate>
@@ -33,7 +33,7 @@
           <Note>Added DOI by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:40:50Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:03Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

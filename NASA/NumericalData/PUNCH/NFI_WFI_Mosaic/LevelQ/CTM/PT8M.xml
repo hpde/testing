@@ -17,14 +17,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Quick PUNCH Clear Mosaics (Trefoil) Data</ResourceName>
-      <ReleaseDate>2025-12-03T17:40:51Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:05Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-09-06T00:08:46</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:40:51Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:05Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>SOHO Definitive Orbit, 10 min Data, Spacecraft Position and Velocity in GCI, GSE, GSE, HEC, and HG Coordinates</ResourceName>
-      <ReleaseDate>2025-12-03T17:41:13Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:29Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Revised ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:13Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:29Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

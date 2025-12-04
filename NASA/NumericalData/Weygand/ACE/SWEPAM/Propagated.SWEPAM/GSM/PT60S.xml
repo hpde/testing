@@ -19,7 +19,7 @@
       <ResourceName>ACE SWEPAM Solar Wind Weimer Propagated 60 s Resolution Data in GSM Coordinates</ResourceName>
       <AlternateName>ACE SWEPAM data</AlternateName>
       <DOI>https://doi.org/10.21978/p8s62r</DOI>
-      <ReleaseDate>2025-12-03T17:42:29Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:43Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-05-31T12:34:56.789</ReleaseDate>
@@ -34,7 +34,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:29Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:43Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

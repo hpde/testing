@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>PSP FIELDS Digital Fields Board Single Ended Voltage Burst Waveform, Data</ResourceName>
       <DOI>https://doi.org/10.48322/qvh5-g747</DOI>
-      <ReleaseDate>2025-12-03T17:39:24Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:30:19Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-07-07T12:34:56.789</ReleaseDate>
@@ -29,7 +29,7 @@
           <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Added DOI. TLK</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:39:24Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:30:19Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

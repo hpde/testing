@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>RENU2 Electron Plasma Detector (EPLAS) Precipitating Electron Total Energy Flux, (H0), 42 ms Data</ResourceName>
       <DOI>https://doi.org/10.48322/5zvf-1q82</DOI>
-      <ReleaseDate>2025-12-03T17:41:06Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:21Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-06-21T19:14:57</ReleaseDate>
@@ -37,7 +37,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:06Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:21Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Parker Solar Probe/FIELDS Simplified Quasi-Thermal Noise data</ResourceName>
       <DOI>https://doi.org/10.48322/jdj2-1912</DOI>
-      <ReleaseDate>2025-12-03T17:39:26Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:30:20Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-08-31T12:34:56.789Z</ReleaseDate>
@@ -33,7 +33,7 @@
           <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Added ResourceType and NamingAuthority. Added DOI. TLK</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:39:26Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:30:20Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

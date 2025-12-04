@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ISIS-2 Topside Sounder Average Ionogram over Santiago, Chile: SNT, Latitude -33, Longitude 298</ResourceName>
-      <ReleaseDate>2025-12-03T17:38:22Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:43Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -32,7 +32,7 @@
           <Note>Fixed HTML character codes. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:38:22Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:43Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -17,14 +17,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>DE-2 0.5-s magnetic and electric field data</ResourceName>
-      <ReleaseDate>2025-12-03T17:36:30Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:07Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:31Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:36:30Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:07Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

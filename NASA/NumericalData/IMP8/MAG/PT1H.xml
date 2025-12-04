@@ -17,14 +17,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>IMP 8 MAG hourly IMF data</ResourceName>
-      <ReleaseDate>2025-12-03T17:38:13Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:35Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:39Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:38:13Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:35Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

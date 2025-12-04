@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>TWINS 1, TWINS 2 Storm Time Equatorial Magnetospheric Ion Temperatures derived from Energetic Neutral Fluxes (ENA), Modified Data 2 (MD2), 10 min Data</ResourceName>
       <DOI>https://doi.org/10.48322/grxp-5t19</DOI>
-      <ReleaseDate>2025-12-03T17:41:52Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:07Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -37,7 +37,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:52Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:07Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

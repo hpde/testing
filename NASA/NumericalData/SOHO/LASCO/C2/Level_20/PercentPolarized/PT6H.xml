@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>SOHO LASCO C2 Percent Polarized FITS Data</ResourceName>
       <DOI>https://doi.org/10.48322/r515-1367</DOI>
-      <ReleaseDate>2025-12-03T17:41:14Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:29Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-08-10T00:08:46</ReleaseDate>
@@ -41,7 +41,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:14Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:29Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

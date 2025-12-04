@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-B PLASTIC Alfvén Wave List</ResourceName>
-      <ReleaseDate>2025-12-03T17:41:23Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:38Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:22Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:23Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:38Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

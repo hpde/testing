@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-B multi-instrument Level 1 IMPACT data from UCB</ResourceName>
-      <ReleaseDate>2025-12-03T17:41:22Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:37Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:22Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:22Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:37Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

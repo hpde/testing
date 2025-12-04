@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>PUNCH WFI3 Level 1 Science images in the zero degree polarization state</ResourceName>
       <DOI>https://doi.org/10.48322/2gry-kg12</DOI>
-      <ReleaseDate>2025-12-03T17:40:53Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:07Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-07-21T00:08:46</ReleaseDate>
@@ -29,7 +29,7 @@
           <Note>Added DOI by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:40:53Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:07Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

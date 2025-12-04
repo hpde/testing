@@ -17,14 +17,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>TRACE Digital Data</ResourceName>
-      <ReleaseDate>2025-12-03T17:41:52Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:07Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:39Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:52Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:07Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

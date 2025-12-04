@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>SDO/HMI Data Products at JSOC/Stanford U.</ResourceName>
-      <ReleaseDate>2025-12-03T17:41:10Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:25Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:17Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:10Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:25Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -19,7 +19,7 @@
       <ResourceName>THEMIS-C: Solid State Telescope (SST): Energy flux spectrogram, electron/ion ground-calculated fluxes (30 keV - 300 keV).</ResourceName>
       <AlternateName>THEMIS-C SST</AlternateName>
       <DOI>https://doi.org/10.48322/hj63-0x15</DOI>
-      <ReleaseDate>2025-12-03T17:41:29Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:44Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -38,7 +38,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:29Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:44Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

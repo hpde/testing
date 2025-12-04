@@ -19,7 +19,7 @@
       <ResourceName>ACE Electron Proton Alpha Monitor (EPAM) CA60 PHA Heavy Ion Spectra, Daily-Averages</ResourceName>
       <AlternateName>EPAM-PHA-SPECTRA</AlternateName>
       <DOI>https://doi.org/10.48322/s1mh-9311</DOI>
-      <ReleaseDate>2025-12-03T17:35:36Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:28:11Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:06</ReleaseDate>
@@ -38,7 +38,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:36Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:28:11Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

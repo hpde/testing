@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>TIMED SEE Level2A EGS Solar Irradiance Data</ResourceName>
-      <ReleaseDate>2025-12-03T17:41:51Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:06Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:38Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:51Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:06Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

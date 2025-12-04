@@ -18,14 +18,14 @@
     <ResourceHeader>
       <ResourceName>SOHO MDI Dopplergram Data</ResourceName>
       <DOI>10.48322/nvsm-n779</DOI>
-      <ReleaseDate>2025-12-03T17:41:14Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:30Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-09-23T13:51:49</ReleaseDate>
           <Note>Added DOI and Changed release date.</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:14Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:30Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

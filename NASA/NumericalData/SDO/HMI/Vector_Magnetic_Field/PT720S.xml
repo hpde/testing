@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>SDO/HMI Vector Magnetic Field</ResourceName>
       <DOI>https://doi.org/10.48322/qa09-xp16</DOI>
-      <ReleaseDate>2025-12-03T17:41:11Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:27Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-11-01T00:08:46</ReleaseDate>
@@ -37,7 +37,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:11Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:27Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

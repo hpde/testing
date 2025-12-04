@@ -20,7 +20,7 @@
       <AlternateName>Dynamics Explorer 2 0.5-s DC Electric Field ASCII data</AlternateName>
       <AlternateName>DE-B 0.5-s DC Electric Field ASCII data</AlternateName>
       <DOI>https://doi.org/10.48322/8c9v-t045</DOI>
-      <ReleaseDate>2025-12-03T17:36:31Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:08Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-11T18:39:11Z</ReleaseDate>
@@ -31,7 +31,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:36:31Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:08Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

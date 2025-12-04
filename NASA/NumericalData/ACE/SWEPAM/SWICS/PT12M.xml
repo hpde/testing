@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>ACE SWEPAM/SWICS Level 3 Merged Solar Wind Proton Data</ResourceName>
       <DOI>https://doi.org/10.48322/fba2-gy35</DOI>
-      <ReleaseDate>2025-12-03T17:35:49Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:28:25Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:15Z</ReleaseDate>
@@ -33,7 +33,7 @@
           <Note>Added PublicationInfo. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:49Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:28:25Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

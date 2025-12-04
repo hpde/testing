@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Advanced Mesospheric Temperature Mapper, Radiance Data</ResourceName>
-      <ReleaseDate>2025-12-03T17:35:54Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:28:30Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-04-16T12:34:56.789</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Revised metadata, JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:54Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:28:30Z</ReleaseDate>
           <Note>Added MetadataRightsList and corrected RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

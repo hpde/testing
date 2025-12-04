@@ -19,7 +19,7 @@
       <ResourceName>THEMIS GBO All Sky Imager at Athabasca, AB, Canada. ASI Thumbnails Data.</ResourceName>
       <AlternateName>THEMIS-Ground AST</AlternateName>
       <DOI>https://doi.org/10.48322/kf6x-8x48</DOI>
-      <ReleaseDate>2025-12-03T17:41:32Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:47Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-06-27T13:00:00Z</ReleaseDate>
@@ -38,7 +38,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:32Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:47Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

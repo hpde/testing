@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>STEREO-B IMPACT (In-Situ Measurements of Particles and CME Transients) Solar Electron Proton Telescope (SEPT) 1-min Level 1 Electron and Proton Spectra</ResourceName>
       <DOI>https://doi.org/10.48322/y2fy-vb66</DOI>
-      <ReleaseDate>2025-12-03T17:41:22Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:38Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -33,7 +33,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:22Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:38Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -17,14 +17,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Digital Fields Board Differential Voltage Burst Waveform, Data</ResourceName>
-      <ReleaseDate>2025-12-03T17:39:24Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:30:19Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-07-07T12:34:56.789</ReleaseDate>
           <Note>Initial release of metadata, ADAPT generated, LFB, modified, SAB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:39:24Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:30:19Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

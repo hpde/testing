@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Hawkeye Spacecraft Low Energy Proton-Electron Differential Energy Analyzer (LEPEDEA), ion moments</ResourceName>
-      <ReleaseDate>2025-12-03T17:37:58Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:19Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:37:58Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:19Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

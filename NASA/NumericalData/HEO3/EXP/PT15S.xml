@@ -17,14 +17,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>HEO-3 Data from the EXP instrument in 15-second averages</ResourceName>
-      <ReleaseDate>2025-12-03T17:38:01Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:21Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:34Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:38:01Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:21Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

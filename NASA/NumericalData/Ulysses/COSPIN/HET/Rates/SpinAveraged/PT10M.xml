@@ -19,7 +19,7 @@
       <ResourceName>Ulysses Cosmic Ray and Solar Particle Investigation (COSPIN) High Energy Telescope (HET) Ion and Electron Spin-Averaged Coincidence Counting Rates, 10 min Data</ResourceName>
       <AlternateName>COSPIN-HET-RATES-PT10M</AlternateName>
       <DOI>https://doi.org/10.48322/s9mg-he04</DOI>
-      <ReleaseDate>2025-12-03T17:41:54Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:09Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -38,7 +38,7 @@
           <Note>Revised ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:54Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:09Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

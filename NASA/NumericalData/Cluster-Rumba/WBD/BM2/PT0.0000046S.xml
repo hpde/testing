@@ -21,7 +21,7 @@
       <AlternateName>C1_CE_WBD_WAVEFORM_BM2_CDF</AlternateName>
       <AlternateName>C1_WAVEFORM_WBD_BM2</AlternateName>
       <DOI>https://doi.org/10.48322/pr6f-rd05</DOI>
-      <ReleaseDate>2025-12-03T17:36:24Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:02Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -44,7 +44,7 @@
           <Note>Revised ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:36:24Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:02Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

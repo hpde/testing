@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Helios 1 E6 (Kunow) Hourly Particle Fluxes in ASCII Format</ResourceName>
-      <ReleaseDate>2025-12-03T17:37:59Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:19Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-11T18:39:11Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:37:59Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:19Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

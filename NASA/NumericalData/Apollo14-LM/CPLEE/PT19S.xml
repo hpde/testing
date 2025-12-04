@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Apollo 14 ALSEP Electron and Proton Spectra, offline at NSSDC</ResourceName>
       <DOI>https://doi.org/10.48322/k5xx-9t25</DOI>
-      <ReleaseDate>2025-12-03T17:35:53Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:28:29Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-10T20:13:28Z</ReleaseDate>
@@ -29,7 +29,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:53Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:28:29Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

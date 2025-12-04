@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>STEREO-B Carrington Maps for the SECCHI Cor1 Telescope</ResourceName>
       <DOI>https://doi.org/10.48322/2z40-m758</DOI>
-      <ReleaseDate>2025-12-03T17:41:24Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:39Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-01-03T00:08:46Z</ReleaseDate>
@@ -41,7 +41,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:24Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:39Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

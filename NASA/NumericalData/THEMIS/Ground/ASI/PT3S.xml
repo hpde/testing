@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>THEMIS Ground-based All Sky Imager Level-0 Images</ResourceName>
       <AlternateName>THEMIS-Ground ASI Images</AlternateName>
-      <ReleaseDate>2025-12-03T17:41:31Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:47Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:29Z</ReleaseDate>
@@ -29,7 +29,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:31Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:47Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

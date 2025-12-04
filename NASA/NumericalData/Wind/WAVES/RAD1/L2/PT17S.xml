@@ -19,14 +19,14 @@
       <ResourceName>Wind Radio/Plasma Wave, (WAVES) Radio Receiver Band 1 (RAD1) Data</ResourceName>
       <AlternateName>WI_L2_WAV_RAD1</AlternateName>
       <DOI/>
-      <ReleaseDate>2025-12-03T17:42:51Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:33:08Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-11-20T18:48:59Z</ReleaseDate>
           <Note>Created by JMW.</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:51Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:33:08Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

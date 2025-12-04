@@ -17,7 +17,7 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>IMP-8 Electrostatic Energy-Charge Analyzer, EECA, 12-day Flux Plots</ResourceName>
-      <ReleaseDate>2025-12-03T17:35:26Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:27:59Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:34</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Updated one AccessURL URL by JMW 2022-06-02, revised NumericalData ResourceID, added Prior ID, expanded the ResourceName, ResourceHeader Description, and AccessURL Name text fields, added Cadence and DisplayCadence text values, metadata updated to SPASE 2.4.1, reviewed by LFB 20220724</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:26Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:27:59Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

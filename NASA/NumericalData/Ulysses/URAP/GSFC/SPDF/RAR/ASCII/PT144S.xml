@@ -19,7 +19,7 @@
       <ResourceName>Ulysses Unified Radio and Plasma wave (URAP) Radio Astronomy Receiver (RAR) 144 Second Data in ASCII</ResourceName>
       <AlternateName>Ulysses Unified Radio and Plasma Wave Experiment - Radio Astronomy Receiver 144 Second Resolution ASCII Data</AlternateName>
       <DOI>https://doi.org/10.48322/49sc-0d06</DOI>
-      <ReleaseDate>2025-12-03T17:42:08Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:23Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:50Z</ReleaseDate>
@@ -30,7 +30,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:08Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:23Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>BARREL 1M X-ray Spectrometer (FSPC) Bremsstrahlung X-ray Spectrum Fast Time Resolution, Level 2, 0.05 s Data</ResourceName>
       <DOI>https://doi.org/10.48322/wkna-7f79</DOI>
-      <ReleaseDate>2025-12-03T17:35:59Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:28:36Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-29T12:34:56.789</ReleaseDate>
@@ -37,7 +37,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:59Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:28:36Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

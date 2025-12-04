@@ -20,7 +20,7 @@
       <AlternateName>WI_H0_SWE_v01</AlternateName>
       <AlternateName>WI_H0_SWE_v02</AlternateName>
       <DOI>https://doi.org/10.48322/2jxp-7x36</DOI>
-      <ReleaseDate>2025-12-03T17:42:50Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:33:07Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-05-31T12:34:56.789</ReleaseDate>
@@ -35,7 +35,7 @@
           <Note>Revised ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:50Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:33:07Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

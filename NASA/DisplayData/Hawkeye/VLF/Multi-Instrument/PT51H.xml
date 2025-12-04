@@ -18,14 +18,14 @@
     <ResourceHeader>
       <ResourceName>Hawkeye Multi-Instrument Summary Plots</ResourceName>
       <AlternateName>Two-day Summary Plots</AlternateName>
-      <ReleaseDate>2025-12-03T17:35:25Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:27:58Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:33Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:25Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:27:58Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

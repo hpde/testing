@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Van Allen Probe A Single Axis AC Electric Field Spectra merged data</ResourceName>
       <DOI>https://doi.org/10.48322/j4rf-2n06</DOI>
-      <ReleaseDate>2025-12-03T17:40:55Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:09Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-29T17:14:50</ReleaseDate>
@@ -45,7 +45,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:40:55Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:09Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -19,7 +19,7 @@
       <ResourceName>Flin Flon (TPAS) Ground-based Vector Magnetic Field (L2) 0.5 s Data</ResourceName>
       <AlternateName>Flin Flon Vector Magnetic Field 0.5 s Data</AlternateName>
       <DOI>https://doi.org/10.48322/6k2w-zf06</DOI>
-      <ReleaseDate>2025-12-03T17:41:47Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:02Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -38,7 +38,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:47Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:02Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Wind Predicted Attitude, 10 min Data, Spin Axis Orientation Angles in GCI, GSE and GSM Coordinates</ResourceName>
       <DOI>https://doi.org/10.48322/e07a-2494</DOI>
-      <ReleaseDate>2025-12-03T17:42:36Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:49Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-05-31T12:34:56.789</ReleaseDate>
@@ -33,7 +33,7 @@
           <Note>Revised ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:36Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:49Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

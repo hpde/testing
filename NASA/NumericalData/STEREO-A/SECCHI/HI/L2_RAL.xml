@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-A SECCHI HI Level 2 produced by UK Solar System Data Centre</ResourceName>
-      <ReleaseDate>2025-12-03T17:41:20Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:35Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:21Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added ObservedRegion(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:20Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:35Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

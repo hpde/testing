@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Polar Electric Fields Instrument (EFI), Spacecraft Potential and Plasma Density, Burst Resolution</ResourceName>
-      <ReleaseDate>2025-12-03T17:40:47Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:00Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:01Z</ReleaseDate>
@@ -32,7 +32,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:40:47Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:00Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

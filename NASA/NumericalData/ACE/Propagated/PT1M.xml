@@ -18,14 +18,14 @@
     <ResourceHeader>
       <ResourceName>ACE Solar Wind Electron, Proton, and Alpha Monitor (SWEPAM) 1-min field and plasma data at bow shock nose</ResourceName>
       <AlternateName>ACE at BSN</AlternateName>
-      <ReleaseDate>2025-12-03T17:35:49Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:28:24Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-10T20:13:28Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:49Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:28:24Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

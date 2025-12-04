@@ -19,7 +19,7 @@
       <ResourceName>THEMIS GBO All Sky Imager at The Pas, MB, Canada. ASI Thumbnails Data.</ResourceName>
       <AlternateName>THEMIS-Ground AST</AlternateName>
       <DOI>https://doi.org/10.48322/497n-4p75</DOI>
-      <ReleaseDate>2025-12-03T17:41:47Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:02Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-06-30T13:00:00Z</ReleaseDate>
@@ -38,7 +38,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:47Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:02Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

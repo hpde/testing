@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>PSP FIELDS Fluxgate Magnetometer (MAG) Magnetic Field Vectors, (VS) Venus Solar Orbital Coordinates, Level 2 (L2), 7 s Data</ResourceName>
       <DOI>https://doi.org/10.48322/7r0d-mp78</DOI>
-      <ReleaseDate>2025-12-03T17:39:25Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:30:20Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-07-26T12:34:56.789Z</ReleaseDate>
@@ -33,7 +33,7 @@
           <Note>Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Added ResourceType and NamingAuthority. Added DOI. TLK</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:39:25Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:30:20Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

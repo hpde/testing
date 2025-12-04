@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>SNOE Daily Integrated Values of 2 to 7 nm Solar Soft X-ray Irradiance</ResourceName>
-      <ReleaseDate>2025-12-03T17:41:12Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:27Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-11T18:39:11Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:12Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:27Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

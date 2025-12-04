@@ -17,7 +17,7 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>IMAGE Radio Plasma Imager (RPI) Daily Dynamic Spectrogram Plot</ResourceName>
-      <ReleaseDate>2025-12-03T17:35:26Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:27:59Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-07-19T14:39:57Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:26Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:27:59Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

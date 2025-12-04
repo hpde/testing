@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>SOHO UVCS Data</ResourceName>
-      <ReleaseDate>2025-12-03T17:41:15Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:30Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:19Z</ReleaseDate>
@@ -36,7 +36,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:15Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:30Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

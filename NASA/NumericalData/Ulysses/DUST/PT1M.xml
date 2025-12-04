@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Ulysses Dust Detection System Data</ResourceName>
       <DOI>https://doi.org/10.48322/27sk-1v19</DOI>
-      <ReleaseDate>2025-12-03T17:41:54Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:10Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:40Z</ReleaseDate>
@@ -29,7 +29,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:54Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:10Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>ELFIN-B Predicted Ephemeris Data</ResourceName>
       <DOI>https://doi.org/10.48322/vqdr-6e19</DOI>
-      <ReleaseDate>2025-12-03T17:36:34Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:11Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-06-28T12:34:56.789</ReleaseDate>
@@ -41,7 +41,7 @@
           <Note>Added DOI TLK</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:36:34Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:11Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

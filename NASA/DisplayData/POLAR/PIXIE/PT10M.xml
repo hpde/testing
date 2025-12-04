@@ -17,14 +17,14 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>Polar PIXIE Auroral X-ray Plots and Movies</ResourceName>
-      <ReleaseDate>2025-12-03T17:35:27Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:28:00Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:34Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:27Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:28:00Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

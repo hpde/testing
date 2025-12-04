@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Wind Plasma and Radio Waves (WAVES) Electron Plasma Densities, Level H0 (H0), 17.664 s Data</ResourceName>
       <DOI>https://doi.org/10.48322/thkc-wf80</DOI>
-      <ReleaseDate>2025-12-03T17:42:51Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:33:08Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-05-31T12:34:56.789</ReleaseDate>
@@ -33,7 +33,7 @@
           <Note>Revised ObservedRegion. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:51Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:33:08Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

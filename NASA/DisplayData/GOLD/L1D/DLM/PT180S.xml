@@ -17,14 +17,14 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>Gold Level 1D Dark Limb 1356 Radiance Plots</ResourceName>
-      <ReleaseDate>2025-12-03T17:35:23Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:27:56Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-07-09T12:34:56.789</ReleaseDate>
           <Note>Initial release of metadata, JMW.</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:35:23Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:27:56Z</ReleaseDate>
           <Note>Added MetadataRightsList and corrected RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

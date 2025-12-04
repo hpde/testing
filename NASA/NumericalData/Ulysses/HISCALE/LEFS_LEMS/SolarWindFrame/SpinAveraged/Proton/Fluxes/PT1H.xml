@@ -18,14 +18,14 @@
     <ResourceHeader>
       <ResourceName>Ulysses Heliosphere Instrument for Spectral, Composition, and Anisotropy at Low Energies (HISCALE) MFSA, Solar Wind Frame, Spin-Averaged Proton Fluxes, Hourly Averages</ResourceName>
       <AlternateName>HISCALE-MFSA-SpinAvg-Proton-1h</AlternateName>
-      <ReleaseDate>2025-12-03T17:42:03Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:18Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:03Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:18Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

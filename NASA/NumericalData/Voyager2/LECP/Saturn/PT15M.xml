@@ -17,14 +17,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 2 Saturn Low Energy Charged Particle (LECP) Calibrated, Resampled, Sectored, Version 1.0, 15 min Data</ResourceName>
-      <ReleaseDate>2025-12-03T17:42:22Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:36Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:58Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:22Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:36Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

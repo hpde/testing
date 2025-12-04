@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ISEE 3 Vector Helium Magnetometer (MAG), Magnetic Field, 1 min ASCII Data</ResourceName>
-      <ReleaseDate>2025-12-03T17:38:17Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:39Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:40Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:38:17Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:39Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

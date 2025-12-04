@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>SDO/EVE Level 4 Version 8 Data</ResourceName>
       <DOI>https://doi.org/10.48322/w599-ep25</DOI>
-      <ReleaseDate>2025-12-03T17:41:10Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:31:25Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-06-13T00:00:00Z</ReleaseDate>
@@ -45,7 +45,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:41:10Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:31:25Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

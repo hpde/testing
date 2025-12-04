@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Voyager 1 Plasma Spectrometer (PLS) Faraday Cup D Low Energy Electron Current Spectra, E1 Mode, Electron Energies from 10 eV to 140 eV, 96 s Data</ResourceName>
       <DOI>https://doi.org/10.48322/34jn-sq92</DOI>
-      <ReleaseDate>2025-12-03T17:42:16Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:30Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11</ReleaseDate>
@@ -33,7 +33,7 @@
           <Note>Updated PublishedBy name to match ROR Registry. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:16Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:30Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

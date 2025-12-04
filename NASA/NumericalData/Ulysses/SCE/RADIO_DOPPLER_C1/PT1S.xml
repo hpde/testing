@@ -17,14 +17,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Ulysses SCE 1-sec Radio Doppler Data C1</ResourceName>
-      <ReleaseDate>2025-12-03T17:42:06Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:21Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:49Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:06Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:21Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

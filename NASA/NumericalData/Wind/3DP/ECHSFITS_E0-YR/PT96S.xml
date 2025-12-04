@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Wind 3DP Electron Core Halo Strahl Moments, 96s, year files</ResourceName>
       <DOI>https://doi.org/10.48322/rgf7-3h67</DOI>
-      <ReleaseDate>2025-12-03T17:42:34Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:32:48Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-04-25T09:07:24</ReleaseDate>
@@ -37,7 +37,7 @@
           <Note>Updated Times in Temporal Description, SAB.</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:42:34Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:32:48Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

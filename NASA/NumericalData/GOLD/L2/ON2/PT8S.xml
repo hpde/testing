@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Gold Level L2 ratio of the column abundance of thermospheric O relative to N2</ResourceName>
-      <ReleaseDate>2025-12-03T17:37:57Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:18Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-09-14T16:47:17</ReleaseDate>
@@ -36,7 +36,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:37:57Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:18Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

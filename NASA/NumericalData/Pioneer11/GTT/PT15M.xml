@@ -17,14 +17,14 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Pioneer 11 Geiger Tube Telescope (GTT) 15-min count rate data</ResourceName>
-      <ReleaseDate>2025-12-03T17:40:42Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:30:56Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-11T18:39:11Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:40:42Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:30:56Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

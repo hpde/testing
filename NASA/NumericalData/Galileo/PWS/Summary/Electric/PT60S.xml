@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Galileo Plasma Wave Sensors (PWS) Summary Electric Field Dataset</ResourceName>
       <AlternateName>GO JUPITER PWS RESAMP SUMMARY SPECTRUM ANALYZER 60S V1.0</AlternateName>
-      <ReleaseDate>2025-12-03T17:37:56Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:17Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:34Z</ReleaseDate>
@@ -29,7 +29,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Matched version number in schemaLocation attribute to updated value in Version tag. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:37:56Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:17Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>ISEE 1 UCB 4-sec fluxes, offline at NSSDC</ResourceName>
-      <ReleaseDate>2025-12-03T17:38:16Z</ReleaseDate>
+      <ReleaseDate>2025-12-04T13:29:38Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:40Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Added PublicationInfo. Added ResourceType and NamingAuthority. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:38:16Z</ReleaseDate>
+          <ReleaseDate>2025-12-04T13:29:38Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
