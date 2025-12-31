@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Spase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.spase-group.org/data/schema" xsi:schemaLocation="https://www.spase-group.org/data/schema https://www.spase-group.org/data/schema/spase-2.7.1.xsd" lang="en">
   <Version>2.7.1</Version>
+  <Status>Deprecated</Status>
   <MetadataRightsList>
     <Rights>
       <SchemeURI>https://spdx.org/licenses/</SchemeURI>
@@ -17,7 +18,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Suisei Ephemeris, Heliocentric Trajectories, Heliographic, Heliographic Inertial, and Solar Ecliptic Coordinates, HelioWeb, Daily Data</ResourceName>
-      <ReleaseDate>2025-12-04T13:31:41Z</ReleaseDate>
+      <ReleaseDate>2025-12-31T16:16:53Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -30,6 +31,10 @@
         <RevisionEvent>
           <ReleaseDate>2025-12-04T13:31:41Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2025-12-31T16:16:53Z</ReleaseDate>
+          <Note>Added 'Deprecated' Status. Added 'SupersededBy' Association. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>Heliocentric trajectories for Suisei in Heliographic, HG, Heliographic Inertial, HGI, and Solar Ecliptic, SE, Coordinates
@@ -93,6 +98,11 @@ More precise coordinates, and some planet-centered coordinates, are found in the
         <URL>https://ssd.jpl.nasa.gov/horizons.cgi</URL>
         <Description>HORIZONS Web Interface, a web page that provides limited access to the JPL HORIZONS system which can be used to generate ephemerides for solar system bodies</Description>
       </InformationURL>
+      <Association>
+        <AssociationID>spase://NASA/NumericalData/Suisei/HelioWeb/Ephemeris/PT1H</AssociationID>
+        <AssociationType>SupersededBy</AssociationType>
+        <Note>The current resource description has been replaced by the SPASE record listed above.</Note>
+      </Association>
       <PriorID>spase://VSPO/NumericalData/Suisei/HelioWeb/Ephemeris/P1D</PriorID>
     </ResourceHeader>
     <AccessInformation>

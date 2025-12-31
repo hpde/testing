@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema  https://www.spase-group.org/data/schema/spase-2.7.1.xsd">
   <Version>2.7.1</Version>
+  <Status>Deprecated</Status>
   <MetadataRightsList>
     <Rights>
       <SchemeURI>https://spdx.org/licenses/</SchemeURI>
@@ -17,7 +18,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Comet Honda-Mrkos-Pajdusakova Ephemeris, Heliocentric Trajectories, Heliographic, Heliographic Inertial, and Solar Ecliptic Coordinates, HelioWeb, Daily Data</ResourceName>
-      <ReleaseDate>2025-12-04T13:29:04Z</ReleaseDate>
+      <ReleaseDate>2025-12-31T16:16:48Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2019-11-20T12:34:56.789</ReleaseDate>
@@ -30,6 +31,10 @@
         <RevisionEvent>
           <ReleaseDate>2025-12-04T13:29:04Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2025-12-31T16:16:48Z</ReleaseDate>
+          <Note>Added 'Deprecated' Status. Added 'SupersededBy' Association. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>Heliocentric trajectories for Comet Honda-Mrkos-Pajdusakova in Heliographic, HG, Heliographic Inertial, HGI, and Solar Ecliptic, SE, Coordinates
@@ -93,6 +98,11 @@ More precise coordinates, and some planet-centered coordinates, are found in the
         <URL>https://ssd.jpl.nasa.gov/horizons.cgi</URL>
         <Description>HORIZONS Web Interface, a web page that provides limited access to the JPL HORIZONS system which can be used to generate ephemerides for solar system bodies</Description>
       </InformationURL>
+      <Association>
+        <AssociationID>spase://NASA/NumericalData/Comet/HondaMrkosPajdusakova/HelioWeb/Ephemeris/PT1H</AssociationID>
+        <AssociationType>SupersededBy</AssociationType>
+        <Note>The current resource description has been replaced by the SPASE record listed above.</Note>
+      </Association>
       <PriorID>spase://VSPO/NumericalData/Comet/HondaMrkosPajdusakova/HelioWeb/Ephemeris/P1D</PriorID>
     </ResourceHeader>
     <AccessInformation>
