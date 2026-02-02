@@ -17,14 +17,14 @@
     <ResourceType>Annotation</ResourceType>
     <ResourceHeader>
       <ResourceName>Magnetic cloud observed by STEREO-B</ResourceName>
-      <ReleaseDate>2026-01-02T18:57:21Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:49Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:06:17Z</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-02T18:57:21Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:49Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>LARGE-SCALE CORONAL PROPAGATING FRONTS IN SOLAR ERUPTIONS AS OBSERVED BY THE AIA (SDO) and EUVI (STEREO-B, STEREO-A)</ResourceName>
       <AlternateName>AIA Waves</AlternateName>
-      <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:23Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-08-12T10:06:55</ReleaseDate>
@@ -29,7 +29,7 @@
           <Note>Changed the ResourceID; Updated AccessURL</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:23Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

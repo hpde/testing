@@ -17,7 +17,7 @@
     <ResourceType>Catalog</ResourceType>
     <ResourceHeader>
       <ResourceName>Automated EUVI Event Detection Catalog 2006-2012 [20,000 events] at LMSAL</ResourceName>
-      <ReleaseDate>2026-01-27T13:46:58Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:26Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-08-03T15:57:09</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Updated the Contacts</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:58Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:26Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

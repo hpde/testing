@@ -19,14 +19,14 @@
       <ResourceName>Magnetospheric Multiscale (MMS) – Calibration and Measurement Algorithms Document (CMAD)</ResourceName>
       <AlternateName>MMS - CMAD</AlternateName>
       <DOI>https://doi.org/10.48322/vshd-sv21</DOI>
-      <ReleaseDate>2026-01-05T16:54:43Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:11:05Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-09-01T00:00:00</ReleaseDate>
           <Note>MMS CMAD release associated with 2023 Heliophysics Senior Review</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-05T16:54:43Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:11:05Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

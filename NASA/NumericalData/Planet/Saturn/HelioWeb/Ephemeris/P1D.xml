@@ -18,7 +18,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Saturn Ephemeris, Heliocentric Trajectories, Heliographic, Heliographic Inertial, and Solar Ecliptic Coordinates, HelioWeb, Daily Data</ResourceName>
-      <ReleaseDate>2026-01-09T14:20:58Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:24:35Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -33,7 +33,7 @@
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-09T14:20:58Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:24:35Z</ReleaseDate>
           <Note>Fixed outdated Parameter units. Condensed existing description. Added 'Deprecated' Status. Added 'SupersededBy' Association. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

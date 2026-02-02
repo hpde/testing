@@ -18,14 +18,14 @@
     <ResourceHeader>
       <ResourceName>Wind Current Sheet_Exhaust Event List in LMN Coordinates</ResourceName>
       <DOI>https://doi.org/10.48322/tyd4-fw87</DOI>
-      <ReleaseDate>2026-01-27T13:46:55Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:22Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2022-04-20T12:34:56.789</ReleaseDate>
           <Note>Initial SPASE XML resource description submission, metadata written by J.M. Weygand on 2022-04-13, reviewed and revised by LFB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:55Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:22Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

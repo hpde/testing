@@ -17,7 +17,7 @@
     <ResourceType>Catalog</ResourceType>
     <ResourceHeader>
       <ResourceName>List of 1859 Great Magnetic Storm Auroral Observations, this list is composed of two closely spaced massive worldwide auroral events. The first began on August 28th, 1859, and the second began on September 2nd, 1859. The 2nd event is known as the Carrington Event, where a white-light solar flare associated with this event was observed by Carrington and Hodgson at separte observatories.</ResourceName>
-      <ReleaseDate>2026-01-27T13:46:55Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:21Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-03-28T12:34:56.789</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Updated description, added additional reference, tried to update to 2.6.0 but failed so reverted back to 2.5.0, revised by SAB 20230816</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:55Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:21Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

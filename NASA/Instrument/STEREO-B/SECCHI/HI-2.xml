@@ -18,14 +18,14 @@
     <ResourceHeader>
       <ResourceName>Heliospheric Imager-2 Telescope on the STEREO-B mission</ResourceName>
       <AlternateName>STEREO-B/SECCHI/HI-2</AlternateName>
-      <ReleaseDate>2026-01-05T17:57:32Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:11:24Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-03-03T00:08:46</ReleaseDate>
           <Note>Created by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-05T17:57:32Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:11:24Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

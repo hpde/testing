@@ -17,14 +17,14 @@
     <ResourceType>Catalog</ResourceType>
     <ResourceHeader>
       <ResourceName>CfA Interplanetary Shock Database - Wind</ResourceName>
-      <ReleaseDate>2026-01-27T13:47:00Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:27Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-02-28T11:53:47</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:47:00Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:27Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>STEREO SEP List</ResourceName>
       <DOI>https://doi.org/10.48322/nbrg-kw23</DOI>
-      <ReleaseDate>2026-01-27T13:46:58Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:25Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-05-31T12:34:56.789</ReleaseDate>
@@ -29,7 +29,7 @@
           <Note>6 Parameters added by Olga Urirskaya</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:58Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:25Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

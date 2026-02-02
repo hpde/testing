@@ -19,14 +19,14 @@
       <ResourceName>Ionospheric Connection Explorer (ICON) Thermosphere Ionosphere Electrodynamics General Circulation Model (TIEGCM) Congeophy Model Product</ResourceName>
       <AlternateName>ICON TIEGCM-Congeophy Model Products</AlternateName>
       <DOI>https://doi.org/10.48322/zqzr-rd66</DOI>
-      <ReleaseDate>2026-01-05T17:58:11Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:56Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-03-11T00:00:00Z</ReleaseDate>
           <Note>Created Numerical metadata. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-05T17:58:11Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:56Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

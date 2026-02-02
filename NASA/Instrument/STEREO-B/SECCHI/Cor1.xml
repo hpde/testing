@@ -17,7 +17,7 @@
     <ResourceType>Instrument</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-B SECCHI Cor1 Coronagraph</ResourceName>
-      <ReleaseDate>2026-01-05T17:57:31Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:11:23Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-10-28T00:08:46Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Changed the ResourceID Naming Authority from SMWG to NASA</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-05T17:57:31Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:11:23Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -17,14 +17,14 @@
     <ResourceType>Catalog</ResourceType>
     <ResourceHeader>
       <ResourceName>The Ulysses Catalog of Solar Hard X-Ray Flares</ResourceName>
-      <ReleaseDate>2026-01-27T13:47:00Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:27Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2026-01-22T11:00:04</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:47:00Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:27Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -17,14 +17,14 @@
     <ResourceType>Catalog</ResourceType>
     <ResourceHeader>
       <ResourceName>Solar Energetic Particles Event List</ResourceName>
-      <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:23Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-02-22T15:39:09</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:23Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

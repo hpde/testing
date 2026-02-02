@@ -19,7 +19,7 @@
       <ResourceName>Ionospheric Connection Explorer (ICON) Hough Mode Extension (TIEGCM) Model Product Version 2</ResourceName>
       <AlternateName>ICON HME Model Products Version 2</AlternateName>
       <DOI>https://doi.org/10.48322/0f6s-j970</DOI>
-      <ReleaseDate>2026-01-05T17:58:10Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:56Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-02-05T00:00:00Z</ReleaseDate>
@@ -34,7 +34,7 @@
           <Note>Update discription at ICON request.  JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-05T17:58:10Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:56Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

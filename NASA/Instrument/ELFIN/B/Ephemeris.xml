@@ -17,7 +17,7 @@
     <ResourceType>Instrument</ResourceType>
     <ResourceHeader>
       <ResourceName>ELFIN B, Ephemeris Instrument</ResourceName>
-      <ReleaseDate>2026-01-05T16:56:11Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:11:23Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2019-06-12T12:34:56.789Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Copied from SMWG. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-05T16:56:11Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:11:23Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

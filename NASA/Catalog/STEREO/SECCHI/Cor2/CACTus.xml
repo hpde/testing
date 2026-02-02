@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>STEREO SECCHI Cor2 Automated CME Catalog</ResourceName>
       <DOI>https://doi.org/10.48322/s0nk-w757</DOI>
-      <ReleaseDate>2026-01-27T13:46:58Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:26Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2022-02-24T12:34:56.789</ReleaseDate>
@@ -37,7 +37,7 @@
           <Note>10 Parameters added by Olga Uritskaya</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:58Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:26Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

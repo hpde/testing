@@ -17,14 +17,14 @@
     <ResourceType>Observatory</ResourceType>
     <ResourceHeader>
       <ResourceName>AeroCube-6B (AC6) CubeSat</ResourceName>
-      <ReleaseDate>2026-01-05T17:59:59Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:11:34Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-04-25T12:34:56.789</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-05T17:59:59Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:11:34Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

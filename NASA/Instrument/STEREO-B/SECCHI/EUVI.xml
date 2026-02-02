@@ -18,14 +18,14 @@
     <ResourceHeader>
       <ResourceName>Extreme UltraViolet Imager on the STEREO-B mission</ResourceName>
       <AlternateName>STEREO-B/SECCHI/EUVI</AlternateName>
-      <ReleaseDate>2026-01-05T17:57:31Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:11:24Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-02-10T00:08:46</ReleaseDate>
           <Note>Created by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-05T17:57:31Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:11:24Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

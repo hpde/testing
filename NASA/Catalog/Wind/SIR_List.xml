@@ -17,14 +17,14 @@
     <ResourceType>Catalog</ResourceType>
     <ResourceHeader>
       <ResourceName>Stream Interaction Regions (SIRs) from Wind and ACE Data during 1995 − 2009</ResourceName>
-      <ReleaseDate>2026-01-27T13:47:00Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:27Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-03-25T14:43:15</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:47:00Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:27Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

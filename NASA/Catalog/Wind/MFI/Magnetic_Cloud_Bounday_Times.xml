@@ -19,7 +19,7 @@
       <ResourceName>Wind MFI Magnetic Cloud Table 1</ResourceName>
       <AlternateName>MAGNETIC CLOUD BOUNDARY TIMES AS DETERMINED BY MFI DATA</AlternateName>
       <DOI>https://doi.org/10.48322/j081-3d52</DOI>
-      <ReleaseDate>2026-01-27T13:47:00Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:27Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-02-03T00:08:46</ReleaseDate>
@@ -30,7 +30,7 @@
           <Note>Added DOI by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:47:00Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:27Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

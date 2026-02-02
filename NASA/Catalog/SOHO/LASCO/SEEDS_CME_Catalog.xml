@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>SEEDS LASCO/C2 CME Catalog</ResourceName>
       <DOI>https://doi.org/10.48322/39r0-y698</DOI>
-      <ReleaseDate>2026-01-27T13:46:57Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:24Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-10-08T00:08:46</ReleaseDate>
@@ -37,7 +37,7 @@
           <Note>Corrected DOI with trailing slash character, LFB 20250224</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:57Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:24Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

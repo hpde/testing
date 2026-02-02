@@ -17,14 +17,14 @@
     <ResourceType>Catalog</ResourceType>
     <ResourceHeader>
       <ResourceName>A list of CMEs detected by CACTus in qkl data</ResourceName>
-      <ReleaseDate>2026-01-27T13:46:57Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:24Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-01-01T12:00:00</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:57Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:24Z</ReleaseDate>
           <Note>Added MetadataRightsList. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

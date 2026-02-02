@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>STEREO Stream Interaction Region List</ResourceName>
       <DOI>https://doi.org/10.48322/s7mq-ns41</DOI>
-      <ReleaseDate>2026-01-27T13:46:58Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:25Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-05-11T12:34:56.789</ReleaseDate>
@@ -33,7 +33,7 @@
           <Note>10 Parameters added by Olga Uritskaya</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:58Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:25Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

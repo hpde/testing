@@ -17,7 +17,7 @@
     <ResourceType>Catalog</ResourceType>
     <ResourceHeader>
       <ResourceName>RHESSI Flare List</ResourceName>
-      <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:23Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-04-10T18:03:25Z</ReleaseDate>
@@ -28,7 +28,7 @@
           <Note>Event list was registered 2020-07-07 21:15:17Z as numerical data with partial description. Registration completed by OYU Apr 2025.</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:23Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

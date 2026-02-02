@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>SOHO CELIAS Interplanetary Shock List</ResourceName>
       <DOI>https://doi.org/10.48322/tza0-4046</DOI>
-      <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:23Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-05-11T12:34:56.789</ReleaseDate>
@@ -29,7 +29,7 @@
           <Note>Updated Authors. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:23Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

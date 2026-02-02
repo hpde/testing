@@ -17,14 +17,14 @@
     <ResourceType>Catalog</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO/EUVI Event Catalog (&gt;C1 GOES class or &gt;12 keV RHESSI)</ResourceName>
-      <ReleaseDate>2026-01-27T13:46:59Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:26Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-07-29T19:22:44</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:59Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:26Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

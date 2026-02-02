@@ -19,7 +19,7 @@
       <ResourceName>DH Type II Radio Bursts (Wind and STEREO), Associated CMEs (SOHO, STEREO, and SDO), X-ray Flares (GOES), and Solar Energetic Particles (GOES)</ResourceName>
       <AlternateName>DH Type II Burst List</AlternateName>
       <DOI>https://doi.org/10.48322/x37m-hj35</DOI>
-      <ReleaseDate>2026-01-27T13:47:00Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:28Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-09-15T00:08:46Z</ReleaseDate>
@@ -42,7 +42,7 @@
           <Note>Added PriorID by SY (deleted a duplicated SPASE record)</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:47:00Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:28Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

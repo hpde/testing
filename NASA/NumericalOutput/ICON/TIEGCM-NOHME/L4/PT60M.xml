@@ -19,7 +19,7 @@
       <ResourceName>Ionospheric Connection Explorer (ICON) Thermosphere Ionosphere Electrodynamics General Circulation Model without Hough Mode Extension (HME) input (TIEGCM-NOHME) Model Product</ResourceName>
       <AlternateName>ICON TIEGCM Model Products</AlternateName>
       <DOI>https://doi.org/10.48322/k99n-vg23</DOI>
-      <ReleaseDate>2026-01-05T17:58:11Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:56Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2024-09-25T00:00:00Z</ReleaseDate>
@@ -30,7 +30,7 @@
           <Note>Updated metadata to version 2.7.0.  Added DOI. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-05T17:58:11Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:56Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

@@ -17,14 +17,14 @@
     <ResourceType>Annotation</ResourceType>
     <ResourceHeader>
       <ResourceName>ICME observed by Ulysses</ResourceName>
-      <ReleaseDate>2026-01-02T18:57:21Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:48Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-07-19T14:39:57Z</ReleaseDate>
           <Note>Changed an Association ID from VSPO to NASA</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-02T18:57:21Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:48Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

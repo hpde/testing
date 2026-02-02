@@ -18,14 +18,14 @@
     <ResourceHeader>
       <ResourceName>High speed solar wind streams and solar wind interaction regions
 SIR CATALOGUE v1.0</ResourceName>
-      <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:23Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-06-25T11:28:59</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:23Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

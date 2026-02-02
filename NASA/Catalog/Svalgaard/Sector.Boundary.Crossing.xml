@@ -18,14 +18,14 @@
     <ResourceHeader>
       <ResourceName>L. Svalgaard's Interplanetary Sector Boundary Crossing List</ResourceName>
       <DOI>https://doi.org/10.48322/b9m5-f869</DOI>
-      <ReleaseDate>2026-01-27T13:46:59Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:26Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-05-11T12:34:56.789</ReleaseDate>
           <Note>Updated to SPASE Version 2.5.0 if needed, Added DOI information, JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:59Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:26Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

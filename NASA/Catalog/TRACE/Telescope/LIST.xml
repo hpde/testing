@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>TRACE Flare Catalog</ResourceName>
       <DOI>https://doi.org/10.48322/nr75-nd21</DOI>
-      <ReleaseDate>2026-01-27T13:46:59Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:27Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-05-11T12:34:56.789</ReleaseDate>
@@ -29,7 +29,7 @@
           <Note>Updated Authors. JMW</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:59Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:27Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

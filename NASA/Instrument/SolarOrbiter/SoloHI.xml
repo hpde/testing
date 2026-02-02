@@ -17,14 +17,14 @@
     <ResourceType>Instrument</ResourceType>
     <ResourceHeader>
       <ResourceName>The Solar Orbiter Heliospheric Imager</ResourceName>
-      <ReleaseDate>2026-01-05T16:56:12Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:11:23Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2023-09-04T00:08:46</ReleaseDate>
           <Note>Changed Naming Authority from SMWG to NASA; SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-05T16:56:12Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:11:23Z</ReleaseDate>
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

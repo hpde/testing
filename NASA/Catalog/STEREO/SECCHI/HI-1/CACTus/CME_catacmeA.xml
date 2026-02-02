@@ -17,14 +17,14 @@
     <ResourceType>Catalog</ResourceType>
     <ResourceHeader>
       <ResourceName>Complete catalogue of CME detected by CACTus in the STEREO-A/Heliospheric Imager-1 data (beta release, Jan 2007 - Aug 2020)</ResourceName>
-      <ReleaseDate>2026-01-27T13:46:59Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:26Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2025-02-01T12:00:00</ReleaseDate>
           <Note>Only known prior ReleaseDate of the metadata</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:59Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:26Z</ReleaseDate>
           <Note>Added MetadataRightsList. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>

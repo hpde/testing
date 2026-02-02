@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>SOHO LASCO CME Catalog</ResourceName>
       <DOI>https://doi.org/10.48322/v2ny-ds25</DOI>
-      <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+      <ReleaseDate>2026-02-02T13:10:24Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2022-02-18T12:34:56.789Z</ReleaseDate>
@@ -41,7 +41,7 @@
           <Note>Add PriorID by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-01-27T13:46:56Z</ReleaseDate>
+          <ReleaseDate>2026-02-02T13:10:24Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
