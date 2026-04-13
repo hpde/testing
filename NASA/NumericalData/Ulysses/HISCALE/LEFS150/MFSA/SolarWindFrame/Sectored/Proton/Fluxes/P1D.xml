@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Ulysses Heliosphere Instrument for Spectral, Composition, and Anisotropy at Low Energies (HISCALE) LEFS150 MFSA, Solar Wind Frame, Sectored Proton Fluxes, Daily Averages</ResourceName>
       <AlternateName>HISCALE-MFSA-SpinAvg-Proton-1d</AlternateName>
-      <ReleaseDate>2026-04-06T18:57:01Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:53Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
@@ -29,11 +29,11 @@
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:16Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:57Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:57:01Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:53Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -42,7 +42,7 @@
       <Acknowledgement>Thomas P. Armstrong, Fundamental Technologies, LLC</Acknowledgement>
       <PublicationInfo>
         <Authors>Marsden, Richard G.</Authors>
-        <PublicationDate>2026-04-06T18:57:01Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:53Z</PublicationDate>
         <PublishedBy>Fundamental Technologies LLC</PublishedBy>
       </PublicationInfo>
       <Contact>

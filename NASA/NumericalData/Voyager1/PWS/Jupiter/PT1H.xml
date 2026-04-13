@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 1 Jupiter Plasma Wave Spectrometer (PWS) Resampled Spectrum Analyzer, Version 1.0, 1 h Average Data</ResourceName>
-      <ReleaseDate>2026-04-06T18:57:18Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:04:09Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-10-02T19:45:37Z</ReleaseDate>
@@ -28,11 +28,11 @@
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:33Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:59:18Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:57:18Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:04:09Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -91,7 +91,7 @@ Spectral Density Units may be obtained by dividing the Square of the Electric Fi
 Finally, Power Flux may be obtained by dividing the Spectral Density by the Impedance of Free Space in Ohms:</Description>
       <PublicationInfo>
         <Authors>Decker, Robert B.; Krimigis, Stamatios M.</Authors>
-        <PublicationDate>2026-04-06T18:57:18Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:04:09Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility; Planetary Data System</PublishedBy>
       </PublicationInfo>
       <Contact>

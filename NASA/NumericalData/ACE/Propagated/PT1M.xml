@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>ACE Solar Wind Electron, Proton, and Alpha Monitor (SWEPAM) 1-min field and plasma data at bow shock nose</ResourceName>
       <AlternateName>ACE at BSN</AlternateName>
-      <ReleaseDate>2026-04-06T18:56:47Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:41Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-10T20:13:28Z</ReleaseDate>
@@ -29,11 +29,11 @@
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:02Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:42Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:47Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:41Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -41,7 +41,7 @@
       <Acknowledgement>We acknowledge N.Ness and C. Smith of the MAG team, D. McComas and R. Skoug of the SWEPAM team and J. King and N. Papitashvili of NASA/SPDF and ADNET who created this product.</Acknowledgement>
       <PublicationInfo>
         <Authors>Stone Jr, Edward C.</Authors>
-        <PublicationDate>2026-04-06T18:56:47Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:41Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

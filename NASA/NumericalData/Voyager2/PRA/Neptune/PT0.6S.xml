@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 2 Neptune Planetary Radio Astronomy (PRA) Low-Frequency Receiver Band, Version 1.0, 60 ms High Rate Data</ResourceName>
-      <ReleaseDate>2026-04-06T18:57:25Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:04:16Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:16:00Z</ReleaseDate>
@@ -28,11 +28,11 @@
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:42Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:59:26Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:57:25Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:04:16Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -70,7 +70,7 @@ The Data are 16 bit Numbers, most significant byte first, with 0 indicating unav
 The PRA samples a Frequency Pair in this Manner for 24 s. It then has the Option of switching to a second Pair for the final 24 s. These Frequencies are designated Frequency 1 through Frequency 4 in the Header. The Data are presented such that the higher of the relevant Frequency Pair is presented first.</Description>
       <PublicationInfo>
         <Authors>Decker, Robert B.; Krimigis, Stamatios M.</Authors>
-        <PublicationDate>2026-04-06T18:57:25Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:04:16Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility; Planetary Data System</PublishedBy>
       </PublicationInfo>
       <Contact>

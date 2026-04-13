@@ -17,7 +17,7 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>IMP 8 UMD flux plots</ResourceName>
-      <ReleaseDate>2026-04-06T18:56:45Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:40Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:34Z</ReleaseDate>
@@ -28,18 +28,18 @@
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:00Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:39Z</ReleaseDate>
           <Note>Added new Contact:Role(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:45Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:40Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>12-day plots of IMP8/U. Maryland energetic particle fluxes</Description>
       <PublicationInfo>
         <Authors>Gloeckler, George; Ipavich, Fred M.</Authors>
-        <PublicationDate>2026-04-06T18:56:45Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:40Z</PublicationDate>
         <PublishedBy>University of Maryland, College Park</PublishedBy>
       </PublicationInfo>
       <Contact>

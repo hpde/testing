@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-A SECCHI HI Level 2 produced by Southwest Research Institute</ResourceName>
-      <ReleaseDate>2026-04-06T18:56:54Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:47Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:21Z</ReleaseDate>
@@ -32,11 +32,11 @@
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:09Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:50Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:54Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:47Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -47,7 +47,7 @@ The HI-1 L2M and L2S images are both batch-processed. The batches are 7 days lon
 The HI-2 data require deeper background subtraction than the HI-1 data, and only "L2" are produced -- these are similar to the HI-1 "L2M" data. Batch sizes are longer (14 days) but the staggering time is the same (12 hours).</Description>
       <PublicationInfo>
         <Authors>Kucera, Therese A.</Authors>
-        <PublicationDate>2026-04-06T18:56:54Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:47Z</PublicationDate>
         <PublishedBy>Goddard Space Flight Center</PublishedBy>
       </PublicationInfo>
       <Contact>

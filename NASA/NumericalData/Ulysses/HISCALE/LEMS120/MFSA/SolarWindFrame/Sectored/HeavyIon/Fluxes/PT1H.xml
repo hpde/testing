@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>Ulysses Heliosphere Instrument for Spectral, Composition, and Anisotropy at Low Energies (HISCALE) LEMS120 MFSA, Solar Wind Frame, Sectored Z&gt;1 Ion Fluxes, Hourly Averages</ResourceName>
       <AlternateName>HISCALE-MFSA-LEMS120-Ion-1h</AlternateName>
-      <ReleaseDate>2026-04-06T18:57:07Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:59Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
@@ -29,11 +29,11 @@
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:22Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:59:06Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:57:07Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:59Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -42,7 +42,7 @@
       <Acknowledgement>Thomas P. Armstrong, Fundamental Technologies, LLC</Acknowledgement>
       <PublicationInfo>
         <Authors>Marsden, Richard G.</Authors>
-        <PublicationDate>2026-04-06T18:57:07Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:59Z</PublicationDate>
         <PublishedBy>Fundamental Technologies LLC</PublishedBy>
       </PublicationInfo>
       <Contact>

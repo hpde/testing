@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>SORCE 6-hr and 1-day Solar Spectral Irradiance</ResourceName>
-      <ReleaseDate>2026-04-06T18:56:54Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:47Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:19Z</ReleaseDate>
@@ -28,18 +28,18 @@
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:09Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:50Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:54Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:47Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>SORCE 6-hour and daily Solar Spectral Irradiance data from SIM, SOLSTICE and XPS instruments, covering 1-34 nm (XPS) and 115-2000 nm</Description>
       <PublicationInfo>
         <Authors>Rottman, Gary J.</Authors>
-        <PublicationDate>2026-04-06T18:56:54Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:47Z</PublicationDate>
         <PublishedBy>Laboratory for Atmospheric and Space Physics</PublishedBy>
       </PublicationInfo>
       <Contact>

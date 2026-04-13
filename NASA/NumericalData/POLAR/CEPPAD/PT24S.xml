@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Polar Comprehensive Energetic Particle Pitch Angle Distribution (CEPPAD) Reprocessed Data</ResourceName>
-      <ReleaseDate>2026-04-06T18:56:51Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:45Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:00Z</ReleaseDate>
@@ -28,11 +28,11 @@
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:07Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:47Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:51Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:45Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -40,7 +40,7 @@
       <Acknowledgement>Reiner Friedel</Acknowledgement>
       <PublicationInfo>
         <Authors>Ogilvie, Keith W.</Authors>
-        <PublicationDate>2026-04-06T18:56:51Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:45Z</PublicationDate>
         <PublishedBy>The Virtual Radiation Belt Observatory Data Repository</PublishedBy>
       </PublicationInfo>
       <Contact>

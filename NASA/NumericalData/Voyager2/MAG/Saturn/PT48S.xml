@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 2 Saturn Magnetic Field in Kronographic L1 Coordinates, Resampled, Version 1.1, 48 s Data</ResourceName>
-      <ReleaseDate>2026-04-06T18:57:23Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:04:14Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:59Z</ReleaseDate>
@@ -28,11 +28,11 @@
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:39Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:59:24Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:57:23Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:04:14Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -137,7 +137,7 @@ All Magnetic Field Observations are measured in nT. All of the Magnetic Field Da
 +-----------------------------------------------------------------+</Description>
       <PublicationInfo>
         <Authors>Decker, Robert B.; Krimigis, Stamatios M.</Authors>
-        <PublicationDate>2026-04-06T18:57:23Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:04:14Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility; Planetary Data System</PublishedBy>
       </PublicationInfo>
       <Contact>

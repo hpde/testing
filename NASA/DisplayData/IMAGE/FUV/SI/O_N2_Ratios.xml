@@ -17,7 +17,7 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>IMAGE FUV SI plots of O/N2 Ratios</ResourceName>
-      <ReleaseDate>2026-04-06T18:56:45Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:39Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:33Z</ReleaseDate>
@@ -28,11 +28,11 @@
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:00Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:39Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:45Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:39Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -49,7 +49,7 @@ identifies detailed discussions of the derivations of O/N2 rations from the
 SI images.</Description>
       <PublicationInfo>
         <Authors>Burch, James L.</Authors>
-        <PublicationDate>2026-04-06T18:56:45Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:39Z</PublicationDate>
         <PublishedBy>Johns Hopkins University Applied Physics Laboratory; Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

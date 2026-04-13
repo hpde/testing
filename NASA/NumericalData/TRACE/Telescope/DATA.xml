@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>TRACE Digital Data</ResourceName>
-      <ReleaseDate>2026-04-06T18:56:55Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:48Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:39Z</ReleaseDate>
@@ -28,18 +28,18 @@
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:10Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:51Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:55Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:48Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>TRACE low level data and accompanying software</Description>
       <PublicationInfo>
         <Authors>Title, Alan M.</Authors>
-        <PublicationDate>2026-04-06T18:56:55Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:48Z</PublicationDate>
         <PublishedBy>Lockheed Martin United States</PublishedBy>
       </PublicationInfo>
       <Contact>

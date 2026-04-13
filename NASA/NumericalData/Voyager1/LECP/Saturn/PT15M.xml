@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 1 Saturn Low Energy Charged Particle (LECP) Calibrated, Resampled, Sectored, Version 1.0, 15 min Data</ResourceName>
-      <ReleaseDate>2026-04-06T18:57:15Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:04:07Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:53Z</ReleaseDate>
@@ -28,11 +28,11 @@
           <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:30Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:59:15Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:57:15Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:04:07Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -116,7 +116,7 @@ A measured Parameter equaling the Number of Ions hitting a Particle Detector per
 +-------------------------------------------------+</Description>
       <PublicationInfo>
         <Authors>Decker, Robert B.; Krimigis, Stamatios M.</Authors>
-        <PublicationDate>2026-04-06T18:57:15Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:04:07Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility; Planetary Data System</PublishedBy>
       </PublicationInfo>
       <Contact>

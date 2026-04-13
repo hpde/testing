@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>DE-2 0.5-s magnetic and electric field data</ResourceName>
-      <ReleaseDate>2026-04-06T18:56:49Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:43Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:14:31Z</ReleaseDate>
@@ -28,18 +28,18 @@
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:04Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:45Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:49Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:43Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>DE-2 0.5-s magnetic and electric field data at low altitude</Description>
       <PublicationInfo>
         <Authors>Hoffman, Robert A.</Authors>
-        <PublicationDate>2026-04-06T18:56:49Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:43Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

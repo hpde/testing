@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Ulysses Spacecraft Positions</ResourceName>
-      <ReleaseDate>2026-04-06T18:56:56Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:48Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:40Z</ReleaseDate>
@@ -32,18 +32,18 @@
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:10Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:52Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:56Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:48Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>Ulysses spacecraft positions data product generated at Helioweb (http://cohoweb.gsfc.nasa.gov/helios/heli.html)</Description>
       <PublicationInfo>
         <Authors>Marsden, Richard G.</Authors>
-        <PublicationDate>2026-04-06T18:56:56Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:48Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>

@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>STEREO-A SECCHI HI Level 2 produced by UK Solar System Data Centre</ResourceName>
-      <ReleaseDate>2026-04-06T18:56:54Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:47Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:21Z</ReleaseDate>
@@ -32,11 +32,11 @@
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:09Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:50Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:54Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:47Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -54,7 +54,7 @@ STEREO-A SECCHI HI Level 2 FITS files produced by the UK Solar System Data Centr
 </Description>
       <PublicationInfo>
         <Authors>Kucera, Therese A.</Authors>
-        <PublicationDate>2026-04-06T18:56:54Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:47Z</PublicationDate>
         <PublishedBy>UK Solar System Data Centre; Goddard Space Flight Center</PublishedBy>
       </PublicationInfo>
       <Contact>

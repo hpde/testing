@@ -17,7 +17,7 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Pioneer 11 Spacecraft Ephemeris, Cartesian Position and Velocity Vectors, Daily Data</ResourceName>
-      <ReleaseDate>2026-04-06T18:56:51Z</ReleaseDate>
+      <ReleaseDate>2026-04-10T10:03:44Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
@@ -28,11 +28,11 @@
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:54:06Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T09:58:47Z</ReleaseDate>
           <Note>Added new Contact(s). ZCB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2026-04-06T18:56:51Z</ReleaseDate>
+          <ReleaseDate>2026-04-10T10:03:44Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
@@ -40,7 +40,7 @@
       <Acknowledgement>Please acknowledge the Principal Investigator, Dr. Paul R. Gazis, and SPDF.</Acknowledgement>
       <PublicationInfo>
         <Authors>Smith, Edward J.</Authors>
-        <PublicationDate>2026-04-06T18:56:51Z</PublicationDate>
+        <PublicationDate>2026-04-10T10:03:44Z</PublicationDate>
         <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>
