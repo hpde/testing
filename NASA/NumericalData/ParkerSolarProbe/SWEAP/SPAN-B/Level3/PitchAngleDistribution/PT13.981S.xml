@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>PSP Solar Wind Electrons Alphas and Protons (SWEAP) SPAN-B Electron Pitch Angle Distributions, Level 3 (L3), 13.981 s Data</ResourceName>
       <DOI>https://doi.org/10.48322/ccen-5a96</DOI>
-      <ReleaseDate>2025-12-04T13:30:43Z</ReleaseDate>
+      <ReleaseDate>2026-05-15T14:52:40Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -29,8 +29,12 @@
           <Note>updated Authors, SAB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-04T13:30:43Z</ReleaseDate>
-          <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
+          <ReleaseDate>2026-03-22T08:23:41.654Z</ReleaseDate>
+          <Note>Adding ParticleType. JMW</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-05-15T14:52:40Z</ReleaseDate>
+          <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Updated PublishedBy name to match ROR Registry. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>
@@ -55,7 +59,7 @@ As part of the development of collaboration with the broader Heliophysics commun
       <PublicationInfo>
         <Authors>Whittlesey, Phyllis; Larson, Davin E.; Rahmati, Ali; Romeo, Orlando M.</Authors>
         <PublicationDate>2020-01-01T00:00:00</PublicationDate>
-        <PublishedBy>NASA Space Physics Data Facility</PublishedBy>
+        <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>
         <PersonID>spase://SMWG/Person/Justin.C.Kasper</PersonID>
@@ -77,13 +81,13 @@ As part of the development of collaboration with the broader Heliophysics commun
       </InformationURL>
       <InformationURL>
         <Name>PSP SWEAP home page, SAO</Name>
-        <URL>http://sweap.cfa.harvard.edu</URL>
+        <URL>https://sweap.cfa.harvard.edu</URL>
         <Description>Parker Solar Probe, PSP, SWEAP home page, Smithsonian Astrophysical Observatory</Description>
         <Language>en</Language>
       </InformationURL>
       <InformationURL>
         <Name>PSP SWEAP Data Access web site, SAO</Name>
-        <URL>http://sweap.cfa.harvard.edu/Data.html</URL>
+        <URL>https://sweap.cfa.harvard.edu/Data.html</URL>
         <Description>Parker Solar Probe, PSP, SWEAP Data Access web site, Smithsonian Astrophysical Observatory</Description>
         <Language>en</Language>
       </InformationURL>
@@ -524,6 +528,7 @@ As part of the development of collaboration with the broader Heliophysics commun
       <ValidMax>180.0</ValidMax>
       <FillValue>nan</FillValue>
       <Particle>
+        <ParticleType>Electron</ParticleType>
         <Qualifier>Array</Qualifier>
         <Qualifier>DirectionAngle.PolarAngle</Qualifier>
         <ParticleQuantity>ArrivalDirection</ParticleQuantity>

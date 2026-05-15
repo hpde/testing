@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>PSP Solar Wind Electrons Alphas and Protons (SWEAP) SPC Ion Number Density, Velocity, and Thermal Speed Momemts and Fits, Level 3 (L3), 0.2185 s Data</ResourceName>
       <DOI>https://doi.org/10.48322/49we-tr31</DOI>
-      <ReleaseDate>2025-12-04T13:30:49Z</ReleaseDate>
+      <ReleaseDate>2026-05-15T14:52:41Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -29,8 +29,12 @@
           <Note>updated Authors, SAB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-04T13:30:49Z</ReleaseDate>
-          <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
+          <ReleaseDate>2026-03-22T08:23:41.654Z</ReleaseDate>
+          <Note>Adding ParticleType. JMW</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-05-15T14:52:41Z</ReleaseDate>
+          <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Updated PublishedBy name to match ROR Registry. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>SPC Level 3 Ion Data
@@ -79,7 +83,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <PublicationInfo>
         <Authors>Stevens, Michael L.; Paulson, Kristoff W.; Case, Anthony W.; Kasper, Justin C.; Korreck, Kelly E.</Authors>
         <PublicationDate>2020-01-01T00:00:00</PublicationDate>
-        <PublishedBy>NASA Space Physics Data Facility</PublishedBy>
+        <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>
         <PersonID>spase://SMWG/Person/Justin.C.Kasper</PersonID>
@@ -100,12 +104,12 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       </InformationURL>
       <InformationURL>
         <Name>PSP SWEAP home page, SAO</Name>
-        <URL>http://sweap.cfa.harvard.edu</URL>
+        <URL>https://sweap.cfa.harvard.edu</URL>
         <Description>Parker Solar Probe, PSP, SWEAP home page, Smithsonian Astrophysical Observatory</Description>
       </InformationURL>
       <InformationURL>
         <Name>PSP SWEAP Data Access web site, SAO</Name>
-        <URL>http://sweap.cfa.harvard.edu/Data.html</URL>
+        <URL>https://sweap.cfa.harvard.edu/Data.html</URL>
         <Description>Parker Solar Probe, PSP, SWEAP Data Access web site, Smithsonian Astrophysical Observatory</Description>
       </InformationURL>
       <PriorID>spase://VSPO/NumericalData/ParkerSolarProbe/SWEAP/SPC/Level3/SolarWindMomentsFits/PT0.2185S</PriorID>
@@ -1562,6 +1566,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       </Structure>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Vector</Qualifier>
         <ParticleQuantity>Velocity</ParticleQuantity>
       </Particle>
@@ -1608,6 +1613,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>2000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Vector</Qualifier>
         <ParticleQuantity>Velocity</ParticleQuantity>
       </Particle>
@@ -1658,6 +1664,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       </Structure>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Vector</Qualifier>
         <ParticleQuantity>Velocity</ParticleQuantity>
       </Particle>
@@ -1704,6 +1711,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>2000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Vector</Qualifier>
         <ParticleQuantity>Velocity</ParticleQuantity>
       </Particle>
@@ -1727,6 +1735,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>10000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
       </Particle>
@@ -1750,6 +1759,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>10000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
       </Particle>
@@ -1773,6 +1783,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>1000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>ThermalSpeed</ParticleQuantity>
       </Particle>
@@ -1796,6 +1807,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>10000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>ThermalSpeed</ParticleQuantity>
       </Particle>
@@ -3344,6 +3356,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       </Structure>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Vector</Qualifier>
         <ParticleQuantity>Velocity</ParticleQuantity>
       </Particle>
@@ -3390,6 +3403,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>2000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Vector</Qualifier>
         <ParticleQuantity>Velocity</ParticleQuantity>
       </Particle>
@@ -3440,6 +3454,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       </Structure>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Vector</Qualifier>
         <ParticleQuantity>Velocity</ParticleQuantity>
       </Particle>
@@ -3486,6 +3501,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>2000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Vector</Qualifier>
         <ParticleQuantity>Velocity</ParticleQuantity>
       </Particle>
@@ -3508,6 +3524,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>10000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
       </Particle>
@@ -3530,6 +3547,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>10000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
       </Particle>
@@ -3552,6 +3570,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>1000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>ThermalSpeed</ParticleQuantity>
       </Particle>
@@ -3574,6 +3593,7 @@ NASA open data policy applies. Consultation with the instrument team is strongly
       <ValidMax>10000.0</ValidMax>
       <FillValue>-1.0e+31</FillValue>
       <Particle>
+        <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>ThermalSpeed</ParticleQuantity>
       </Particle>

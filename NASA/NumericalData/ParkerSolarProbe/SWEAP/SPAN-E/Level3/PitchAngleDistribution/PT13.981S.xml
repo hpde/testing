@@ -18,7 +18,7 @@
     <ResourceHeader>
       <ResourceName>PSP Solar Wind Electrons Alphas and Protons (SWEAP) SPE Electron Pitch Angle Distribution, Level 3 (L3), 13.981 s Data</ResourceName>
       <DOI>https://doi.org/10.48322/8ync-7p95</DOI>
-      <ReleaseDate>2025-12-03T17:30:50Z</ReleaseDate>
+      <ReleaseDate>2026-05-15T14:52:40Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -29,8 +29,12 @@
           <Note>updated Authors, SAB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2025-12-03T17:30:50Z</ReleaseDate>
-          <Note>Added MetadataRightsList. Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
+          <ReleaseDate>2026-03-22T08:23:41.654Z</ReleaseDate>
+          <Note>Adding ParticleType. JMW</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-05-15T14:52:40Z</ReleaseDate>
+          <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. Updated PublishedBy name to match ROR Registry. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>
@@ -55,7 +59,7 @@ As part of the development of collaboration with the broader Heliophysics commun
       <PublicationInfo>
         <Authors>Whittlesey, Phyllis; Larson, Davin E.; Rahmati, Ali; Romeo, Orlando M.</Authors>
         <PublicationDate>2020-01-01T00:00:00</PublicationDate>
-        <PublishedBy>NASA Space Physics Data Facility</PublishedBy>
+        <PublishedBy>Space Physics Data Facility</PublishedBy>
       </PublicationInfo>
       <Contact>
         <PersonID>spase://SMWG/Person/Justin.C.Kasper</PersonID>
@@ -76,12 +80,12 @@ As part of the development of collaboration with the broader Heliophysics commun
       </InformationURL>
       <InformationURL>
         <Name>PSP SWEAP home page, SAO</Name>
-        <URL>http://sweap.cfa.harvard.edu</URL>
+        <URL>https://sweap.cfa.harvard.edu</URL>
         <Description>Parker Solar Probe, PSP, SWEAP home page, Smithsonian Astrophysical Observatory</Description>
       </InformationURL>
       <InformationURL>
         <Name>PSP SWEAP Data Access web site, SAO</Name>
-        <URL>http://sweap.cfa.harvard.edu/Data.html</URL>
+        <URL>https://sweap.cfa.harvard.edu/Data.html</URL>
         <Description>Parker Solar Probe, PSP, SWEAP Data Access web site, Smithsonian Astrophysical Observatory</Description>
       </InformationURL>
       <PriorID>spase://VSPO/NumericalData/ParkerSolarProbe/SWEAP/SPAN-E/Level3/PitchAngleDistribution/PT13.981S</PriorID>
@@ -90,6 +94,16 @@ As part of the development of collaboration with the broader Heliophysics commun
       <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
+      <RightsList>
+        <Rights>
+          <SchemeURI>https://spdx.org/licenses/</SchemeURI>
+          <RightsIdentifierScheme>SPDX</RightsIdentifierScheme>
+          <RightsIdentifier>CC0-1.0</RightsIdentifier>
+          <RightsURI>https://spdx.org/licenses/CC0-1.0.html</RightsURI>
+          <RightsName>Creative Commons Zero v1.0 Universal</RightsName>
+          <Note>CC0 1.0 Universal is the Creative Commons license applicable to all publicly available NASA Heliophysics data products</Note>
+        </Rights>
+      </RightsList>
       <AccessURL>
         <Name>FTPS from SPDF (not with most browsers)</Name>
         <URL>ftps://spdf.gsfc.nasa.gov/pub/data/psp/sweap/spe/l3/spe_sf0_pad/</URL>
@@ -114,6 +128,16 @@ As part of the development of collaboration with the broader Heliophysics commun
       <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
+      <RightsList>
+        <Rights>
+          <SchemeURI>https://spdx.org/licenses/</SchemeURI>
+          <RightsIdentifierScheme>SPDX</RightsIdentifierScheme>
+          <RightsIdentifier>CC0-1.0</RightsIdentifier>
+          <RightsURI>https://spdx.org/licenses/CC0-1.0.html</RightsURI>
+          <RightsName>Creative Commons Zero v1.0 Universal</RightsName>
+          <Note>CC0 1.0 Universal is the Creative Commons license applicable to all publicly available NASA Heliophysics data products</Note>
+        </Rights>
+      </RightsList>
       <AccessURL>
         <Name>CDAWeb HAPI Server</Name>
         <URL>https://cdaweb.gsfc.nasa.gov/hapi</URL>
@@ -399,6 +423,7 @@ As part of the development of collaboration with the broader Heliophysics commun
       </Structure>
       <FillValue>nan</FillValue>
       <Particle>
+        <ParticleType>Electron</ParticleType>
         <Qualifier>Array</Qualifier>
         <Qualifier>Total</Qualifier>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
@@ -425,6 +450,7 @@ As part of the development of collaboration with the broader Heliophysics commun
       <ValidMax>180.0</ValidMax>
       <FillValue>nan</FillValue>
       <Particle>
+        <ParticleType>Electron</ParticleType>
         <Qualifier>Array</Qualifier>
         <Qualifier>DirectionAngle.PolarAngle</Qualifier>
         <ParticleQuantity>ArrivalDirection</ParticleQuantity>
@@ -478,6 +504,7 @@ As part of the development of collaboration with the broader Heliophysics commun
       <ValidMax>1.0e+12</ValidMax>
       <FillValue>nan</FillValue>
       <Particle>
+        <ParticleType>Electron</ParticleType>
         <Qualifier>Array</Qualifier>
         <Qualifier>Differential</Qualifier>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
@@ -519,6 +546,7 @@ As part of the development of collaboration with the broader Heliophysics commun
         <Size>32 12</Size>
       </Structure>
       <Particle>
+        <ParticleType>Electron</ParticleType>
         <Qualifier>Array</Qualifier>
         <Qualifier>Total</Qualifier>
         <ParticleQuantity>Counts</ParticleQuantity>
