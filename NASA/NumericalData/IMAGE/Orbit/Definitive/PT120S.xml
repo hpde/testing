@@ -17,7 +17,8 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>IMAGE Definitive Orbit Data</ResourceName>
-      <ReleaseDate>2025-12-04T13:29:32Z</ReleaseDate>
+      <DOI>https://doi.org/10.48322/xp4c-3j37</DOI>
+      <ReleaseDate>2026-06-26T13:17:50Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -31,11 +32,24 @@
           <ReleaseDate>2025-12-04T13:29:32Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-02-06T12:16:45Z</ReleaseDate>
+          <Note>Added DOI and publication info</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-26T13:17:50Z</ReleaseDate>
+          <Note>Add 'Z' to RevisionEvent:ReleaseDate(s), TemporalDescription:TimeSpan:StartDate, TemporalDescription:TimeSpan:StopDate. ZCB</Note>
+        </RevisionEvent>
       </RevisionHistory>
       <Description>IMAGE Definitive Orbit Data, GSE and GSM Coordinates</Description>
+      <PublicationInfo>
+        <Authors>Burch, James, L.</Authors>
+        <PublicationDate>2024-04-25T20:13:05Z</PublicationDate>
+        <PublishedBy>Space Physics Data Facility</PublishedBy>
+      </PublicationInfo>
       <Contact>
         <PersonID>spase://SMWG/Person/James.L.Burch</PersonID>
-        <Role>GeneralContact</Role>
+        <Role>PrincipalInvestigator</Role>
       </Contact>
       <PriorID>spase://VSPO/NumericalData/P_IMAGE_HDR_DEFORBIT_120S</PriorID>
       <PriorID>spase://VSPO/NumericalData/IMAGE/Orbit/Definitive/PT120S</PriorID>
@@ -102,8 +116,8 @@
     <MeasurementType>Ephemeris</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
-        <StartDate>2000-03-27T00:00:00</StartDate>
-        <StopDate>2004-06-21T00:00:00</StopDate>
+        <StartDate>2000-03-27T00:00:00Z</StartDate>
+        <StopDate>2004-06-21T00:00:00Z</StopDate>
         <Note>Data are current to within about a week.</Note>
       </TimeSpan>
       <Cadence>PT120S</Cadence>
@@ -112,7 +126,6 @@
     <ObservedRegion>Earth.NearSurface.Plasmasphere</ObservedRegion>
     <ObservedRegion>Earth.NearSurface.AuroralRegion</ObservedRegion>
     <ObservedRegion>Earth.NearSurface.PolarCap</ObservedRegion>
-    <!--InstrumentRegion=Heliosphere.NearEarth-->
     <Parameter>
       <Name>Epoch Time</Name>
       <ParameterKey>Epoch</ParameterKey>
@@ -126,7 +139,6 @@
         <SupportQuantity>Temporal</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- begin GEI parameters -->
     <Parameter>
       <Name>GEI position</Name>
       <ParameterKey>XYZ_GEI</ParameterKey>
@@ -196,8 +208,6 @@
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end GEI parameters -->
-    <!-- begin J2000 parameters -->
     <Parameter>
       <Name>J2000 position</Name>
       <ParameterKey>XYZ_J2000</ParameterKey>
@@ -267,8 +277,6 @@
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end J2000 parameters -->
-    <!-- begin GEO parameters -->
     <Parameter>
       <Name>GEO position</Name>
       <ParameterKey>XYZ_GEO</ParameterKey>
@@ -350,8 +358,6 @@
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end GEO parameters -->
-    <!-- begin GM parameters -->
     <Parameter>
       <Name>GM position</Name>
       <ParameterKey>XYZ_GM</ParameterKey>
@@ -433,8 +439,6 @@
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end GM parameters -->
-    <!-- begin GSE parameters -->
     <Parameter>
       <Name>GSE position</Name>
       <ParameterKey>XYZ_GSE</ParameterKey>
@@ -516,8 +520,6 @@
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end GSE parameters -->
-    <!-- begin GSM parameters -->
     <Parameter>
       <Name>GSM position</Name>
       <ParameterKey>XYZ_GSM</ParameterKey>
@@ -587,8 +589,6 @@
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end GSM parameters -->
-    <!-- begin SM parameters -->
     <Parameter>
       <Name>SM position</Name>
       <ParameterKey>XYZ_SM</ParameterKey>
@@ -670,9 +670,6 @@
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end SM parameters -->
-    <!-- begin Additional Options -->
-    <!-- begin Regions -->
     <Parameter>
       <Name>Space Region</Name>
       <ParameterKey>SPACECRAFT_REGIONS</ParameterKey>
@@ -721,8 +718,6 @@
         <SupportQuantity>Other</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end Regions -->
-    <!-- begin Values -->
     <Parameter>
       <Name>Radial Distance</Name>
       <ParameterKey>RADIUS</ParameterKey>
@@ -775,8 +770,6 @@
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end Values -->
-    <!-- begin Distance From -->
     <Parameter>
       <Name>Distance to neutral sheet</Name>
       <ParameterKey>DNEUTS</ParameterKey>
@@ -849,10 +842,6 @@
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
     </Parameter>
-    <!-- end Distance From -->
-    <!-- end Additional Options -->
-    <!-- begin B Field Trace Output Options -->
-    <!-- begin GEO B Field trace footpoint parameters -->
     <Parameter>
       <Name>North Hemisphere B Trace GEO latitude</Name>
       <ParameterKey>NorthBtrace_GEO_LAT</ParameterKey>
@@ -945,8 +934,6 @@
         <SupportQuantity>Other</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end GEO B Field trace footpoint parameters -->
-    <!-- begin GM B Field trace footpoint parameters -->
     <Parameter>
       <Name>North Hemisphere B Trace GM latitude</Name>
       <ParameterKey>NorthBtrace_GM_LAT</ParameterKey>
@@ -1039,7 +1026,5 @@
         <SupportQuantity>Other</SupportQuantity>
       </Support>
     </Parameter>
-    <!-- end GM B Field trace footpoint parameters -->
-    <!-- end B Field Trace Output Options -->
   </NumericalData>
 </Spase>

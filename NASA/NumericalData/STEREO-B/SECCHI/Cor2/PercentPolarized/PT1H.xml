@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema  https://www.spase-group.org/data/schema/spase-2.7.1.xsd">
-  <Version>2.7.1</Version>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema  https://www.spase-group.org/data/schema/spase-2.7.2.xsd">
+  <Version>2.7.2</Version>
   <MetadataRightsList>
     <Rights>
       <SchemeURI>https://spdx.org/licenses/</SchemeURI>
@@ -18,14 +18,14 @@
     <ResourceHeader>
       <ResourceName>STEREO SECCHI Cor2 telescopes P0 FITS files</ResourceName>
       <DOI>https://doi.org/10.48322/fw1y-a708</DOI>
-      <ReleaseDate>2025-12-04T13:31:40Z</ReleaseDate>
+      <ReleaseDate>2026-07-28T15:31:03Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
-          <ReleaseDate>2022-02-24T12:34:56.789</ReleaseDate>
+          <ReleaseDate>2022-02-24T12:34:56.789Z</ReleaseDate>
           <Note>STEREO SECCHI: Initial SPASE XML resource description submission. Metadata submitted by A. Vourlidas on 2022-02-19, reviewed by LFB</Note>
         </RevisionEvent>
         <RevisionEvent>
-          <ReleaseDate>2023-12-06T00:08:46</ReleaseDate>
+          <ReleaseDate>2023-12-06T00:08:46Z</ReleaseDate>
           <Note>Updated ResourceID by SY</Note>
         </RevisionEvent>
         <RevisionEvent>
@@ -40,12 +40,24 @@
           <ReleaseDate>2025-12-04T13:31:40Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Updated to 2.7.1. ZCB</Note>
         </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-26T13:28:36Z</ReleaseDate>
+          <Note>Add 'Z' to RevisionEvent:ReleaseDate(s), PublicationDate. ZCB</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-07-21T12:07:30Z</ReleaseDate>
+          <Note>Added HelioData InformationURL. JWL</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-07-28T15:31:03Z</ReleaseDate>
+          <Note>Add 'Z' to Contact:StartDate. ZCB</Note>
+        </RevisionEvent>
       </RevisionHistory>
       <Description>Percent Polarized data from STEREO SECCHI, Sun Earth Connection Coronal and Heliospheric Investigation, Cor2 telescopes at 1 hr cadence (except for special observing campaigns) and full resolution (2048²). The data are generally available within about three days.</Description>
       <Acknowledgement>Please note that all of the SECCHI data is free for public use, but if you use them in presentations, published work, websites, etc, please give the appropriate image credits ("STEREO/SECCHI" will usually suffice).</Acknowledgement>
       <PublicationInfo>
         <Authors>Howard, R.A., J.D. Moses, A. Vourlidas, et al.</Authors>
-        <PublicationDate>2008-04-01T00:00:00</PublicationDate>
+        <PublicationDate>2008-04-01T00:00:00Z</PublicationDate>
         <PublishedBy>Goddard Space Flight Center</PublishedBy>
       </PublicationInfo>
       <Funding>
@@ -55,13 +67,13 @@
       <Contact>
         <PersonID>spase://SMWG/Person/Brian.Wood</PersonID>
         <Role>PrincipalInvestigator</Role>
-        <StartDate>2020-01-01T00:00:00</StartDate>
+        <StartDate>2020-01-01T00:00:00Z</StartDate>
       </Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Angelos.Vourlidas</PersonID>
         <Role>MetadataContact</Role>
         <Role>ProjectScientist</Role>
-        <StartDate>2007-01-01T00:00:00</StartDate>
+        <StartDate>2007-01-01T00:00:00Z</StartDate>
       </Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/William.T.Thompson</PersonID>
@@ -80,6 +92,11 @@
         <URL>https://link.springer.com/article/10.1007%2Fs11214-008-9341-4</URL>
         <Description>The SECCHI instrument paper has general information on data products: Howard, R.A., J.D. Moses, A. Vourlidas, et al., Sun Earth Connection Coronal and Heliospheric Investigation (SECCHI). Space Sci. Rev., 136, 67, 2008. (https://doi.org/10.1007/s11214-008-9341-4)</Description>
         <Language>en</Language>
+      </InformationURL>
+      <InformationURL>
+        <Name>HelioData</Name>
+        <URL>https://helio.data.nasa.gov/dataset/STEREO-B_SECCHI_Cor2_PercentPolarized_PT1H</URL>
+        <Description>The HelioData dataset page provides an overview of the dataset with access links, associated variables, and more.</Description>
       </InformationURL>
       <PriorID>spase://VSPO/NumericalData/STEREO-A/SECCHI/P0</PriorID>
       <PriorID>spase://VSPO/NumericalData/STEREO-B/SECCHI/P0</PriorID>

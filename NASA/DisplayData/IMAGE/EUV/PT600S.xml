@@ -17,7 +17,8 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>IMAGE EUV Key Parameters: Ion Images</ResourceName>
-      <ReleaseDate>2025-12-04T13:27:58Z</ReleaseDate>
+      <DOI>https://doi.org/10.48322/hvkd-dr30</DOI>
+      <ReleaseDate>2026-06-26T15:10:46Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -27,8 +28,25 @@
           <ReleaseDate>2025-12-04T13:27:58Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-02-05T15:33:19Z</ReleaseDate>
+          <Note>Added DOI and publication info</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-26T15:10:46Z</ReleaseDate>
+          <Note>Add 'Z' to TemporalDescription:TimeSpan:StartDate, TemporalDescription:TimeSpan:StopDate. ZCB</Note>
+        </RevisionEvent>
       </RevisionHistory>
       <Description>IMAGE EUV Key Parameters, Ion Images, 10-min resolution</Description>
+      <PublicationInfo>
+        <Authors>Burch, James, L.</Authors>
+        <PublicationDate>2024-04-25T19:34:05Z</PublicationDate>
+        <PublishedBy>Space Physics Data Facility</PublishedBy>
+      </PublicationInfo>
+      <Contact>
+        <PersonID>spase://SMWG/Person/James.L.Burch</PersonID>
+        <Role>PrincipalInvestigator</Role>
+      </Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Bill.Roy.Sandel</PersonID>
         <Role>GeneralContact</Role>
@@ -49,7 +67,6 @@
         <Rights>
           <SchemeURI>https://spdx.org/licenses/</SchemeURI>
           <RightsIdentifierScheme>SPDX</RightsIdentifierScheme>
-          <RightsIdentifier>CC0-1.0</RightsIdentifier>
           <RightsURI>https://spdx.org/licenses/CC0-1.0.html</RightsURI>
           <RightsName>Creative Commons Zero v1.0 Universal</RightsName>
           <Note>CC0 1.0 Universal is the Creative Commons license applicable to all publicly available NASA Heliophysics data products</Note>
@@ -79,7 +96,6 @@
         <Rights>
           <SchemeURI>https://spdx.org/licenses/</SchemeURI>
           <RightsIdentifierScheme>SPDX</RightsIdentifierScheme>
-          <RightsIdentifier>CC0-1.0</RightsIdentifier>
           <RightsURI>https://spdx.org/licenses/CC0-1.0.html</RightsURI>
           <RightsName>Creative Commons Zero v1.0 Universal</RightsName>
           <Note>CC0 1.0 Universal is the Creative Commons license applicable to all publicly available NASA Heliophysics data products</Note>
@@ -99,8 +115,8 @@
     <MeasurementType>ImageIntensity</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
-        <StartDate>2000-03-28T00:00:00</StartDate>
-        <StopDate>2005-12-18T00:00:00</StopDate>
+        <StartDate>2000-03-28T00:00:00Z</StartDate>
+        <StopDate>2005-12-18T00:00:00Z</StopDate>
       </TimeSpan>
     </TemporalDescription>
     <SpectralRange>Ultraviolet</SpectralRange>

@@ -17,7 +17,8 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 1 Jupiter Low Energy Charged Particle (LECP) Far Encounter, Step Period, 3.2 min Data</ResourceName>
-      <ReleaseDate>2026-04-10T10:04:06Z</ReleaseDate>
+      <DOI>https://doi.org/10.48322/0rx3-1165</DOI>
+      <ReleaseDate>2026-06-26T13:30:56Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:53Z</ReleaseDate>
@@ -34,6 +35,14 @@
         <RevisionEvent>
           <ReleaseDate>2026-04-10T10:04:06Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-11T14:42:43Z</ReleaseDate>
+          <Note>Added DOI. tlk</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-26T13:30:56Z</ReleaseDate>
+          <Note>Add 'Z' to TemporalDescription:TimeSpan:StartDate, TemporalDescription:TimeSpan:StopDate. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>* Data Set Overview
@@ -182,8 +191,8 @@ To determine the Energy Bandpass, one must judge the Mass Species of the detecte
     <MeasurementType>EnergeticParticles</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
-        <StartDate>1979-02-22T00:00:11.77</StartDate>
-        <StopDate>1979-03-20T23:59:38.60</StopDate>
+        <StartDate>1979-02-22T00:00:11.77Z</StartDate>
+        <StopDate>1979-03-20T23:59:38.60Z</StopDate>
       </TimeSpan>
       <Cadence>PT3M12S</Cadence>
     </TemporalDescription>

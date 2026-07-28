@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.spase-group.org/data/schema https://www.spase-group.org/data/schema/spase-2.7.1.xsd">
+  <Version>2.7.1</Version>
+  <Person>
+    <ResourceID>spase://SMWG/Person/Michael.L.Stevens</ResourceID>
+    <NamingAuthority>SMWG</NamingAuthority>
+    <ResourceType>Person</ResourceType>
+    <ReleaseDate>2017-07-25T00:00:00.000Z</ReleaseDate>
+    <PersonName>Michael Louis Stevens</PersonName>
+    <OrganizationName>Harvard-Smithsonian Center for Astrophysics</OrganizationName>
+  </Person>
+</Spase>

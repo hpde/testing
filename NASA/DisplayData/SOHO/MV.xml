@@ -17,7 +17,8 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>SOHO Solar Coronal and UV Movies</ResourceName>
-      <ReleaseDate>2026-04-10T10:03:40Z</ReleaseDate>
+      <DOI>https://doi.org/10.48322/46kg-2d60</DOI>
+      <ReleaseDate>2026-06-26T15:10:52Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T19:48:37Z</ReleaseDate>
@@ -34,6 +35,14 @@
         <RevisionEvent>
           <ReleaseDate>2026-04-10T10:03:40Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-04-17T15:38:27Z</ReleaseDate>
+          <Note>Added DOI. tlk</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-26T15:10:52Z</ReleaseDate>
+          <Note>Add 'Z' to TemporalDescription:TimeSpan:StartDate. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>Movies from the SOHO LASCO and EIT dectors of the Sun's atmosphere</Description>
@@ -108,7 +117,7 @@
     <MeasurementType>ImageIntensity</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
-        <StartDate>1996-01-01T00:00:00</StartDate>
+        <StartDate>1996-01-01T00:00:00Z</StartDate>
         <RelativeStopDate>-P1D</RelativeStopDate>
         <Note>Data are current to within a day.</Note>
       </TimeSpan>

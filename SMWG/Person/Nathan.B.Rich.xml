@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Spase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.spase-group.org/data/schema" xsi:schemaLocation="https://www.spase-group.org/data/schema https://www.spase-group.org/data/schema/spase-2.7.1.xsd">
+  <Version>2.7.1</Version>
+  <Person>
+    <ResourceID>spase://SMWG/Person/Nathan.B.Rich</ResourceID>
+    <NamingAuthority>SMWG</NamingAuthority>
+    <ResourceType>Person</ResourceType>
+    <ReleaseDate>2023-05-03T00:08:46Z</ReleaseDate>
+    <PersonName>Nathan B Rich</PersonName>
+    <OrganizationName>US Naval Research Laboratory</OrganizationName>
+  </Person>
+</Spase>

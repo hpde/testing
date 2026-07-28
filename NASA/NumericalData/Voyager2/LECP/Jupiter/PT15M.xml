@@ -17,7 +17,8 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 2 Jupiter Low Energy Charged Particle (LECP) Calibrated, Resampled, Sectored, Version 1.1, 15 min Data</ResourceName>
-      <ReleaseDate>2026-04-10T10:04:11Z</ReleaseDate>
+      <DOI>https://doi.org/10.48322/fph0-g047</DOI>
+      <ReleaseDate>2026-06-26T13:31:17Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:57Z</ReleaseDate>
@@ -34,6 +35,14 @@
         <RevisionEvent>
           <ReleaseDate>2026-04-10T10:04:11Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-11T16:10:01Z</ReleaseDate>
+          <Note>Added DOI. tlk</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-26T13:31:17Z</ReleaseDate>
+          <Note>Add 'Z' to TemporalDescription:TimeSpan:StartDate, TemporalDescription:TimeSpan:StopDate. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>* Data Set Overview
@@ -224,8 +233,8 @@ A measured Parameter equaling the Number of Ions striking a Particle Detector pe
     <MeasurementType>EnergeticParticles</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
-        <StartDate>1979-07-02T07:35:11.00</StartDate>
-        <StopDate>1979-08-03T23:44:45.00</StopDate>
+        <StartDate>1979-07-02T07:35:11.00Z</StartDate>
+        <StopDate>1979-08-03T23:44:45.00Z</StopDate>
       </TimeSpan>
       <Cadence>PT15M</Cadence>
     </TemporalDescription>

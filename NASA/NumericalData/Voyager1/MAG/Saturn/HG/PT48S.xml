@@ -17,7 +17,8 @@
     <ResourceType>NumericalData</ResourceType>
     <ResourceHeader>
       <ResourceName>Voyager 1 Saturn Magnetic Field in Heliographic RTN Coordinates, Resampled, Version 1.0, 48 s Data</ResourceName>
-      <ReleaseDate>2026-04-10T10:04:07Z</ReleaseDate>
+      <DOI>https://doi.org/10.48322/z8f1-bk63</DOI>
+      <ReleaseDate>2026-06-26T13:31:01Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2020-07-07T21:15:54Z</ReleaseDate>
@@ -34,6 +35,14 @@
         <RevisionEvent>
           <ReleaseDate>2026-04-10T10:04:07Z</ReleaseDate>
           <Note>Added PublicationInfo. ZCB</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-11T16:09:50Z</ReleaseDate>
+          <Note>Added DOI. tlk</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-26T13:31:01Z</ReleaseDate>
+          <Note>Add 'Z' to TemporalDescription:TimeSpan:StartDate, TemporalDescription:TimeSpan:StopDate. ZCB</Note>
         </RevisionEvent>
       </RevisionHistory>
       <Description>* Data Set Overview
@@ -153,8 +162,8 @@ The Data Files are given in ASCII, Fixed Field Width, Comma-delimited Tables. Th
     <MeasurementType>MagneticField</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
-        <StartDate>1980-11-10T00:00:34.92</StartDate>
-        <StopDate>1980-11-20T23:59:47.06</StopDate>
+        <StartDate>1980-11-10T00:00:34.92Z</StartDate>
+        <StopDate>1980-11-20T23:59:47.06Z</StopDate>
       </TimeSpan>
       <Cadence>PT48S</Cadence>
     </TemporalDescription>

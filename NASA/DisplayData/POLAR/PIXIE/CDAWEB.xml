@@ -17,7 +17,8 @@
     <ResourceType>DisplayData</ResourceType>
     <ResourceHeader>
       <ResourceName>Polar PIXIE Auroral X-ray Plots and Movies, CDAWeb</ResourceName>
-      <ReleaseDate>2025-12-04T13:28:00Z</ReleaseDate>
+      <DOI>https://doi.org/10.48322/jvzr-jt65</DOI>
+      <ReleaseDate>2026-06-26T15:10:50Z</ReleaseDate>
       <RevisionHistory>
         <RevisionEvent>
           <ReleaseDate>2021-04-27T15:38:11Z</ReleaseDate>
@@ -27,11 +28,25 @@
           <ReleaseDate>2025-12-04T13:28:00Z</ReleaseDate>
           <Note>Added MetadataRightsList and RightsList(s). Added ResourceType and NamingAuthority. Updated to 2.7.1. Changed http to https in top-level schemaLocation attribute. Fixed version number separator in top-level schemaLocation attribute. ZCB</Note>
         </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-02-06T12:35:37Z</ReleaseDate>
+          <Note>Added DOI and Publication Info TLK</Note>
+        </RevisionEvent>
+        <RevisionEvent>
+          <ReleaseDate>2026-06-26T15:10:50Z</ReleaseDate>
+          <Note>Add 'Z' to RevisionEvent:ReleaseDate(s), TemporalDescription:TimeSpan:StartDate, TemporalDescription:TimeSpan:StopDate. ZCB</Note>
+        </RevisionEvent>
       </RevisionHistory>
       <Description>Polar PIXIE Auroral X-Ray Plots and Movies, CDAWeb</Description>
+      <PublicationInfo>
+        <Authors>Chenette, David, L.</Authors>
+        <PublicationDate>2025-04-25T20:29:03.000Z</PublicationDate>
+        <PublishedBy>Space Physics Data Facility</PublishedBy>
+      </PublicationInfo>
       <Contact>
         <PersonID>spase://SMWG/Person/David.L.Chenette</PersonID>
         <Role>GeneralContact</Role>
+        <Role>PrincipalInvestigator</Role>
       </Contact>
       <PriorID>spase://VSPO/DisplayData/P_POLAR_HDR_PIXIE_CDAWEB</PriorID>
       <PriorID>spase://VSPO/DisplayData/POLAR/PIXIE/CDAWEB</PriorID>
@@ -94,8 +109,8 @@
     <MeasurementType>ImageIntensity</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
-        <StartDate>1996-03-19T00:00:00</StartDate>
-        <StopDate>2002-11-09T00:00:00</StopDate>
+        <StartDate>1996-03-19T00:00:00Z</StartDate>
+        <StopDate>2002-11-09T00:00:00Z</StopDate>
         <Note>Data may be brought to a more current state.</Note>
       </TimeSpan>
     </TemporalDescription>
